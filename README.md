@@ -684,27 +684,39 @@ Survey[JuliaPDE/SurveyofPDEPackages: Survey of the packages of the Julia ecosyst
 
 [JuliaFEM](https://github.com/JuliaFEM)
 
-## Model Evaluation
+## 3.8. Scientific Machine Learning (Differential Equation and ML)
 
-### Structure Idendification
+### 3.8.1. Universal  Differential Equations. (Neural differential equations)
 Julia:
 
-[SciML/StructuralIdentifiability.jl](https://github.com/SciML/StructuralIdentifiability.jl)
-
-### Global Sensitivity Anylysis
-Julia:
-
-[lrennels/GlobalSensitivityAnalysis.jl: Julia implementations of global sensitivity analysis methods.](https://github.com/lrennels/GlobalSensitivityAnalysis.jl)
-
-[SciML/GlobalSensitivity.jl](https://github.com/SciML/GlobalSensitivity.jl)
-
-[SciML/DiffEqSensitivity.jl: A component of the DiffEq ecosystem for enabling sensitivity analysis for scientific machine learning (SciML). Optimize-then-discretize, discretize-then-optimize, and more for ODEs, SDEs, DDEs, DAEs, etc.](https://github.com/SciML/DiffEqSensitivity.jl)
+[SciML/DiffEqFlux.jl: Universal neural differential equations with O(1) backprop, GPUs, and stiff+non-stiff DE solvers, demonstrating scientific machine learning (SciML) and physics-informed machine learning methods](https://github.com/SciML/DiffEqFlux.jl)
 
 Python:
 
-[SALib/SALib: Sensitivity Analysis Library in Python. Contains Sobol, Morris, FAST, and other methods.](https://github.com/SALib/SALib)
+[DiffEqML/torchdyn: A PyTorch based library for all things neural differential equations and implicit neural models.](https://github.com/DiffEqML/torchdyn)
 
-## Data Driven Methods (Equation Searching Methods)
+[rtqichen/torchdiffeq: Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.](https://github.com/rtqichen/torchdiffeq)
+
+### 3.8.2. Physical Informed Neural Netwworks
+Julia:
+
+[SciML/NeuralPDE.jl: Physics-Informed Neural Networks (PINN) and Deep BSDE Solvers of Differential Equations for Scientific Machine Learning (SciML) accelerated simulation](https://github.com/SciML/NeuralPDE.jl)
+
+Python:
+
+[lululxvi/deepxde: Deep learning library for solving differential equations and more](https://github.com/lululxvi/deepxde)
+
+[sciann/sciann: Deep learning for Engineers - Physics Informed Deep Learning](https://github.com/sciann/sciann)
+
+
+
+### 3.8.3. Neural Operator
+Julia:
+
+[foldfelis/NeuralOperators.jl: learning the solution operator for partial differential equations in pure Julia.](https://github.com/foldfelis/NeuralOperators.jl)
+
+
+## 3.9. Data Driven Methods (Equation Searching Methods)
 
 Julia package including SINDy, Symbolic Regression, DMD
 
@@ -712,7 +724,7 @@ Julia package including SINDy, Symbolic Regression, DMD
 
 [nmheim/NeuralArithmetic.jl: Collection of layers that can perform arithmetic operations](https://github.com/nmheim/NeuralArithmetic.jl)
 
-### Symbolic Regression
+### 3.9.1. Symbolic Regression
 Python:
 
 [trevorstephens/gplearn: Genetic Programming in Python, with a scikit-learn inspired API](https://github.com/trevorstephens/gplearn)
@@ -725,19 +737,41 @@ Julia:
 
 [sisl/ExprOptimization.jl: Algorithms for optimization of Julia expressions](https://github.com/sisl/ExprOptimization.jl)
 
-### SINDy (Sparse Identification of Nonlinear Dynamics from Data)
+### 3.9.2. SINDy (Sparse Identification of Nonlinear Dynamics from Data)
 [dynamicslab/pysindy: A package for the sparse identification of nonlinear dynamical systems from data](https://github.com/dynamicslab/pysindy)
 
 [dynamicslab/modified-SINDy: Example code for paper: Automatic Differentiation to Simultaneously Identify Nonlinear Dynamics and Extract Noise Probability Distributions from Data](https://github.com/dynamicslab/modified-SINDy)
 
-### DMD (Dynamic Mode Decomposition)
+### 3.9.3. DMD (Dynamic Mode Decomposition)
 [mathLab/PyDMD: Python Dynamic Mode Decomposition](https://github.com/mathLab/PyDMD)
 
 
 [foldfelis/NeuralOperators.jl: learning the solution operator for partial differential equations in pure Julia.](https://github.com/foldfelis/NeuralOperators.jl)
-# Theoretical Analysis
 
-## Bifurcation
+## 3.10. Model Evaluation
+
+### 3.10.1. Structure Idendification
+Julia:
+
+[SciML/StructuralIdentifiability.jl](https://github.com/SciML/StructuralIdentifiability.jl)
+
+### 3.10.2. Global Sensitivity Anylysis
+Julia:
+
+[lrennels/GlobalSensitivityAnalysis.jl: Julia implementations of global sensitivity analysis methods.](https://github.com/lrennels/GlobalSensitivityAnalysis.jl)
+
+[SciML/GlobalSensitivity.jl](https://github.com/SciML/GlobalSensitivity.jl)
+
+[SciML/DiffEqSensitivity.jl: A component of the DiffEq ecosystem for enabling sensitivity analysis for scientific machine learning (SciML). Optimize-then-discretize, discretize-then-optimize, and more for ODEs, SDEs, DDEs, DAEs, etc.](https://github.com/SciML/DiffEqSensitivity.jl)
+
+Python:
+
+[SALib/SALib: Sensitivity Analysis Library in Python. Contains Sobol, Morris, FAST, and other methods.](https://github.com/SALib/SALib)
+
+
+# 4. Theoretical Analysis
+
+## 4.1. Bifurcation
 [rveltz/BifurcationKit.jl: A Julia package to perform Bifurcation Analysis](https://github.com/rveltz/BifurcationKit.jl)
 
-# Writings, Blog and Web
+# 5. Writings, Blog and Web
