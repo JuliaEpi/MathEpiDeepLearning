@@ -14,7 +14,20 @@ such as calculus, bifurcation analysis
 # 1. Data Preprocessing
 
 
+## 1.1. Data Science
+Julia: 
 
+[JuliaData](https://github.com/JuliaData)
+
+[Queryverse](https://github.com/queryverse)
+
+[JuliaDatabases](https://github.com/JuliaDatabases)
+
+Python:
+
+Numpy
+
+Pandas
 
 
 ## Smoothing
@@ -91,6 +104,32 @@ Python:
 
 [CamDavidsonPilon/lifelines: Survival analysis in Python](https://github.com/camDavidsonPilon/lifelines)
 
+## 2.4. Data Visulization
+Julia:
+
+[JuliaPlots](https://github.com/JuliaPlots)
+
+[GiovineItalia/Gadfly.jl: Crafty statistical graphics for Julia.](https://github.com/GiovineItalia/Gadfly.jl)
+
+[queryverse/VegaLite.jl: Julia bindings to Vega-Lite](https://github.com/queryverse/VegaLite.jl)
+
+[JuliaPlots/UnicodePlots.jl: Unicode-based scientific plotting for working in the terminal](https://github.com/JuliaPlots/UnicodePlots.jl)
+
+Colors and Color schemes
+
+[JuliaGraphics/Colors.jl: Color manipulation utilities for Julia](https://github.com/JuliaGraphics/Colors.jl)
+
+[JuliaGraphics/ColorSchemes.jl: colorschemes, colormaps, gradients, and palettes](https://github.com/JuliaGraphics/ColorSchemes.jl)
+
+Interactive
+
+[GenieFramework/Stipple.jl: The reactive UI library for interactive data applications with pure Julia.](https://github.com/GenieFramework/Stipple.jl)
+
+[theogf/Turkie.jl: Turing + Makie = Turkie](https://github.com/theogf/Turkie.jl)
+
+Python:
+
+Matplotlib
 
 # 3. Differential Programing and Data Mining
 
@@ -506,6 +545,8 @@ Julia:
 
 [uncertainty-toolbox/uncertainty-toolbox: A python toolbox for predictive uncertainty quantification, calibration, metrics, and visualization](https://github.com/uncertainty-toolbox/uncertainty-toolbox)
 
+[JuliaPhysics/Measurements.jl: Error propagation calculator and library for physical measurements. It supports real and complex numbers with uncertainty, arbitrary precision calculations, operations with arrays, and numerical integration.](https://github.com/JuliaPhysics/Measurements.jl)
+
 ### 3.4.9. Casual
 [zenna/Omega.jl: Causal, Higher-Order, Probabilistic Programming](https://github.com/zenna/Omega.jl)
 
@@ -771,7 +812,71 @@ Python:
 
 # 4. Theoretical Analysis
 
-## 4.1. Bifurcation
+Julia:
+
+[Julia Math](https://github.com/JuliaMath)
+
+[JuliaApproximation](https://github.com/JuliaApproximation)
+
+Python:
+
+[sympy/sympy: A computer algebra system written in pure Python](https://github.com/sympy/sympy)
+
+## 4.0. Special Functions
+Julia:
+
+[JuliaMath/SpecialFunctions.jl: Special mathematical functions in Julia](https://github.com/JuliaMath/SpecialFunctions.jl)
+
+[JuliaStats/StatsFuns.jl: Mathematical functions related to statistics.](https://github.com/JuliaStats/StatsFuns.jl)
+
+[JuliaStats/LogExpFunctions.jl: Julia package for various special functions based on `log` and `exp`.](https://github.com/JuliaStats/LogExpFunctions.jl)
+
+[Readme · LambertW.jl](https://docs.juliahub.com/LambertW/7mpiq/0.4.5/)
+
+## 4.1. Symbolic Computation
+Julia:
+
+[JuliaSymbolics](https://github.com/JuliaSymbolics)
+
+[JuliaSymbolics/Symbolics.jl: A fast and modern CAS for a fast and modern language.](https://github.com/JuliaSymbolics/Symbolics.jl)
+
+[JuliaPy/SymPy.jl: Julia interface to SymPy via PyCall](https://github.com/JuliaPy/SymPy.jl)
+
+[jlapeyre/Symata.jl: language for symbolic mathematics](https://github.com/jlapeyre/Symata.jl)
+
+[wbhart/AbstractAlgebra.jl: Generic abstract algebra functionality in pure Julia (no C dependencies)](https://github.com/wbhart/AbstractAlgebra.jl)
+
+[rjrosati/SymbolicTensors.jl: Manipulate tensors symbolically in Julia! Currently needs a SymPy dependency, but work is ongoing to change the backend to SymbolicUtils.jl](https://github.com/rjrosati/SymbolicTensors.jl)
+
+Python:
+
+[sympy/sympy: A computer algebra system written in pure Python](https://github.com/sympy/sympy)
+
+## 4.3. Roots, Intepolations
+
+### 4.3.1. Roots
+Julia:
+
+[JuliaMath/Roots.jl: Root finding functions for Julia](https://github.com/JuliaMath/Roots.jl)
+
+[PolynomialRoots · Julia Packages](https://juliapackages.com/p/polynomialroots)
+
+[JuliaNLSolvers/NLsolve.jl: Julia solvers for systems of nonlinear equations and mixed complementarity problems](https://github.com/JuliaNLSolvers/NLsolve.jl)
+
+### 4.3.2. Intepolations
+Julia:
+
+[JuliaMath/Interpolations.jl: Fast, continuous interpolation of discrete datasets in Julia](https://github.com/JuliaMath/Interpolations.jl)
+
+[kbarbary/Dierckx.jl: Julia package for 1-d and 2-d splines](https://github.com/kbarbary/Dierckx.jl)
+
+[sisl/GridInterpolations.jl: Multidimensional grid interpolation in arbitrary dimensions](https://github.com/sisl/GridInterpolations.jl)
+
+[floswald/ApproXD.jl: B-splines and linear approximators in multiple dimensions for Julia](https://github.com/floswald/ApproXD.jl)
+
+[sostock/BSplines.jl: A Julia package for working with B-splines](https://github.com/sostock/BSplines.jl)
+
+## 4.2. Bifurcation
 [rveltz/BifurcationKit.jl: A Julia package to perform Bifurcation Analysis](https://github.com/rveltz/BifurcationKit.jl)
 
 # 5. Writings, Blog and Web
