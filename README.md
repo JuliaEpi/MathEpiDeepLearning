@@ -425,7 +425,13 @@ Python:
 
 [guofei9987/scikit-opt: Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Optimization Algorithm,Immune Algorithm, Artificial Fish Swarm Algorithm, Differential Evolution and TSP(Traveling salesman)](https://github.com/guofei9987/scikit-opt)
 
+[scikit-optimize/scikit-optimize: Sequential model-based optimization with a `scipy.optimize` interface](https://github.com/scikit-optimize/scikit-optimize)
+
 [ac-tuwien/pymhlib: pymhlib - A Toolbox for Metaheuristics and Hybrid Optimization Methods](https://github.com/ac-tuwien/pymhlib)
+
+[cvxpy/cvxpy: A Python-embedded modeling language for convex optimization problems.](https://github.com/cvxpy/cvxpy)
+
+[coin-or/pulp: A python Linear Programming API](https://github.com/coin-or/pulp)
 
 ### <span id="head26">3.2.2. Evolution Stragegy</span>
 
@@ -479,6 +485,14 @@ InfiniteOpt is powerfull!!!
 
 [JuliaMPC/NLOptControl.jl: nonlinear control optimization tool](https://github.com/JuliaMPC/NLOptControl.jl)
 
+Python:
+
+casadi is powerful!
+
+[python-control/python-control: The Python Control Systems Library is a Python module that implements basic operations for analysis and design of feedback control systems.](https://github.com/python-control/python-control)
+
+
+
 ## <span id="head30">3.4. Bayesian Inference</span>
 
 [StatisticalRethinkingJulia](https://github.com/StatisticalRethinkingJulia)
@@ -507,9 +521,15 @@ Python:
 
 [thu-ml/zhusuan: A probabilistic programming library for Bayesian deep learning, generative models, based on Tensorflow](https://github.com/thu-ml/zhusuan)
 
+[jmschrei/pomegranate: Fast, flexible and easy to use probabilistic modelling in Python.](https://github.com/jmschrei/pomegranate)
+
 ### <span id="head31">3.4.1. MCMC</span>
 
 Methods like HMC, SGLD are Covered by above-mentioned packages.
+
+Python:
+
+[AdamCobb/hamiltorch: PyTorch-based library for Riemannian Manifold Hamiltonian Monte Carlo (RMHMC) and inference in Bayesian neural networks](https://github.com/AdamCobb/hamiltorch)
 
 ### <span id="head32">3.4.2. Approximate Bayesian Computation (ABC)</span>
 
@@ -621,6 +641,8 @@ Python:
 
 [pytorch/botorch: Bayesian optimization in PyTorch](https://github.com/pytorch/botorch)
 
+[optuna/optuna: A hyperparameter optimization framework](https://github.com/optuna/optuna)
+
 ### <span id="head37">3.4.7. Information theory</span>
 
 Julia:
@@ -658,6 +680,7 @@ Julia:
 ### <span id="head42">3.5.1. Machine Learning</span>
 
 Julia: MLJ is enough
+
 [alan-turing-institute/MLJ.jl: A Julia machine learning framework](https://github.com/alan-turing-institute/MLJ.jl)
 
 [JuliaML](https://github.com/JuliaML)
@@ -675,6 +698,18 @@ Python:
 [scikit-learn: machine learning in Python — scikit-learn 1.0.1 documentation](https://scikit-learn.org/stable/)
 
 [automl/auto-sklearn: Automated Machine Learning with scikit-learn](https://github.com/automl/auto-sklearn)
+
+[h2oai/h2o-3: H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Means, PCA, Generalized Additive Models (GAM), RuleFit, Support Vector Machine (SVM), Stacked Ensembles, Automatic Machine Learning (AutoML), etc.](https://github.com/h2oai/h2o-3)
+
+[pycaret/pycaret: An open-source, low-code machine learning library in Python](https://github.com/pycaret/pycaret)
+
+[nubank/fklearn: fklearn: Functional Machine Learning](https://github.com/nubank/fklearn)
+
+Data Generation
+
+[snorkel-team/snorkel: A system for quickly generating training data with weak supervision](https://github.com/snorkel-team/snorkel)
+
+[lk-geimfari/mimesis: Mimesis is a high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages.](https://github.com/lk-geimfari/mimesis)
 
 ### <span id="head43">3.5.2. Deep Learning</span>
 
@@ -694,6 +729,7 @@ Python: Jax, Pytorch, Tensorflow
 
 [tensorflow/tensorflow: An Open Source Machine Learning Framework for Everyone](https://github.com/tensorflow/tensorflow)
 
+[catalyst-team/catalyst: Accelerated deep learning R&D](https://github.com/catalyst-team/catalyst)
 ### <span id="head44">3.5.3. Reinforce Learning</span>
 
 Julia:
@@ -705,6 +741,8 @@ Julia:
 Python:
 
 [ray-project/ray: An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.](https://github.com/ray-project/ray)
+
+[tensorlayer/tensorlayer: Deep Learning and Reinforcement Learning Library for Scientists and Engineers 🔥](https://github.com/tensorlayer/tensorlayer)
 
 ### <span id="head45">3.5.4. GNN</span>
 
@@ -762,6 +800,10 @@ Python:
 
 [OATML/bdl-benchmarks: Bayesian Deep Learning Benchmarks](https://github.com/OATML/bdl-benchmarks)
 
+[pgmpy/pgmpy: Python Library for learning (Structure and Parameter) and inference (Probabilistic and Causal) in Bayesian Networks.](https://github.com/pgmpy/pgmpy)
+
+[scikit-learn-contrib/imbalanced-learn: A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning](https://github.com/scikit-learn-contrib/imbalanced-learn)
+
 ### <span id="head51">3.6.1. GAN</span>
 
 Julia:
@@ -789,6 +831,7 @@ Survey[janosh/awesome-normalizing-flows: A list of awesome resources on normaliz
 [RameenAbdal/StyleFlow: StyleFlow: Attribute-conditioned Exploration of StyleGAN-generated Images using Conditional Continuous Normalizing Flows (ACM TOG 2021)](https://github.com/RameenAbdal/StyleFlow)
 
 ### <span id="head53">3.6.3. VAE</span>
+
 
 ### <span id="head54">3.7. Differential Equations and Scientific Computation</span>
 
