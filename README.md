@@ -792,6 +792,8 @@ Julia:
 
 [mcosovic/FactorGraph.jl: The FactorGraph package provides the set of different functions to perform inference over the factor graph with continuous or discrete random variables using the belief propagation algorithm.](https://github.com/mcosovic/FactorGraph.jl)
 
+[stefan-m-lenz/BoltzmannMachines.jl: A Julia package for training and evaluating multimodal deep Boltzmann machines](https://github.com/stefan-m-lenz/BoltzmannMachines.jl)
+
 Python:
 
 [Probabilistic machine learning](https://github.com/probml)
