@@ -4,6 +4,7 @@
   
   - [1.1. Data Science](#head3)
   - [ Smoothing](#head4)
+  - [Outlier Detection](#head75)
 - [2. Basic Statistics and Data Visualization](#head5)
   
   - [2.1. Statistics](#head6)
@@ -124,6 +125,36 @@ Expotential Smoothing:
 [LAMPSPUC/StateSpaceModels.jl: StateSpaceModels.jl is a Julia package for time-series analysis using state-space models.](https://github.com/LAMPSPUC/StateSpaceModels.jl)
 
 [miguelraz/StagedFilters.jl](https://github.com/miguelraz/StagedFilters.jl)
+
+[JuliaDSP/DSP.jl: Filter design, periodograms, window functions, and other digital signal processing functionality](https://github.com/JuliaDSP/DSP.jl)
+
+[konkam/FeynmanKacParticleFilters.jl: Particle filtering using the Feynman-Kac formalism](https://github.com/konkam/FeynmanKacParticleFilters.jl)
+
+[mschauer/Kalman.jl: Flexible filtering and smoothing in Julia](https://github.com/mschauer/Kalman.jl)
+
+[JuliaStats/Loess.jl: Local regression, so smooooth!](https://github.com/JuliaStats/Loess.jl)
+
+[CliMA/EnsembleKalmanProcesses.jl: Implements Optimization and approximate uncertainty quantification algorithms, Ensemble Kalman Inversion, and Ensemble Kalman Processes.](https://github.com/CliMA/EnsembleKalmanProcesses.jl)
+
+
+## <span id="head75"> Outlier Detection</span>
+Survey[rob-med/awesome-TS-anomaly-detection: List of tools & datasets for anomaly detection on time-series data.](https://github.com/rob-med/awesome-TS-anomaly-detection)
+
+Julia:
+
+[OutlierDetectionJL](https://github.com/OutlierDetectionJL)
+
+[baggepinnen/MatrixProfile.jl: Time-series analysis using the Matrix profile in Julia](https://github.com/baggepinnen/MatrixProfile.jl)
+
+[jbytecode/LinRegOutliers: Direct and robust methods for outlier detection in linear regression](https://github.com/jbytecode/LinRegOutliers)
+
+Python:
+
+[yzhao062/pyod: A Python Toolbox for Scalable Outlier Detection (Anomaly Detection)](https://github.com/yzhao062/pyod)
+
+[cerlymarco/tsmoothie: A python library for time-series smoothing and outlier detection in a vectorized way.](https://github.com/cerlymarco/tsmoothie)
+
+[DHI/tsod: Anomaly Detection for time series data](https://github.com/DHI/tsod)
 
 # <span id="head5">2. Basic Statistics and Data Visualization</span>
 
@@ -1039,3 +1070,5 @@ Julia:
 [rveltz/BifurcationKit.jl: A Julia package to perform Bifurcation Analysis](https://github.com/rveltz/BifurcationKit.jl)
 
 # <span id="head74">5. Writings, Blog and Web</span>
+
+[chriskiehl/Gooey: Turn (almost) any Python command line program into a full GUI application with one line](https://github.com/chriskiehl/Gooey)
