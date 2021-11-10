@@ -11,6 +11,7 @@
   - [2.2. (Deep Learning based) Time Seris Analysis](#head7)
   - [2.3. Survival Analysis](#head8)
   - [2.4. Data Visulization](#head9)
+  - [2.4. Data Visulization](#head76)
 - [3. Differential Programing and Data Mining](#head10)
   
   - [3.1. Differentialation, Quadrature and Tensor computation](#head11)
@@ -246,6 +247,10 @@ Interactive
 Python:
 
 Matplotlib
+## <span id="head76">2.5. GLM</span>
+
+
+[bambinos/bambi: BAyesian Model-Building Interface (Bambi) in Python.](https://github.com/bambinos/bambi)
 
 # <span id="head10">3. Differential Programing and Data Mining</span>
 
