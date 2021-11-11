@@ -897,6 +897,8 @@ Survey[JuliaPDE/SurveyofPDEPackages: Survey of the packages of the Julia ecosyst
 
 [SciML/DiffEqOperators.jl: Linear operators for discretizations of differential equations and scientific machine learning (SciML)](https://github.com/SciML/DiffEqOperators.jl)
 
+[vavrines/Kinetic.jl: Universal modeling and simulation of fluid dynamics upon machine learning](https://github.com/vavrines/Kinetic.jl)
+
 [Gridap](https://github.com/gridap)
 
 [kailaix/AdFem.jl: Innovative, efficient, and computational-graph-based finite element simulator for inverse modeling](https://github.com/kailaix/AdFem.jl)
