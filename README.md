@@ -564,9 +564,15 @@ Python:
 
 Methods like HMC, SGLD are Covered by above-mentioned packages.
 
+Julia:
+
+[BigBayes/SGMCMC.jl: Stochastic Gradient Markov Chain Monte Carlo and Optimisation](https://github.com/BigBayes/SGMCMC.jl)
+
 Python:
 
 [AdamCobb/hamiltorch: PyTorch-based library for Riemannian Manifold Hamiltonian Monte Carlo (RMHMC) and inference in Bayesian neural networks](https://github.com/AdamCobb/hamiltorch)
+
+[jeremiecoullon/SGMCMCJax: Lightweight library of stochastic gradient MCMC algorithms written in JAX.](https://github.com/jeremiecoullon/SGMCMCJax)
 
 ### <span id="head32">3.4.2. Approximate Bayesian Computation (ABC)</span>
 
