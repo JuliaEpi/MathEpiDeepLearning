@@ -720,6 +720,9 @@ Julia:
 
 ## <span id="head41">3.5. Machine Learning and Deep Learning</span>
 
+Python:
+
+Survey [ritchieng/the-incredible-pytorch at pythonrepo.com](https://github.com/ritchieng/the-incredible-pytorch?ref=pythonrepo.com#GANsVAEsandAEs)
 ### <span id="head42">3.5.1. Machine Learning</span>
 
 Julia: MLJ is enough
@@ -878,6 +881,23 @@ Survey[janosh/awesome-normalizing-flows: A list of awesome resources on normaliz
 [RameenAbdal/StyleFlow: StyleFlow: Attribute-conditioned Exploration of StyleGAN-generated Images using Conditional Continuous Normalizing Flows (ACM TOG 2021)](https://github.com/RameenAbdal/StyleFlow)
 
 ### <span id="head53">3.6.3. VAE</span>
+
+Julia:
+
+
+Python:
+
+[Variational Autoencoders — Pyro Tutorials 1.7.0 documentation](https://pyro.ai/examples/vae.html)
+
+[AntixK/PyTorch-VAE: A Collection of Variational Autoencoders (VAE) in PyTorch.](https://github.com/AntixK/PyTorch-VAE)
+
+[timsainb/tensorflow2-generative-models: Implementations of a number of generative models in Tensorflow 2. GAN, VAE, Seq2Seq, VAEGAN, GAIA, Spectrogram Inversion. Everything is self contained in a jupyter notebook for easy export to colab.](https://github.com/timsainb/tensorflow2-generative-models)
+
+[altosaar/variational-autoencoder: Variational autoencoder implemented in tensorflow and pytorch (including inverse autoregressive flow)](https://github.com/altosaar/variational-autoencoder)
+
+[subinium/Pytorch-AutoEncoders at pythonrepo.com](https://github.com/subinium/Pytorch-AutoEncoders?ref=pythonrepo.com)
+
+[Ritvik19/pyradox-generative at pythonrepo.com](https://github.com/Ritvik19/pyradox-generative?ref=pythonrepo.com)
 
 
 ### <span id="head54">3.7. Differential Equations and Scientific Computation</span>
