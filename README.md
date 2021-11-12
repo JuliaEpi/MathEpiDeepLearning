@@ -995,6 +995,8 @@ Julia:
 
 [SciML/StructuralIdentifiability.jl](https://github.com/SciML/StructuralIdentifiability.jl)
 
+[alexeyovchinnikov/SIAN-Julia: Implementation of SIAN in Julia](https://github.com/alexeyovchinnikov/SIAN-Julia)
+
 ### <span id="head66">3.10.2. Global Sensitivity Anylysis</span>
 
 Julia:
