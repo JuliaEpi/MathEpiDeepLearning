@@ -70,6 +70,7 @@
   - [3.10. Model Evaluation](#head64)
     - [3.10.1. Structure Idendification](#head65)
     - [3.10.2. Global Sensitivity Anylysis](#head66)
+  - [3.10. Optimal Transportation](#head77)
 - [4. Theoretical Analysis](#head67)
   
   - [4.0. Special Functions](#head68)
@@ -1030,6 +1031,21 @@ Julia:
 Python:
 
 [SALib/SALib: Sensitivity Analysis Library in Python. Contains Sobol, Morris, FAST, and other methods.](https://github.com/SALib/SALib)
+
+## <span id="head77">3.11. Optimal Transportation</span>
+
+
+Julia:
+
+[Optimal transport in Julia](https://github.com/JuliaOptimalTransport)
+
+[JuliaOptimalTransport/OptimalTransport.jl: Optimal transport algorithms for Julia](https://github.com/JuliaOptimalTransport/OptimalTransport.jl)
+
+[JuliaOptimalTransport/ExactOptimalTransport.jl: Solving unregularized optimal transport problems with Julia](https://github.com/JuliaOptimalTransport/ExactOptimalTransport.jl)
+
+Python:
+
+[PythonOT/POT: POT : Python Optimal Transport](https://github.com/PythonOT/POT)
 
 # <span id="head67">4. Theoretical Analysis</span>
 
