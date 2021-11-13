@@ -942,6 +942,10 @@ Survey[JuliaPDE/SurveyofPDEPackages: Survey of the packages of the Julia ecosyst
 
 [JuliaFEM](https://github.com/JuliaFEM)
 
+Python：
+
+[DedalusProject/dedalus: A flexible framework for solving PDEs with modern spectral methods.](https://github.com/DedalusProject/dedalus)
+
 ## <span id="head56">3.8. Scientific Machine Learning (Differential Equation and ML)</span>
 
 ### <span id="head57">3.8.1. Universal Differential Equations. (Neural differential equations)</span>
@@ -1064,6 +1068,9 @@ Python:
 Julia:
 
 [JuliaMath/SpecialFunctions.jl: Special mathematical functions in Julia](https://github.com/JuliaMath/SpecialFunctions.jl)
+
+InverseFunction
+[JuliaMath/InverseFunctions.jl: Interface for function inversion in Julia](https://github.com/JuliaMath/InverseFunctions.jl)
 
 [JuliaStats/StatsFuns.jl: Mathematical functions related to statistics.](https://github.com/JuliaStats/StatsFuns.jl)
 
