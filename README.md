@@ -567,7 +567,15 @@ Methods like HMC, SGLD are Covered by above-mentioned packages.
 
 Julia:
 
+[mauro3/KissMCMC.jl: Keep it simple, stupid, MCMC](https://github.com/mauro3/KissMCMC.jl)
+
 [BigBayes/SGMCMC.jl: Stochastic Gradient Markov Chain Monte Carlo and Optimisation](https://github.com/BigBayes/SGMCMC.jl)
+
+[tpapp/DynamicHMC.jl: Implementation of robust dynamic Hamiltonian Monte Carlo methods (NUTS) in Julia.](https://github.com/tpapp/DynamicHMC.jl)
+
+[madsjulia/AffineInvariantMCMC.jl: Affine Invariant Markov Chain Monte Carlo (MCMC) Ensemble sampler](https://github.com/madsjulia/AffineInvariantMCMC.jl)
+
+[TuringLang/EllipticalSliceSampling.jl: Julia implementation of elliptical slice sampling.](https://github.com/TuringLang/EllipticalSliceSampling.jl)
 
 Nested Sampling[TuringLang/NestedSamplers.jl: Implementations of single and multi-ellipsoid nested sampling](https://github.com/TuringLang/NestedSamplers.jl)
 
