@@ -571,6 +571,8 @@ Julia:
 
 Nested Sampling[TuringLang/NestedSamplers.jl: Implementations of single and multi-ellipsoid nested sampling](https://github.com/TuringLang/NestedSamplers.jl)
 
+[bat/UltraNest.jl: Julia wrapper for UltraNest: advanced nested sampling for model comparison and parameter estimation](https://github.com/bat/UltraNest.jl)
+
 
 Python:
 
@@ -579,6 +581,8 @@ Python:
 [jeremiecoullon/SGMCMCJax: Lightweight library of stochastic gradient MCMC algorithms written in JAX.](https://github.com/jeremiecoullon/SGMCMCJax)
 
 Nested Sampling[joshspeagle/dynesty: Dynamic Nested Sampling package for computing Bayesian posteriors and evidences](https://github.com/joshspeagle/dynesty)
+
+[JohannesBuchner/UltraNest: Fit and compare complex models reliably and rapidly. Advanced nested sampling.](https://github.com/JohannesBuchner/UltraNest)
 
 ### <span id="head32">3.4.2. Approximate Bayesian Computation (ABC)</span>
 
