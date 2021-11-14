@@ -569,11 +569,16 @@ Julia:
 
 [BigBayes/SGMCMC.jl: Stochastic Gradient Markov Chain Monte Carlo and Optimisation](https://github.com/BigBayes/SGMCMC.jl)
 
+Nested Sampling[TuringLang/NestedSamplers.jl: Implementations of single and multi-ellipsoid nested sampling](https://github.com/TuringLang/NestedSamplers.jl)
+
+
 Python:
 
 [AdamCobb/hamiltorch: PyTorch-based library for Riemannian Manifold Hamiltonian Monte Carlo (RMHMC) and inference in Bayesian neural networks](https://github.com/AdamCobb/hamiltorch)
 
 [jeremiecoullon/SGMCMCJax: Lightweight library of stochastic gradient MCMC algorithms written in JAX.](https://github.com/jeremiecoullon/SGMCMCJax)
+
+Nested Sampling[joshspeagle/dynesty: Dynamic Nested Sampling package for computing Bayesian posteriors and evidences](https://github.com/joshspeagle/dynesty)
 
 ### <span id="head32">3.4.2. Approximate Bayesian Computation (ABC)</span>
 
