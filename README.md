@@ -807,6 +807,10 @@ Python:
 
 [dmlc/dgl: Python package built to ease deep learning on graph, on top of existing DL frameworks.](https://github.com/dmlc/dgl)
 
+
+[THUDM/cogdl: CogDL: An Extensive Toolkit for Deep Learning on Graphs](https://github.com/THUDM/cogdl)
+
+
 ### <span id="head46">3.5.5. Transformer</span>
 
 Julia:
