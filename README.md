@@ -1,5 +1,5 @@
 - [ Introduction](#head1)
-  
+- [0. Epidemic Model](#head79)
 - [1. Data Preprocessing](#head2)
   
   - [1.1. Data Science](#head3)
@@ -99,6 +99,25 @@
   
 
 [TOC]
+
+# <span id="head79">0. Epidemic Model</span>
+
+Julia: 
+
+[epirecipes/sir-julia: Various implementations of the classical SIR model in Julia](https://github.com/epirecipes/sir-julia)
+
+[jangevaare/Pathogen.jl: Simulation, visualization, and inference tools for modelling the spread of infectious diseases with Julia](https://github.com/jangevaare/Pathogen.jl)
+
+Mobility[jtmatamalas/MMCAcovid19.jl: Microscopic Markov Chain Approach to model the spreading of COVID-19](https://github.com/jtmatamalas/MMCAcovid19.jl)
+
+[jpfairbanks/SemanticModels.jl: A julia package for representing and manipulating model semantics](https://github.com/jpfairbanks/SemanticModels.jl)
+
+[cambridge-mlg/Covid19](https://github.com/cambridge-mlg/Covid19)
+
+Python:
+
+[ryansmcgee/seirsplus: Models of SEIRS epidemic dynamics with extensions, including network-structured populations, testing, contact tracing, and social distancing.](https://github.com/ryansmcgee/seirsplus)
+
 
 # <span id="head2">1. Data Preprocessing</span>
 
