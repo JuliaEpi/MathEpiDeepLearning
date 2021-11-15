@@ -114,6 +114,8 @@ Mobility[jtmatamalas/MMCAcovid19.jl: Microscopic Markov Chain Approach to model 
 
 [cambridge-mlg/Covid19](https://github.com/cambridge-mlg/Covid19)
 
+[affans/covid19abm.jl: Agent Based Model for COVID 19 transmission dynamics](https://github.com/affans/covid19abm.jl)
+
 Python:
 
 [ryansmcgee/seirsplus: Models of SEIRS epidemic dynamics with extensions, including network-structured populations, testing, contact tracing, and social distancing.](https://github.com/ryansmcgee/seirsplus)
