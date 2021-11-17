@@ -271,6 +271,9 @@ Interactive
 Python:
 
 Matplotlib
+
+[rougier/scientific-visualization-book: An open access book on scientific visualization using python and matplotlib](https://github.com/rougier/scientific-visualization-book)
+
 ## <span id="head76">2.5. GLM</span>
 
 
