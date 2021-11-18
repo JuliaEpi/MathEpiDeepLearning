@@ -274,6 +274,13 @@ Matplotlib
 
 [rougier/scientific-visualization-book: An open access book on scientific visualization using python and matplotlib](https://github.com/rougier/scientific-visualization-book)
 
+
+R:
+
+Color themes:
+
+[discrete.knit](https://emilhvitfeldt.github.io/r-color-palettes/discrete.html)
+
 ## <span id="head76">2.5. GLM</span>
 
 
