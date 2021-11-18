@@ -124,6 +124,9 @@ Python:
 
 
 # <span id="head2">1. Data Preprocessing</span>
+Epidemic Data Sources:
+
+[Open data in the COVID-19 pandemic](https://www.nature.com/collections/ebaiehhfhg)
 
 ## <span id="head3">1.1. Data Science</span>
 
