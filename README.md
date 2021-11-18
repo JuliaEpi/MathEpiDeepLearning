@@ -101,6 +101,8 @@
 [TOC]
 
 # <span id="head79">0. Epidemic Model</span>
+Epidemiology meets Data Mining
+and Knowledge discovery[epiDAMIK Workshop](https://epidamik.github.io/)
 
 Julia: 
 
