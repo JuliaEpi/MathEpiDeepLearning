@@ -1188,3 +1188,7 @@ Julia:
 # <span id="head74">5. Writings, Blog and Web</span>
 
 [chriskiehl/Gooey: Turn (almost) any Python command line program into a full GUI application with one line](https://github.com/chriskiehl/Gooey)
+
+Latex:
+
+[Detexify LaTeX handwritten symbol recognition](http://detexify.kirelabs.org/classify.html)
