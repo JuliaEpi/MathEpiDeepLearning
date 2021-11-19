@@ -832,6 +832,9 @@ Python: Jax, Pytorch, Tensorflow
 [tensorflow/tensorflow: An Open Source Machine Learning Framework for Everyone](https://github.com/tensorflow/tensorflow)
 
 [catalyst-team/catalyst: Accelerated deep learning R&D](https://github.com/catalyst-team/catalyst)
+
+[murufeng/awesome_lightweight_networks: MobileNetV1-V2，MobileNeXt，GhostNet，AdderNet，ShuffleNetV1-V2，Mobile+ViT etc. ⭐⭐⭐⭐⭐](https://github.com/murufeng/awesome_lightweight_networks)
+
 ### <span id="head44">3.5.3. Reinforce Learning</span>
 
 Julia:
