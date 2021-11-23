@@ -963,7 +963,7 @@ Python:
 [Ritvik19/pyradox-generative at pythonrepo.com](https://github.com/Ritvik19/pyradox-generative?ref=pythonrepo.com)
 
 
-### <span id="head54">3.7. Differential Equations and Scientific Computation</span>
+## <span id="head54">3.7. Differential Equations and Scientific Computation</span>
 
 Julia:
 
@@ -979,6 +979,17 @@ Including agent based models
 [nathanaelbosch/ProbNumDiffEq.jl: Probabilistic ODE Solvers via Bayesian Filtering and Smoothing](https://github.com/nathanaelbosch/ProbNumDiffEq.jl)
 
 [PerezHz/TaylorIntegration.jl: ODE integration using Taylor's method, and more, in Julia](https://github.com/PerezHz/TaylorIntegration.jl)
+
+Probablistic Numerical Methods:
+
+Julia:
+
+[nathanaelbosch/ProbNumDiffEq.jl: Probabilistic ODE Solvers via Bayesian Filtering and Smoothing](https://github.com/nathanaelbosch/ProbNumDiffEq.jl)
+
+Python:
+
+[ProbNum — probnum 0.1 documentation](http://www.probabilistic-numerics.org/en/latest/)
+
 
 ### <span id="head55">3.7.1. Partial differential equation</span>
 
