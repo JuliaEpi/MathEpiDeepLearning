@@ -1208,3 +1208,9 @@ Julia:
 Latex:
 
 [Detexify LaTeX handwritten symbol recognition](http://detexify.kirelabs.org/classify.html)
+
+Display Julia Unicode in Latex
+
+[mossr/julia-mono-listings: LaTeX listings style for Julia and Unicode support for the JuliaMono font](https://github.com/mossr/julia-mono-listings)
+
+[wg030/jlcode: A latex package for displaying Julia code using the listings package. The package supports pdftex, luatex and xetex for compilation.](https://github.com/wg030/jlcode)
