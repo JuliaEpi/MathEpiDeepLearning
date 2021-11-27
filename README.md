@@ -71,6 +71,7 @@
     - [3.10.1. Structure Idendification](#head65)
     - [3.10.2. Global Sensitivity Anylysis](#head66)
   - [3.10. Optimal Transportation](#head77)
+  - [3.11. Agents, Graph and Networks](#head81)
 - [4. Theoretical Analysis](#head67)
   
   - [4.0. Special Functions](#head68)
@@ -1124,6 +1125,15 @@ Python:
 
 [PythonOT/POT: POT : Python Optimal Transport](https://github.com/PythonOT/POT)
 
+
+## <span id="head81">3.12. Agents, Graph and Networks</span>
+Julia:
+
+[JuliaDynamics/Agents.jl: Agent-based modeling framework in Julia](https://github.com/JuliaDynamics/Agents.jl)
+
+Python:
+
+[projectmesa/mesa: Mesa is an agent-based modeling framework in Python](https://github.com/projectmesa/mesa)
 # <span id="head67">4. Theoretical Analysis</span>
 
 Julia:
