@@ -906,6 +906,8 @@ Julia:
 
 [stefan-m-lenz/BoltzmannMachines.jl: A Julia package for training and evaluating multimodal deep Boltzmann machines](https://github.com/stefan-m-lenz/BoltzmannMachines.jl)
 
+[BIASlab](https://github.com/biaslab)
+
 [biaslab/ReactiveMP.jl: Julia package for automatic Bayesian inference on a factor graph with reactive message passing](https://github.com/biaslab/ReactiveMP.jl)
 
 Python:
