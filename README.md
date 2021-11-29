@@ -57,7 +57,7 @@
     - [3.6.1. GAN](#head51)
     - [3.6.2. Normilization Flows](#head52)
     - [3.6.3. VAE](#head53)
-    - [3.7. Differential Equations and Scientific Computation](#head54)
+  - [3.7. Differential Equations and Scientific Computation](#head54)
     - [3.7.1. Partial differential equation](#head55)
   - [3.8. Scientific Machine Learning (Differential Equation and ML)](#head56)
     - [3.8.1. Universal Differential Equations. (Neural differential equations)](#head57)
@@ -746,8 +746,13 @@ Python:
 ### <span id="head37">3.4.7. Information theory</span>
 
 Julia:
+entropy and kldivengence for distributions or vectors can be seen in Distributions.jl
 
-[kzahedi/Shannon.jl: Entropy, Mutual Information, KL-Divergence related to Shannon's information theory and functions to binarize data](https://github.com/kzahedi/Shannon.jl)
+KL divergence for functions[RafaelArutjunjan/InformationGeometry.jl: Methods for computational information geometry](https://github.com/RafaelArutjunjan/InformationGeometry.jl)
+
+not maintained[kzahedi/Shannon.jl: Entropy, Mutual Information, KL-Divergence related to Shannon's information theory and functions to binarize data](https://github.com/kzahedi/Shannon.jl)
+
+[gragusa/Divergences.jl: A Julia package for evaluation of divergences between distributions](https://github.com/gragusa/Divergences.jl)
 
 [Tchanders/InformationMeasures.jl: Entropy, mutual information and higher order measures from information theory, with various estimators and discretisation methods.](https://github.com/Tchanders/InformationMeasures.jl)
 
