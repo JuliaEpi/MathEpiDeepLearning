@@ -126,6 +126,10 @@ Python:
 [pyro.contrib.epidemiology.models — Pyro documentation](https://docs.pyro.ai/en/stable/_modules/pyro/contrib/epidemiology/models.html#HeterogeneousSIRModel)
 
 
+Modelling Human Mobility
+[scikit-mobility/scikit-mobility: scikit-mobility: mobility analysis in Python](https://github.com/scikit-mobility/scikit-mobility)
+
+
 # <span id="head2">1. Data Preprocessing</span>
 Epidemic Data Sources:
 
