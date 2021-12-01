@@ -1237,3 +1237,8 @@ Display Julia Unicode in Latex
 [mossr/julia-mono-listings: LaTeX listings style for Julia and Unicode support for the JuliaMono font](https://github.com/mossr/julia-mono-listings)
 
 [wg030/jlcode: A latex package for displaying Julia code using the listings package. The package supports pdftex, luatex and xetex for compilation.](https://github.com/wg030/jlcode)
+
+
+Web:
+
+[tlienart/Franklin.jl: (yet another) static site generator. Simple, customisable, fast, maths with KaTeX, code evaluation, optional pre-rendering, in Julia.](https://github.com/tlienart/Franklin.jl)
