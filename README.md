@@ -316,6 +316,8 @@ JuliaDiffEqFlux organization
 
 [JuliaDiff/ReverseDiff.jl: Reverse Mode Automatic Differentiation for Julia](https://github.com/JuliaDiff/ReverseDiff.jl)
 
+[JuliaDiff/AbstractDifferentiation.jl: An abstract interface for automatic differentiation.](https://github.com/JuliaDiff/AbstractDifferentiation.jl)
+
 [JuliaDiff/TaylorSeries.jl: A julia package for Taylor polynomial expansions in one and several independent variables.](https://github.com/JuliaDiff/TaylorSeries.jl)
 
 [kailaix/ADCME.jl: Automatic Differentiation Library for Computational and Mathematical Engineering](https://github.com/kailaix/ADCME.jl)
