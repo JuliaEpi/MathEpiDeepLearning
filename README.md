@@ -1244,3 +1244,14 @@ Display Julia Unicode in Latex
 Web:
 
 [tlienart/Franklin.jl: (yet another) static site generator. Simple, customisable, fast, maths with KaTeX, code evaluation, optional pre-rendering, in Julia.](https://github.com/tlienart/Franklin.jl)
+
+
+GitHun Profile Settings:
+
+[abhisheknaiidu/awesome-github-profile-readme: 😎 A curated list of awesome GitHub Profile READMEs 📝](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+
+[Shields.io: Quality metadata badges for open source projects](https://shields.io/)
+
+[ButterAndButterfly/GithubTools: 目标是创建会刷新的ReadMe首页！ 在这里，你可以得到Github star/fork总数图标, 项目star历史曲线，star数最多的前N个Repo信息...](https://github.com/ButterAndButterfly/GithubTools)
+
+[anuraghazra/github-readme-stats: Dynamically generated stats for your github readmes](https://github.com/anuraghazra/github-readme-stats)
