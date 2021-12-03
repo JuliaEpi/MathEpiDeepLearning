@@ -101,9 +101,15 @@
 
 [TOC]
 
+Data Sources:
+
+[EpiData](DataSources/EpiData.md)
 # <span id="head79">0. Epidemic Model</span>
 Epidemiology meets Data Mining
 and Knowledge discovery[epiDAMIK Workshop](https://epidamik.github.io/)
+
+[Epidemic model repos collections](/EpiRepos/EpidemicRepos.md)
+
 
 Julia: 
 
@@ -129,6 +135,9 @@ Python:
 Modelling Human Mobility
 [scikit-mobility/scikit-mobility: scikit-mobility: mobility analysis in Python](https://github.com/scikit-mobility/scikit-mobility)
 
+Matlab:
+
+[JDureau/AllScripts](https://github.com/JDureau/AllScripts)
 
 # <span id="head2">1. Data Preprocessing</span>
 Epidemic Data Sources:
