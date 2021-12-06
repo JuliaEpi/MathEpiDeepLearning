@@ -303,6 +303,25 @@ Color themes:
 
 [discrete.knit](https://emilhvitfeldt.github.io/r-color-palettes/discrete.html)
 
+
+
+
+### Venn Diagrams:
+
+R:
+
+[yanlinlin82/ggvenn: Venn Diagram by ggplot2, with really easy-to-use API.](https://github.com/yanlinlin82/ggvenn)
+
+[gaospecial/ggVennDiagram: A 'ggplot2' implement of Venn Diagram.](https://github.com/gaospecial/ggVennDiagram)
+
+Python:
+
+[konstantint/matplotlib-venn: Area-weighted venn-diagrams for Python/matplotlib](https://github.com/konstantint/matplotlib-venn)
+
+Julia:
+
+[JuliaPlots/VennEuler.jl: Venn/Euler Diagrams for Julia](https://github.com/JuliaPlots/VennEuler.jl)
+
 ## <span id="head76">2.5. GLM</span>
 
 
