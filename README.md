@@ -104,6 +104,10 @@
 Data Sources:
 
 [EpiData](DataSources/EpiData.md)
+
+[MLData](DataSources/MLData.md)
+
+[DataIOTools](DataSources/DataIOtools.md)
 # <span id="head79">0. Epidemic Model</span>
 Epidemiology meets Data Mining
 and Knowledge discovery[epiDAMIK Workshop](https://epidamik.github.io/)
@@ -141,7 +145,6 @@ Matlab:
 
 # <span id="head2">1. Data Preprocessing</span>
 
-[camelot-dev/camelot: A Python library to extract tabular data from PDFs](https://github.com/camelot-dev/camelot)
 
 
 ## <span id="head3">1.1. Data Science</span>

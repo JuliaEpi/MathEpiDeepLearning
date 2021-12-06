@@ -1,0 +1,1 @@
+[camelot-dev/camelot: A Python library to extract tabular data from PDFs](https://github.com/camelot-dev/camelot)
