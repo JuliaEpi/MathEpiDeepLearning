@@ -140,9 +140,9 @@ Matlab:
 [JDureau/AllScripts](https://github.com/JDureau/AllScripts)
 
 # <span id="head2">1. Data Preprocessing</span>
-Epidemic Data Sources:
 
-[Open data in the COVID-19 pandemic](https://www.nature.com/collections/ebaiehhfhg)
+[camelot-dev/camelot: A Python library to extract tabular data from PDFs](https://github.com/camelot-dev/camelot)
+
 
 ## <span id="head3">1.1. Data Science</span>
 
