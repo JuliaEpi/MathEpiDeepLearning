@@ -107,6 +107,10 @@ Data Sources:
 
 [MLData](DataSources/MLData.md)
 
+[Rdatasets](DataSources/Rdatasets.md)
+
+[JuliaDatasets](DataSources/JuliaDatasets.md)
+
 [DataIOTools](DataSources/DataIOtools.md)
 # <span id="head79">0. Epidemic Model</span>
 Epidemiology meets Data Mining
