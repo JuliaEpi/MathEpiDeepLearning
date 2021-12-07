@@ -11,7 +11,7 @@
   - [2.2. (Deep Learning based) Time Seris Analysis](#head7)
   - [2.3. Survival Analysis](#head8)
   - [2.4. Data Visulization](#head9)
-  - [2.4. Data Visulization](#head76)
+  - [2.5. GLM](#head76)
 - [3. Differential Programing and Data Mining](#head10)
   
   - [3.1. Differentialation, Quadrature and Tensor computation](#head11)
