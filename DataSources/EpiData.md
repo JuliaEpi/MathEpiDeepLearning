@@ -1,6 +1,14 @@
 Epidemic Data Sources:
 
-[Open data in the COVID-19 pandemic](https://www.nature.com/collections/ebaiehhfhg)
+Good[COVID-19 Pandemic - Humanitarian Data Exchange](https://data.humdata.org/event/covid-19)
+
+Good[Open data in the COVID-19 pandemic](https://www.nature.com/collections/ebaiehhfhg)
+
+Good[COVID-19 Data & Statistical Sources | Map and Data Library](https://mdl.library.utoronto.ca/covid-19-data-statistical-sources)
+
+[IZA - Institute of Labor Economics](https://www.iza.org/research/idsc/covid-19-resources)
+
+[COVID-19 Data & Statistical Sources | Map and Data Library](https://mdl.library.utoronto.ca/covid-19-data-statistical-sources)
 
 [soroushchehresa/awesome-coronavirus: 🦠 Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)](https://github.com/soroushchehresa/awesome-coronavirus)
 
@@ -13,7 +21,12 @@ Best[owid/covid-19-data: Data on COVID-19 (coronavirus) cases, deaths, hospitali
 
 [Download COVID-19 datasets](https://www.ecdc.europa.eu/en/covid-19/data)
 
-# Case death recovery Data
+
+[Data - COVID-19's Impact on Business - Research Sources & Guides at Stanford University Business School](https://libguides.stanford.edu/library/covid19#s-lg-box-23867902)
+
+# Cases data associataion datasets
+
+## Case death recovery Data
 Best R[covid19datahub/COVID19: A worldwide epidemiological database for COVID-19 at fine-grained spatial resolution](https://github.com/covid19datahub/COVID19)
 
 Best[CSSEGISandData/COVID-19: Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE](https://github.com/CSSEGISandData/COVID-19)
@@ -21,13 +34,13 @@ Best[CSSEGISandData/COVID-19: Novel Coronavirus (COVID-19) Cases, provided by JH
 Best[owid/covid-19-data: Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data](https://github.com/owid/covid-19-data)
 
 
-# Tests
+## Tests
 Best[owid/covid-19-data: Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data](https://github.com/owid/covid-19-data)
 
-# Vaccination
+## Vaccination
 Best[owid/covid-19-data: Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data](https://github.com/owid/covid-19-data)
 
-# Hospitalization
+## Hospitalization
 Best[owid/covid-19-data: Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data](https://github.com/owid/covid-19-data)
 
 # population
@@ -36,33 +49,44 @@ Best[owid/covid-19-data: Data on COVID-19 (coronavirus) cases, deaths, hospitali
 
 Best[OxCGRT/covid-policy-tracker: Systematic dataset of Covid-19 policy, from Oxford University](https://github.com/OxCGRT/covid-policy-tracker)
 
+[CoronaNet Research Project](https://www.coronanet-project.org/)
+
 # Contact Matrix
 
 [mobs-lab/mixing-patterns: Inferring high-resolution human mixing patterns for disease modeling](https://github.com/mobs-lab/mixing-patterns)
 
-# Human Mobility
+# Human Mobility, Flights
 
 [scikit-mobility/scikit-mobility: scikit-mobility: mobility analysis in Python](https://github.com/scikit-mobility/scikit-mobility)
 
+[descarteslabs/DL-COVID-19: Mobility changes in response to COVID-19, provided by Descartes Labs](https://github.com/descarteslabs/DL-COVID-19)
 
+[Data - COVID-19's Impact on Business - Research Sources & Guides at Stanford University Business School](https://libguides.stanford.edu/library/covid19#s-lg-box-23867902)
+
+[OpenSky COVID-19 Flight Dataset](https://opensky-network.org/community/blog/item/6-opensky-covid-19-flight-dataset)
 # Economic
 
-
+[Data - COVID-19's Impact on Business - Research Sources & Guides at Stanford University Business School](https://libguides.stanford.edu/library/covid19#s-lg-box-23867902)
 # Health Resources
 
 # Variants
-[CoVariants](https://covariants.org/)
+Best[CoVariants](https://covariants.org/)
 
-[GISAID - Initiative](https://www.gisaid.org/)
+Best[GISAID - Initiative](https://www.gisaid.org/)
 
 
-# Behaviour Changes
+# Behaviour Changes, Social Media
 
-[YouGov-Data/covid-19-tracker: This is the data repository for the Imperial College London YouGov Covid 19 Behaviour Tracker Data Hub.](https://github.com/YouGov-Data/covid-19-tracker)
+Best[YouGov-Data/covid-19-tracker: This is the data repository for the Imperial College London YouGov Covid 19 Behaviour Tracker Data Hub.](https://github.com/YouGov-Data/covid-19-tracker)
 
+[echen102/COVID-19-TweetIDs: The repository contains an ongoing collection of tweets IDs associated with the novel coronavirus COVID-19 (SARS-CoV-2), which commenced on January 28, 2020.](https://github.com/echen102/COVID-19-TweetIDs)
 
 # Paper Datasets
-[COVID-19 Open Research Dataset Challenge (CORD-19) | Kaggle](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
+Best[COVID-19 Open Research Dataset Challenge (CORD-19) | Kaggle](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
+
+[Global research on coronavirus disease (COVID-19)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov)
+
+[CORD-19 | Semantic Scholar](https://www.semanticscholar.org/cord19)
 
 
 # Wastewater 
