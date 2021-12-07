@@ -96,3 +96,7 @@ Best[COVID-19 Open Research Dataset Challenge (CORD-19) | Kaggle](https://www.ka
 [ColoSSoS - Collaboration on Sewage Surveillance of SARS-CoV-2 | WaterRA](https://www.waterra.com.au/project-details/264)
 
 Good[Search - Wastewater SPHERE](https://sphere.waterpathogens.org/search)
+
+[NORMAN Database System - SARS-CoV-2](https://www.norman-network.com/nds/sars_cov_2/)
+
+Canada[Big-Life-Lab/PHES-ODM: Metadata and code to support covid-19 wastewater surveillance and open science.](https://github.com/Big-Life-Lab/PHES-ODM)
