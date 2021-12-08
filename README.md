@@ -1,3 +1,8 @@
+Guides on contributions.
+
+- Open issues to add source links
+- Fork and pull requests
+
 - [ Introduction](#head1)
 - [0. Epidemic Model](#head79)
 - [1. Data Preprocessing](#head2)
