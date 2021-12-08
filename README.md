@@ -1,7 +1,9 @@
-Guides on contributions.
+Guides on contributions:
 
 - Open issues to add source links
 - Fork and pull requests
+
+Contents:
 
 - [ Introduction](#head1)
 - [0. Epidemic Model](#head79)
