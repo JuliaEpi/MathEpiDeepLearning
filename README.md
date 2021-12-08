@@ -3,6 +3,8 @@ Guides on contributions:
 - Open issues to add source links
 - Fork and pull requests
 
+Also see its twin repo [MathEpiDeepLearningTutorial: Tutorials on math epidemiology and epidemiology informed deep learning methods](https://github.com/Song921012/MathEpiDeepLearningTutorial).
+
 Contents:
 
 - [ Introduction](#head1)
@@ -278,6 +280,8 @@ Python:
 [CamDavidsonPilon/lifelines: Survival analysis in Python](https://github.com/camDavidsonPilon/lifelines)
 
 ## <span id="head9">2.4. Data Visulization</span>
+
+[Data Visualization Resources]([Data%20Visualization/dataviz.md])
 
 Julia:
 
