@@ -1222,6 +1222,10 @@ InverseFunction
 
 [Readme · LambertW.jl](https://docs.juliahub.com/LambertW/7mpiq/0.4.5/)
 
+[scheinerman/Permutations.jl: Permutations class for Julia.](https://github.com/scheinerman/Permutations.jl)
+
+[JuliaDocs/Documenter.jl: A documentation generator for Julia.](https://github.com/JuliaDocs/Documenter.jl)
+
 ## <span id="head69">4.1. Symbolic Computation</span>
 
 Julia:
