@@ -166,6 +166,12 @@ Julia:
 
 [JuliaData](https://github.com/JuliaData)
 
+[JuliaData/CSV.jl: Utility library for working with CSV and other delimited files in the Julia programming language](https://github.com/JuliaData/CSV.jl)
+
+[JuliaData/DataFrames.jl: In-memory tabular data in Julia](https://github.com/JuliaData/DataFrames.jl)
+
+[JuliaStats/TimeSeries.jl: Time series toolkit for Julia](https://github.com/JuliaStats/TimeSeries.jl)
+
 [Queryverse](https://github.com/queryverse)
 
 [JuliaDatabases](https://github.com/JuliaDatabases)
