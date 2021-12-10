@@ -25,6 +25,8 @@ Tool[ImageGP | 易汉博生物信息在线作图](http://www.ehbio.com/ImageGP/)
 
 [Data Viz Project | Collection of data visualizations to get inspired and finding the right type.](https://datavizproject.com/#)
 
+[From data to Viz | Find the graphic you need](https://www.data-to-viz.com/)
+
 [图之典](http://tuzhidian.com/)
 
 ## 2.2. Advanced
@@ -91,6 +93,7 @@ Python: zepid
 ### 子弹图
 [子弹图(Bullet chart)绘制很难吗？绘制技巧整理送你~~](https://mp.weixin.qq.com/s/TvDXsVvC3_Auvwo7Zu_0ZQ)
 # 3. R
+[erikgahner/awesome-ggplot2: A curated list of awesome ggplot2 tutorials, packages etc.](https://github.com/erikgahner/awesome-ggplot2)
 
 ## 3.1. Books
 ### Basics
