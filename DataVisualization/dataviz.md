@@ -54,6 +54,8 @@ Tool[ImageGP | 易汉博生物信息在线作图](http://www.ehbio.com/ImageGP/)
 [Python 空间绘图 - 房价气泡图绘制](https://mp.weixin.qq.com/s/yLoDsQaMoLtxTY-HlUZ_Fw)
 
 [绘图技巧 | 第七次全国人口普查数据还能这么玩！？技巧都在这了](https://mp.weixin.qq.com/s/Fjs-sncZfX4JtcPwoZ6fhA)
+
+[Jupyter Notebook - kepler.gl](https://docs.kepler.gl/docs/keplergl-jupyter)
 ### Chord Graph
 [绘图技巧 | 和弦图(Chord diagram)绘制方法汇总](https://mp.weixin.qq.com/s/-gVz8zuDWcLrZ5EqVlQp5w)
 ### Forest Plot
@@ -164,6 +166,8 @@ pyecharts[简介 - pyecharts - A Python Echarts Plotting Library built with love
 geopandas： 地图[GeoPandas 0.9.0 — GeoPandas 0.9.0 documentation](https://geopandas.org/)
 
 folium [Folium — Folium 0.12.1 documentation](https://python-visualization.github.io/folium/)
+
+[Jupyter Notebook - kepler.gl](https://docs.kepler.gl/docs/keplergl-jupyter)
 
 GCmap 航线图
 
