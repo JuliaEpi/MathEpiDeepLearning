@@ -5,6 +5,8 @@ Guides on contributions:
 
 Also see its twin repo [MathEpiDeepLearningTutorial: Tutorials on math epidemiology and epidemiology informed deep learning methods](https://github.com/Song921012/MathEpiDeepLearningTutorial).
 
+![DiffrentialPrograming](DifferentialPrograming.png)
+
 Contents:
 
 - [ Introduction](#head1)
