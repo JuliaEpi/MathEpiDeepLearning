@@ -646,6 +646,8 @@ Julia:
 
 [BIASlab](https://github.com/biaslab)
 
+[StatisticalRethinkingJulia/StatisticalRethinking.jl: Julia package with selected functions in the R package `rethinking`. Used in the SR2... projects.](https://github.com/StatisticalRethinkingJulia/StatisticalRethinking.jl)
+
 Python:
 
 [pymc-devs/pymc: Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara](https://github.com/pymc-devs/pymc)
