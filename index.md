@@ -1,6 +1,6 @@
 @def title = "MathEpiDeepLearning"
-
 # MathEpiDeepLearning
+See [Website of MathEpiDeepLearning](https://song921012.github.io/MathEpiDeepLearning/)
 
 Guides on contributions:
 
@@ -112,7 +112,9 @@ Contents:
   such as calculus, bifurcation analysis
   
 - Writings, Blog and Web
+  
 
+[TOC]
 
 Data Sources:
 

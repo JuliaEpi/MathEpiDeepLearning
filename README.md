@@ -1,3 +1,7 @@
+@def title = "MathEpiDeepLearning"
+# MathEpiDeepLearning
+See [Website of MathEpiDeepLearning](https://song921012.github.io/MathEpiDeepLearning/)
+
 Guides on contributions:
 
 - Open issues to add source links
