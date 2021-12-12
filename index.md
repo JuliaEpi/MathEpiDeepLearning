@@ -1,7 +1,6 @@
 @def title = "MathEpiDeepLearning"
 
 # MathEpiDeepLearning
-\tableofcontents
 
 Guides on contributions:
 
