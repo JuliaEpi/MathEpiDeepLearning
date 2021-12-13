@@ -40,6 +40,8 @@ Best[owid/covid-19-data: Data on COVID-19 (coronavirus) cases, deaths, hospitali
 ## Vaccination
 Best[owid/covid-19-data: Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data](https://github.com/owid/covid-19-data)
 
+[A global database of COVID-19 vaccinations | Nature Human Behaviour](https://www.nature.com/articles/s41562-021-01122-8)
+
 ## Hospitalization
 Best[owid/covid-19-data: Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data](https://github.com/owid/covid-19-data)
 

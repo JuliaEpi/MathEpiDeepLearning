@@ -203,6 +203,8 @@ viridis
 
 RColorBrewer
 
+[BlakeRMills/MetBrewer: Color palette package in R inspired by works at the Metropolitan Museum of Art in New York](https://github.com/BlakeRMills/MetBrewer/tree/main)
+
 # 6.2. Python
 
 colormap[Choosing Colormaps in Matplotlib — Matplotlib 3.4.2 documentation](https://matplotlib.org/stable/tutorials/colors/colormaps.html)

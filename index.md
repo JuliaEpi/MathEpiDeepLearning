@@ -969,6 +969,8 @@ Python:
 
 [julrog/nn_vis: A project for processing neural networks and rendering to gain insights on the architecture and parameters of a model through a decluttered representation.](https://github.com/julrog/nn_vis)
 
+PowerPoints[dair-ai/ml-visuals: 🎨 ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.](https://github.com/dair-ai/ml-visuals)
+
 ## <span id="head50">3.6. Probablistic Machine Learning and Deep Learning</span>
 
 Julia:
