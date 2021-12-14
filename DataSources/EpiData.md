@@ -1,3 +1,16 @@
+# Websites
+
+WHO [Coronavirus disease (COVID-19)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
+
+CDC [COVID-19 Science and Research | CDC](https://www.cdc.gov/coronavirus/2019-ncov/science/science-and-research.html)
+
+ECDC[Homepage | European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en)
+
+[Coronavirus disease (COVID-19) outbreak updates, symptoms, prevention, travel, preparation - Canada.ca](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html)
+
+# Good Datasets
+
+
 Epidemic Data Sources:
 
 Good[COVID-19 Pandemic - Humanitarian Data Exchange](https://data.humdata.org/event/covid-19)

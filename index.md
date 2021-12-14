@@ -355,7 +355,7 @@ Julia:
 [bambinos/bambi: BAyesian Model-Building Interface (Bambi) in Python.](https://github.com/bambinos/bambi)
 
 # <span id="head10">3. Differential Programing and Data Mining</span>
-
+[The Algorithms](https://github.com/TheAlgorithms)
 ## <span id="head11">3.1. Differentialation, Quadrature and Tensor computation</span>
 
 ### <span id="head12">3.1.1. Auto Differentiation</span>
@@ -1129,6 +1129,7 @@ Julia:
 
 [foldfelis/NeuralOperators.jl: learning the solution operator for partial differential equations in pure Julia.](https://github.com/foldfelis/NeuralOperators.jl)
 
+[brekmeuris/DrMZ.jl: Deep renormalized Mori-Zwanzig (DrMZ) Julia package.](https://github.com/brekmeuris/DrMZ.jl)
 ## <span id="head60">3.9. Data Driven Methods (Equation Searching Methods)</span>
 
 Julia package including SINDy, Symbolic Regression, DMD
