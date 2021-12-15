@@ -94,6 +94,11 @@ Python: zepid
 
 ### 子弹图
 [子弹图(Bullet chart)绘制很难吗？绘制技巧整理送你~~](https://mp.weixin.qq.com/s/TvDXsVvC3_Auvwo7Zu_0ZQ)
+
+### 矩阵图 Matrix Graph
+scatterPlotMatrix
+
+[scatterPlotMatrix包：一行命令轻松搞定交互式散点图矩阵](https://mp.weixin.qq.com/s/sPq8n60WqynV-qrmbGVe7Q)
 # 3. R
 [erikgahner/awesome-ggplot2: A curated list of awesome ggplot2 tutorials, packages etc.](https://github.com/erikgahner/awesome-ggplot2)
 
@@ -122,6 +127,8 @@ Graphpad Prism风格学术图表[https://mp.weixin.qq.com/s/nBU4Cmek5O5O7Ut7zNkw
 ggpattern包和一般的ggplot2拓展包不同，其为了更好的实现灵活的底纹填充功能，独立编写了强大的 ggplot2的geoms功能，当然，其语法还是我么熟悉的那个味道。[coolbutuseless/ggpattern: ggplot geoms with pattern fills](https://github.com/coolbutuseless/ggpattern)
 
 R-mapsf，R-cartography[爱了！！这种小清新地图一眼就上头，赶快学习一下吧~](https://mp.weixin.qq.com/s/EWqOsNJRONzx5bCButs6cw)
+
+scatterPlotMatrix
 
 # 4. Python
 ## 4.1. Books

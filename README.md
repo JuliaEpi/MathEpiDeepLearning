@@ -293,7 +293,7 @@ Python:
 
 ## <span id="head9">2.4. Data Visulization</span>
 
-[Data Visualization Resources]([DataVisualization/dataviz.md])
+[Data Visualization Resources](DataVisualization/dataviz.md)
 
 Julia:
 
