@@ -9,7 +9,7 @@ Guides on contributions:
 
 Also see its twin repo [MathEpiDeepLearningTutorial: Tutorials on math epidemiology and epidemiology informed deep learning methods](https://github.com/Song921012/MathEpiDeepLearningTutorial).
 
-![DiffrentialPrograming](DifferentialPrograming.png)
+![DiffrentialPrograming](DifferentialPrograming1.png)
 
 Contents:
 
@@ -1057,6 +1057,8 @@ Including agent based models
 [nathanaelbosch/ProbNumDiffEq.jl: Probabilistic ODE Solvers via Bayesian Filtering and Smoothing](https://github.com/nathanaelbosch/ProbNumDiffEq.jl)
 
 [PerezHz/TaylorIntegration.jl: ODE integration using Taylor's method, and more, in Julia](https://github.com/PerezHz/TaylorIntegration.jl)
+
+[gideonsimpson/BasicMD.jl: A collection of basic routines for Molecular Dynamics simulations implemented in Julia](https://github.com/gideonsimpson/BasicMD.jl)
 
 Probablistic Numerical Methods:
 
