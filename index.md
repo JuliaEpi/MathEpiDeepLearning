@@ -1309,6 +1309,8 @@ Display Julia Unicode in Latex
 
 [wg030/jlcode: A latex package for displaying Julia code using the listings package. The package supports pdftex, luatex and xetex for compilation.](https://github.com/wg030/jlcode)
 
+[davibarreira/NotebookToLaTeX.jl: A Julia package for converting your Pluto and Jupyter Notebooks into beautiful Latex.](https://github.com/davibarreira/NotebookToLaTeX.jl)
+
 
 Web:
 
