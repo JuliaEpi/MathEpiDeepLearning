@@ -1100,7 +1100,7 @@ Python：
 [DedalusProject/dedalus: A flexible framework for solving PDEs with modern spectral methods.](https://github.com/DedalusProject/dedalus)
 
 ## <span id="head56">3.8. Scientific Machine Learning (Differential Equation and ML)</span>
-
+[Zymrael/awesome-neural-ode: A collection of resources regarding the interplay between differential equations, deep learning, dynamical systems, control and numerical methods.](https://github.com/Zymrael/awesome-neural-ode)
 ### <span id="head57">3.8.1. Universal Differential Equations. (Neural differential equations)</span>
 
 Julia:

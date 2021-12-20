@@ -184,7 +184,7 @@ bqplot交互式图形
 # 5. Julia
 
 
-# 6. Handling Colors
+# 6. Handling Colors, Color palettes
 Best[配色案例,网页配色,设计配色,配色图表,配色卡,SDC优设网配色工具](https://color.uisdc.com/pick.html)
 
 [ColorDrop - New colors](https://colordrop.io/)
@@ -198,6 +198,8 @@ Best[配色案例,网页配色,设计配色,配色图表,配色卡,SDC优设网�
 [R Color Palettes [497 continuous and discrete palettes] | R CHARTS](https://r-charts.com/color-palettes/)
 
 [HTML Color Codes](https://htmlcolorcodes.com/)
+
+[颜色系(color palette)是什么？一文带你掌握全部用法！](https://mp.weixin.qq.com/s/QtdxVR7Gpal8KjNXSgSu6g)
 
 # 6.1. R
 paletteer
