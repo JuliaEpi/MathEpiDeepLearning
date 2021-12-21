@@ -38,6 +38,7 @@ Contents:
     - [3.1.3. Matrix and Tensor computation](#head17)
       - [Special Matrix](#head18)
       - [ Eigenvalues](#head19)
+      - [Tensor computation](#head80)
       - [Maps and Operators](#head20)
       - [Matrxi Equations](#head21)
       - [Kronecker-based algebra](#head22)
@@ -293,7 +294,7 @@ Python:
 
 ## <span id="head9">2.4. Data Visulization</span>
 
-[Data Visualization Resources](DataVisualization/dataviz.md)
+[Data Visualization Resources](/DataVisualization/dataviz/)
 
 Julia:
 
@@ -355,7 +356,7 @@ Julia:
 [bambinos/bambi: BAyesian Model-Building Interface (Bambi) in Python.](https://github.com/bambinos/bambi)
 
 # <span id="head10">3. Differential Programing and Data Mining</span>
-
+[The Algorithms](https://github.com/TheAlgorithms)
 ## <span id="head11">3.1. Differentialation, Quadrature and Tensor computation</span>
 
 ### <span id="head12">3.1.1. Auto Differentiation</span>
@@ -414,6 +415,8 @@ Learn One equals learn many
 
 [SciML/QuasiMonteCarlo.jl: Lightweight and easy generation of quasi-Monte Carlo sequences with a ton of different methods on one API for easy parameter exploration in scientific machine learning (SciML)](https://github.com/SciML/QuasiMonteCarlo.jl)
 
+[SciML/SymbolicNumericIntegration.jl](https://github.com/SciML/SymbolicNumericIntegration.jl)
+
 Julia:
 
 [JuliaMath/QuadGK.jl: adaptive 1d numerical Gauss–Kronrod integration in Julia](https://github.com/JuliaMath/QuadGK.jl)
@@ -462,15 +465,32 @@ Matrix organization
 
 [JuliaLinearAlgebra](https://github.com/JuliaLinearAlgebra)
 
-#### <span id="head18">Special Matrix</span>
+[JuliaSparse](https://github.com/JuliaSparse)
+
+[JuliaLang/SparseArrays.jl: SparseArrays.jl is a Julia stdlib](https://github.com/JuliaLang/SparseArrays.jl)
+
+#### <span id="head18">Special Matrix and Arrays</span>
 
 [JuliaMatrices/SpecialMatrices.jl: Julia package for working with special matrix types.](https://github.com/JuliaMatrices/SpecialMatrices.jl)
 
-#### <span id="head19"> Eigenvalues</span>
+[SciML/LabelledArrays.jl: Arrays which also have a label for each element for easy scientific machine learning (SciML)](https://github.com/SciML/LabelledArrays.jl)
+
+#### <span id="head80"> Computation </span>
+[mcabbott/Tullio.jl: ⅀](https://github.com/mcabbott/Tullio.jl)
+
+[JuliaLinearAlgebra/Octavian.jl: Multi-threaded BLAS-like library that provides pure Julia matrix multiplication](https://github.com/JuliaLinearAlgebra/Octavian.jl)
+
+[JuliaGPU/GemmKernels.jl: Flexible and performant GEMM kernels in Julia](https://github.com/JuliaGPU/GemmKernels.jl)
+
+[MasonProtter/Gaius.jl: Divide and Conquer Linear Algebra](https://github.com/MasonProtter/Gaius.jl)
+#### <span id="head19"> Eigenvalues and Solvers </span>
 
 [nep-pack/NonlinearEigenproblems.jl: Nonlinear eigenvalue problems in Julia: Iterative methods and benchmarks](https://github.com/nep-pack/NonlinearEigenproblems.jl)
 
+[SciML/LinearSolve.jl: LinearSolve.jl: High-Performance Unified Linear Solvers](https://github.com/SciML/LinearSolve.jl)
+
 Julia:
+[JuliaLinearAlgebra/Arpack.jl: Julia Wrappers for the arpack-ng Fortran library](https://github.com/JuliaLinearAlgebra/Arpack.jl)
 
 [JuliaLinearAlgebra/ArnoldiMethod.jl: Implicitly Restarted Arnoldi Method, natively in Julia](https://github.com/JuliaLinearAlgebra/ArnoldiMethod.jl)
 
@@ -484,9 +504,20 @@ Julia:
 
 [pablosanjose/QuadEig.jl: Julia implementation of the `quadeig` algorithm for the solution of quadratic matrix pencils](https://github.com/pablosanjose/QuadEig.jl)
 
+Spectral methods
+
 [JuliaApproximation/SpectralMeasures.jl: Julia package for finding the spectral measure of structured self adjoint operators](https://github.com/JuliaApproximation/SpectralMeasures.jl)
 
+
 [tpapp/SpectralKit.jl: Building blocks of spectral methods for Julia.](https://github.com/tpapp/SpectralKit.jl)
+
+Spasrse Slover
+
+Sparse[JuliaSparse/Pardiso.jl: Calling the PARDISO library from Julia](https://github.com/JuliaSparse/Pardiso.jl)
+
+Sparse[JuliaSparse/MKLSparse.jl: Make available to Julia the sparse functionality in MKL](https://github.com/JuliaSparse/MKLSparse.jl)
+
+Sparse[JuliaLang/SuiteSparse.jl: Development of SuiteSparse.jl, which ships as part of the Julia standard library.](https://github.com/JuliaLang/SuiteSparse.jl)
 
 Python:
 
@@ -809,6 +840,8 @@ Python:
 
 [optuna/optuna: A hyperparameter optimization framework](https://github.com/optuna/optuna)
 
+[huawei-noah/HEBO: Bayesian optimisation library developped by Huawei Noah's Ark Library](https://github.com/huawei-noah/HEBO)
+
 ### <span id="head37">3.4.7. Information theory</span>
 
 Julia:
@@ -969,6 +1002,8 @@ Python:
 
 [julrog/nn_vis: A project for processing neural networks and rendering to gain insights on the architecture and parameters of a model through a decluttered representation.](https://github.com/julrog/nn_vis)
 
+PowerPoints[dair-ai/ml-visuals: 🎨 ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.](https://github.com/dair-ai/ml-visuals)
+
 ## <span id="head50">3.6. Probablistic Machine Learning and Deep Learning</span>
 
 Julia:
@@ -1056,6 +1091,8 @@ Including agent based models
 
 [PerezHz/TaylorIntegration.jl: ODE integration using Taylor's method, and more, in Julia](https://github.com/PerezHz/TaylorIntegration.jl)
 
+[gideonsimpson/BasicMD.jl: A collection of basic routines for Molecular Dynamics simulations implemented in Julia](https://github.com/gideonsimpson/BasicMD.jl)
+
 Probablistic Numerical Methods:
 
 Julia:
@@ -1096,7 +1133,7 @@ Python：
 [DedalusProject/dedalus: A flexible framework for solving PDEs with modern spectral methods.](https://github.com/DedalusProject/dedalus)
 
 ## <span id="head56">3.8. Scientific Machine Learning (Differential Equation and ML)</span>
-
+[Zymrael/awesome-neural-ode: A collection of resources regarding the interplay between differential equations, deep learning, dynamical systems, control and numerical methods.](https://github.com/Zymrael/awesome-neural-ode)
 ### <span id="head57">3.8.1. Universal Differential Equations. (Neural differential equations)</span>
 
 Julia:
@@ -1127,6 +1164,7 @@ Julia:
 
 [foldfelis/NeuralOperators.jl: learning the solution operator for partial differential equations in pure Julia.](https://github.com/foldfelis/NeuralOperators.jl)
 
+[brekmeuris/DrMZ.jl: Deep renormalized Mori-Zwanzig (DrMZ) Julia package.](https://github.com/brekmeuris/DrMZ.jl)
 ## <span id="head60">3.9. Data Driven Methods (Equation Searching Methods)</span>
 
 Julia package including SINDy, Symbolic Regression, DMD
@@ -1303,6 +1341,8 @@ Display Julia Unicode in Latex
 [mossr/julia-mono-listings: LaTeX listings style for Julia and Unicode support for the JuliaMono font](https://github.com/mossr/julia-mono-listings)
 
 [wg030/jlcode: A latex package for displaying Julia code using the listings package. The package supports pdftex, luatex and xetex for compilation.](https://github.com/wg030/jlcode)
+
+[davibarreira/NotebookToLaTeX.jl: A Julia package for converting your Pluto and Jupyter Notebooks into beautiful Latex.](https://github.com/davibarreira/NotebookToLaTeX.jl)
 
 
 Web:

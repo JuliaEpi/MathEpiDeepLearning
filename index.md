@@ -415,6 +415,8 @@ Learn One equals learn many
 
 [SciML/QuasiMonteCarlo.jl: Lightweight and easy generation of quasi-Monte Carlo sequences with a ton of different methods on one API for easy parameter exploration in scientific machine learning (SciML)](https://github.com/SciML/QuasiMonteCarlo.jl)
 
+[SciML/SymbolicNumericIntegration.jl](https://github.com/SciML/SymbolicNumericIntegration.jl)
+
 Julia:
 
 [JuliaMath/QuadGK.jl: adaptive 1d numerical Gauss–Kronrod integration in Julia](https://github.com/JuliaMath/QuadGK.jl)
@@ -467,9 +469,11 @@ Matrix organization
 
 [JuliaLang/SparseArrays.jl: SparseArrays.jl is a Julia stdlib](https://github.com/JuliaLang/SparseArrays.jl)
 
-#### <span id="head18">Special Matrix</span>
+#### <span id="head18">Special Matrix and Arrays</span>
 
 [JuliaMatrices/SpecialMatrices.jl: Julia package for working with special matrix types.](https://github.com/JuliaMatrices/SpecialMatrices.jl)
+
+[SciML/LabelledArrays.jl: Arrays which also have a label for each element for easy scientific machine learning (SciML)](https://github.com/SciML/LabelledArrays.jl)
 
 #### <span id="head80"> Computation </span>
 [mcabbott/Tullio.jl: ⅀](https://github.com/mcabbott/Tullio.jl)
