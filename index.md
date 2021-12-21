@@ -38,6 +38,7 @@ Contents:
     - [3.1.3. Matrix and Tensor computation](#head17)
       - [Special Matrix](#head18)
       - [ Eigenvalues](#head19)
+      - [Tensor computation](#head80)
       - [Maps and Operators](#head20)
       - [Matrxi Equations](#head21)
       - [Kronecker-based algebra](#head22)
@@ -464,10 +465,20 @@ Matrix organization
 
 [JuliaSparse](https://github.com/JuliaSparse)
 
+[JuliaLang/SparseArrays.jl: SparseArrays.jl is a Julia stdlib](https://github.com/JuliaLang/SparseArrays.jl)
+
 #### <span id="head18">Special Matrix</span>
 
 [JuliaMatrices/SpecialMatrices.jl: Julia package for working with special matrix types.](https://github.com/JuliaMatrices/SpecialMatrices.jl)
 
+#### <span id="head80"> Computation </span>
+[mcabbott/Tullio.jl: ⅀](https://github.com/mcabbott/Tullio.jl)
+
+[JuliaLinearAlgebra/Octavian.jl: Multi-threaded BLAS-like library that provides pure Julia matrix multiplication](https://github.com/JuliaLinearAlgebra/Octavian.jl)
+
+[JuliaGPU/GemmKernels.jl: Flexible and performant GEMM kernels in Julia](https://github.com/JuliaGPU/GemmKernels.jl)
+
+[MasonProtter/Gaius.jl: Divide and Conquer Linear Algebra](https://github.com/MasonProtter/Gaius.jl)
 #### <span id="head19"> Eigenvalues and Solvers </span>
 
 [nep-pack/NonlinearEigenproblems.jl: Nonlinear eigenvalue problems in Julia: Iterative methods and benchmarks](https://github.com/nep-pack/NonlinearEigenproblems.jl)
@@ -475,6 +486,7 @@ Matrix organization
 [SciML/LinearSolve.jl: LinearSolve.jl: High-Performance Unified Linear Solvers](https://github.com/SciML/LinearSolve.jl)
 
 Julia:
+[JuliaLinearAlgebra/Arpack.jl: Julia Wrappers for the arpack-ng Fortran library](https://github.com/JuliaLinearAlgebra/Arpack.jl)
 
 [JuliaLinearAlgebra/ArnoldiMethod.jl: Implicitly Restarted Arnoldi Method, natively in Julia](https://github.com/JuliaLinearAlgebra/ArnoldiMethod.jl)
 
@@ -488,11 +500,20 @@ Julia:
 
 [pablosanjose/QuadEig.jl: Julia implementation of the `quadeig` algorithm for the solution of quadratic matrix pencils](https://github.com/pablosanjose/QuadEig.jl)
 
+Spectral methods
+
 [JuliaApproximation/SpectralMeasures.jl: Julia package for finding the spectral measure of structured self adjoint operators](https://github.com/JuliaApproximation/SpectralMeasures.jl)
+
 
 [tpapp/SpectralKit.jl: Building blocks of spectral methods for Julia.](https://github.com/tpapp/SpectralKit.jl)
 
-[JuliaSparse/Pardiso.jl: Calling the PARDISO library from Julia](https://github.com/JuliaSparse/Pardiso.jl)
+Spasrse Slover
+
+Sparse[JuliaSparse/Pardiso.jl: Calling the PARDISO library from Julia](https://github.com/JuliaSparse/Pardiso.jl)
+
+Sparse[JuliaSparse/MKLSparse.jl: Make available to Julia the sparse functionality in MKL](https://github.com/JuliaSparse/MKLSparse.jl)
+
+Sparse[JuliaLang/SuiteSparse.jl: Development of SuiteSparse.jl, which ships as part of the Julia standard library.](https://github.com/JuliaLang/SuiteSparse.jl)
 
 Python:
 
