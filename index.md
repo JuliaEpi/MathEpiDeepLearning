@@ -462,13 +462,17 @@ Matrix organization
 
 [JuliaLinearAlgebra](https://github.com/JuliaLinearAlgebra)
 
+[JuliaSparse](https://github.com/JuliaSparse)
+
 #### <span id="head18">Special Matrix</span>
 
 [JuliaMatrices/SpecialMatrices.jl: Julia package for working with special matrix types.](https://github.com/JuliaMatrices/SpecialMatrices.jl)
 
-#### <span id="head19"> Eigenvalues</span>
+#### <span id="head19"> Eigenvalues and Solvers </span>
 
 [nep-pack/NonlinearEigenproblems.jl: Nonlinear eigenvalue problems in Julia: Iterative methods and benchmarks](https://github.com/nep-pack/NonlinearEigenproblems.jl)
+
+[SciML/LinearSolve.jl: LinearSolve.jl: High-Performance Unified Linear Solvers](https://github.com/SciML/LinearSolve.jl)
 
 Julia:
 
@@ -487,6 +491,8 @@ Julia:
 [JuliaApproximation/SpectralMeasures.jl: Julia package for finding the spectral measure of structured self adjoint operators](https://github.com/JuliaApproximation/SpectralMeasures.jl)
 
 [tpapp/SpectralKit.jl: Building blocks of spectral methods for Julia.](https://github.com/tpapp/SpectralKit.jl)
+
+[JuliaSparse/Pardiso.jl: Calling the PARDISO library from Julia](https://github.com/JuliaSparse/Pardiso.jl)
 
 Python:
 
@@ -808,6 +814,8 @@ Python:
 [pytorch/botorch: Bayesian optimization in PyTorch](https://github.com/pytorch/botorch)
 
 [optuna/optuna: A hyperparameter optimization framework](https://github.com/optuna/optuna)
+
+[huawei-noah/HEBO: Bayesian optimisation library developped by Huawei Noah's Ark Library](https://github.com/huawei-noah/HEBO)
 
 ### <span id="head37">3.4.7. Information theory</span>
 
