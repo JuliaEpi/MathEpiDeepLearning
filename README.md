@@ -191,6 +191,8 @@ Pandas
 
 ## <span id="head4"> Smoothing</span>
 
+[PumasAI/DataInterpolations.jl: A library of data interpolation and smoothing functions](https://github.com/PumasAI/DataInterpolations.jl)
+
 [viraltux/Smoothers.jl: Collection of basic smoothers and smoothing related applications](https://github.com/viraltux/Smoothers.jl)
 
 Expotential Smoothing:
@@ -1004,6 +1006,12 @@ Python:
 
 PowerPoints[dair-ai/ml-visuals: 🎨 ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.](https://github.com/dair-ai/ml-visuals)
 
+### Semi-supervised Learning
+
+Python:
+
+[TorchSSL/TorchSSL: A PyTorch-based library for semi-supervised learning (NeurIPS'21)](https://github.com/TorchSSL/TorchSSL)
+
 ## <span id="head50">3.6. Probablistic Machine Learning and Deep Learning</span>
 
 Julia:
@@ -1313,6 +1321,8 @@ Julia:
 ### <span id="head72">4.3.2. Intepolations</span>
 
 Julia:
+
+[PumasAI/DataInterpolations.jl: A library of data interpolation and smoothing functions](https://github.com/PumasAI/DataInterpolations.jl)
 
 [JuliaMath/Interpolations.jl: Fast, continuous interpolation of discrete datasets in Julia](https://github.com/JuliaMath/Interpolations.jl)
 
