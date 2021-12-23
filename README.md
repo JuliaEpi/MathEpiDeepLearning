@@ -1367,8 +1367,12 @@ Web:
 
 [tlienart/Franklin.jl: (yet another) static site generator. Simple, customisable, fast, maths with KaTeX, code evaluation, optional pre-rendering, in Julia.](https://github.com/tlienart/Franklin.jl)
 
+[一个傻瓜式构建可视化 web的 Python 神器 -- streamlit](https://mp.weixin.qq.com/s/AxZPxQgLfJ6g8bhonTvKxA)
 
-GitHun Profile Settings:
+[streamlit/streamlit: Streamlit — The fastest way to build data apps in Python](https://github.com/streamlit/streamlit)
+
+
+GitHub Profile Settings:
 
 [abhisheknaiidu/awesome-github-profile-readme: 😎 A curated list of awesome GitHub Profile READMEs 📝](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
