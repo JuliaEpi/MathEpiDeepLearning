@@ -1232,6 +1232,10 @@ Python:
 
 [SALib/SALib: Sensitivity Analysis Library in Python. Contains Sobol, Morris, FAST, and other methods.](https://github.com/SALib/SALib)
 
+R:
+
+sensitivity
+
 ## <span id="head77">3.11. Optimal Transportation</span>
 
 
@@ -1338,6 +1342,9 @@ Julia:
 ## <span id="head73">4.2. Bifurcation</span>
 
 [rveltz/BifurcationKit.jl: A Julia package to perform Bifurcation Analysis](https://github.com/rveltz/BifurcationKit.jl)
+
+## 4.4 Polynomials
+[JuliaMath/Polynomials.jl: Polynomial manipulations in Julia](https://github.com/JuliaMath/Polynomials.jl)
 
 # <span id="head74">5. Writings, Blog and Web</span>
 
