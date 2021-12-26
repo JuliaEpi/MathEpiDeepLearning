@@ -191,6 +191,8 @@ Pandas
 
 ## <span id="head4"> Smoothing</span>
 
+[PumasAI/DataInterpolations.jl: A library of data interpolation and smoothing functions](https://github.com/PumasAI/DataInterpolations.jl)
+
 [viraltux/Smoothers.jl: Collection of basic smoothers and smoothing related applications](https://github.com/viraltux/Smoothers.jl)
 
 Expotential Smoothing:
@@ -549,11 +551,17 @@ Python:
 
 [MichielStock/Kronecker.jl: A general-purpose toolbox for efficient Kronecker-based algebra.](https://github.com/MichielStock/Kronecker.jl)
 
-### <span id="head23">3.1.4. CPU, GPU and TPU</span>
+### <span id="head23">3.1.4.Platforms, CPU, GPU and TPU</span>
 
 Julia GPU organization
 
 [JuliaGPU](https://github.com/JuliaGPU)
+
+Python:
+
+[tonybaloney/Pyjion: Pyjion - A JIT for Python based upon CoreCLR](https://github.com/tonybaloney/Pyjion)
+
+[numba/numba: NumPy aware dynamic Python compiler using LLVM](https://github.com/numba/numba)
 
 ## <span id="head24">3.2. Optimization</span>
 
@@ -998,11 +1006,18 @@ Python:
 
 Python:
 
+
 [ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network: Tools to Design or Visualize Architecture of Neural Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
 
 [julrog/nn_vis: A project for processing neural networks and rendering to gain insights on the architecture and parameters of a model through a decluttered representation.](https://github.com/julrog/nn_vis)
 
 PowerPoints[dair-ai/ml-visuals: 🎨 ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.](https://github.com/dair-ai/ml-visuals)
+
+### Semi-supervised Learning
+
+Python:
+
+[TorchSSL/TorchSSL: A PyTorch-based library for semi-supervised learning (NeurIPS'21)](https://github.com/TorchSSL/TorchSSL)
 
 ## <span id="head50">3.6. Probablistic Machine Learning and Deep Learning</span>
 
@@ -1223,6 +1238,10 @@ Python:
 
 [SALib/SALib: Sensitivity Analysis Library in Python. Contains Sobol, Morris, FAST, and other methods.](https://github.com/SALib/SALib)
 
+R:
+
+sensitivity
+
 ## <span id="head77">3.11. Optimal Transportation</span>
 
 
@@ -1314,6 +1333,8 @@ Julia:
 
 Julia:
 
+[PumasAI/DataInterpolations.jl: A library of data interpolation and smoothing functions](https://github.com/PumasAI/DataInterpolations.jl)
+
 [JuliaMath/Interpolations.jl: Fast, continuous interpolation of discrete datasets in Julia](https://github.com/JuliaMath/Interpolations.jl)
 
 [kbarbary/Dierckx.jl: Julia package for 1-d and 2-d splines](https://github.com/kbarbary/Dierckx.jl)
@@ -1327,6 +1348,9 @@ Julia:
 ## <span id="head73">4.2. Bifurcation</span>
 
 [rveltz/BifurcationKit.jl: A Julia package to perform Bifurcation Analysis](https://github.com/rveltz/BifurcationKit.jl)
+
+## 4.4 Polynomials
+[JuliaMath/Polynomials.jl: Polynomial manipulations in Julia](https://github.com/JuliaMath/Polynomials.jl)
 
 # <span id="head74">5. Writings, Blog and Web</span>
 
@@ -1349,8 +1373,12 @@ Web:
 
 [tlienart/Franklin.jl: (yet another) static site generator. Simple, customisable, fast, maths with KaTeX, code evaluation, optional pre-rendering, in Julia.](https://github.com/tlienart/Franklin.jl)
 
+[一个傻瓜式构建可视化 web的 Python 神器 -- streamlit](https://mp.weixin.qq.com/s/AxZPxQgLfJ6g8bhonTvKxA)
 
-GitHun Profile Settings:
+[streamlit/streamlit: Streamlit — The fastest way to build data apps in Python](https://github.com/streamlit/streamlit)
+
+
+GitHub Profile Settings:
 
 [abhisheknaiidu/awesome-github-profile-readme: 😎 A curated list of awesome GitHub Profile READMEs 📝](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 

@@ -551,11 +551,17 @@ Python:
 
 [MichielStock/Kronecker.jl: A general-purpose toolbox for efficient Kronecker-based algebra.](https://github.com/MichielStock/Kronecker.jl)
 
-### <span id="head23">3.1.4. CPU, GPU and TPU</span>
+### <span id="head23">3.1.4.Platforms, CPU, GPU and TPU</span>
 
 Julia GPU organization
 
 [JuliaGPU](https://github.com/JuliaGPU)
+
+Python:
+
+[tonybaloney/Pyjion: Pyjion - A JIT for Python based upon CoreCLR](https://github.com/tonybaloney/Pyjion)
+
+[numba/numba: NumPy aware dynamic Python compiler using LLVM](https://github.com/numba/numba)
 
 ## <span id="head24">3.2. Optimization</span>
 

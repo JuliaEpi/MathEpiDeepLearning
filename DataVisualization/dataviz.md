@@ -47,6 +47,8 @@ Tool[ImageGP | 易汉博生物信息在线作图](http://www.ehbio.com/ImageGP/)
 ## 2.4. Special type of graphs.
 
 ### Map
+[11个S级工具，满足「地理空间数据可视化」的一切幻想](https://mp.weixin.qq.com/s/09yV8B3PvVUz-vBqTEswdg)
+
 [爱了！！这种小清新地图一眼就上头，赶快学习一下吧~](https://mp.weixin.qq.com/s/EWqOsNJRONzx5bCButs6cw)
 
 [绘图技巧 | 绘制带饼图的地图可视化技巧分享](https://mp.weixin.qq.com/s/5Rqt6IF02bo-i4V0uRM62w)
@@ -169,6 +171,8 @@ pyecharts[简介 - pyecharts - A Python Echarts Plotting Library built with love
  
  
  地图库合集：[Python 如何画出漂亮的地图？ - 知乎](https://www.zhihu.com/question/33783546)
+
+ [11个S级工具，满足「地理空间数据可视化」的一切幻想](https://mp.weixin.qq.com/s/09yV8B3PvVUz-vBqTEswdg)
 
 geopandas： 地图[GeoPandas 0.9.0 — GeoPandas 0.9.0 documentation](https://geopandas.org/)
 
