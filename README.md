@@ -471,6 +471,15 @@ Matrix organization
 
 [JuliaLang/SparseArrays.jl: SparseArrays.jl is a Julia stdlib](https://github.com/JuliaLang/SparseArrays.jl)
 
+
+Python:
+
+numpy
+
+numba
+
+[scikit-hep/awkward-1.0: Manipulate JSON-like data with NumPy-like idioms.](https://github.com/scikit-hep/awkward-1.0)
+
 #### <span id="head18">Special Matrix and Arrays</span>
 
 [JuliaMatrices/SpecialMatrices.jl: Julia package for working with special matrix types.](https://github.com/JuliaMatrices/SpecialMatrices.jl)
@@ -1147,6 +1156,19 @@ Python：
 
 [DedalusProject/dedalus: A flexible framework for solving PDEs with modern spectral methods.](https://github.com/DedalusProject/dedalus)
 
+### 3.7.2 Fractional Differential and Calculus
+Julia
+
+[SciFracX](https://github.com/SciFracX)
+
+[SciFracX/FractionalDiffEq.jl: FractionalDiffEq.jl: A Julia package aiming at solving Fractional Differential Equations using high performance numerical methods](https://github.com/SciFracX/FractionalDiffEq.jl)
+
+[SciFracX/FractionalSystems.jl: Fractional order modeling and analysis in Julia.](https://github.com/SciFracX/FractionalSystems.jl)
+
+[SciFracX/FractionalCalculus.jl: FractionalCalculus.jl: A Julia package for high performance, fast convergence and high precision numerical fractional calculus computing.](https://github.com/SciFracX/FractionalCalculus.jl)
+
+[SciFracX/FractionalTransforms.jl: FractionalTransforms.jl: A Julia package aiming at providing fractional order transforms with high performance.](https://github.com/SciFracX/FractionalTransforms.jl)
+
 ## <span id="head56">3.8. Scientific Machine Learning (Differential Equation and ML)</span>
 [Zymrael/awesome-neural-ode: A collection of resources regarding the interplay between differential equations, deep learning, dynamical systems, control and numerical methods.](https://github.com/Zymrael/awesome-neural-ode)
 ### <span id="head57">3.8.1. Universal Differential Equations. (Neural differential equations)</span>
@@ -1376,6 +1398,8 @@ Web:
 [一个傻瓜式构建可视化 web的 Python 神器 -- streamlit](https://mp.weixin.qq.com/s/AxZPxQgLfJ6g8bhonTvKxA)
 
 [streamlit/streamlit: Streamlit — The fastest way to build data apps in Python](https://github.com/streamlit/streamlit)
+
+[gradio-app/gradio: Create UIs for your machine learning model in Python in 3 minutes](https://github.com/gradio-app/gradio)
 
 
 GitHub Profile Settings:
