@@ -759,6 +759,8 @@ Julia: (few)
 
 Python:
 
+[sbi-benchmark/sbibm: Simulation-based inference benchmark](https://github.com/sbi-benchmark/sbibm)
+
 [elfi-dev/elfi: ELFI - Engine for Likelihood-Free Inference](https://github.com/elfi-dev/elfi)
 
 [eth-cscs/abcpy: ABCpy package](https://github.com/eth-cscs/abcpy)
@@ -971,6 +973,7 @@ Python:
 
 [tensorlayer/tensorlayer: Deep Learning and Reinforcement Learning Library for Scientists and Engineers 🔥](https://github.com/tensorlayer/tensorlayer)
 
+[pfnet/pfrl: PFRL: a PyTorch-based deep reinforcement learning library](https://github.com/pfnet/pfrl)
 ### <span id="head45">3.5.4. GNN</span>
 
 Julia:
