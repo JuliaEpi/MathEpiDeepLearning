@@ -686,6 +686,8 @@ casadi is powerful!
 
 [StatisticalRethinkingJulia](https://github.com/StatisticalRethinkingJulia)
 
+[StanJulia](https://github.com/StanJulia)
+
 Julia:
 
 [The Turing Language](https://github.com/TuringLang)

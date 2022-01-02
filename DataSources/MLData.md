@@ -9,3 +9,6 @@
 
 [TensorFlow Datasets](https://www.tensorflow.org/datasets/catalog/overview#all_datasets)
 
+
+Stanford Graph Datasets
+[Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/)
