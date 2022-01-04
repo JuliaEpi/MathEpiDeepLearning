@@ -1269,6 +1269,10 @@ R:
 
 sensitivity
 
+fast
+
+sensobol
+
 ## <span id="head77">3.11. Optimal Transportation</span>
 
 
