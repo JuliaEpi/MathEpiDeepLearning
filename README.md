@@ -933,11 +933,15 @@ Python:
 
 [nubank/fklearn: fklearn: Functional Machine Learning](https://github.com/nubank/fklearn)
 
+[wecarsoniv/augmented-pca: Repository for the AugmentedPCA Python package.](https://github.com/wecarsoniv/augmented-pca)
+
 Data Generation
 
 [snorkel-team/snorkel: A system for quickly generating training data with weak supervision](https://github.com/snorkel-team/snorkel)
 
 [lk-geimfari/mimesis: Mimesis is a high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages.](https://github.com/lk-geimfari/mimesis)
+
+
 
 ### <span id="head43">3.5.2. Deep Learning</span>
 
