@@ -292,8 +292,20 @@ Julia:
 
 Python:
 
+[Deep Learning for Survival Analysis](https://humboldt-wi.github.io/blog/research/information_systems_1920/group2_survivalanalysis/)
+
+[sebp/scikit-survival: Survival analysis built on top of scikit-learn](https://github.com/sebp/scikit-survival)
+
+[havakv/pycox: Survival analysis with PyTorch](https://github.com/havakv/pycox)
+
 [CamDavidsonPilon/lifelines: Survival analysis in Python](https://github.com/camDavidsonPilon/lifelines)
 
+[chl8856/DeepHit: DeepHit: A Deep Learning Approach to Survival Analysis with Competing Risks](https://github.com/chl8856/DeepHit)
+
+
+[jaredleekatzman/DeepSurv: DeepSurv is a deep learning approach to survival analysis.](https://github.com/jaredleekatzman/DeepSurv)
+
+[square/pysurvival: Open source package for Survival Analysis modeling](https://github.com/square/pysurvival/)
 ## <span id="head9">2.4. Data Visulization</span>
 
 [Data Visualization Resources](/DataVisualization/dataviz/)
@@ -686,6 +698,8 @@ casadi is powerful!
 
 [StatisticalRethinkingJulia](https://github.com/StatisticalRethinkingJulia)
 
+[StanJulia](https://github.com/StanJulia)
+
 Julia:
 
 [The Turing Language](https://github.com/TuringLang)
@@ -931,11 +945,15 @@ Python:
 
 [nubank/fklearn: fklearn: Functional Machine Learning](https://github.com/nubank/fklearn)
 
+[wecarsoniv/augmented-pca: Repository for the AugmentedPCA Python package.](https://github.com/wecarsoniv/augmented-pca)
+
 Data Generation
 
 [snorkel-team/snorkel: A system for quickly generating training data with weak supervision](https://github.com/snorkel-team/snorkel)
 
 [lk-geimfari/mimesis: Mimesis is a high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages.](https://github.com/lk-geimfari/mimesis)
+
+
 
 ### <span id="head43">3.5.2. Deep Learning</span>
 
@@ -1266,6 +1284,10 @@ Python:
 R:
 
 sensitivity
+
+fast
+
+sensobol
 
 ## <span id="head77">3.11. Optimal Transportation</span>
 

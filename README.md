@@ -292,8 +292,20 @@ Julia:
 
 Python:
 
+[Deep Learning for Survival Analysis](https://humboldt-wi.github.io/blog/research/information_systems_1920/group2_survivalanalysis/)
+
+[sebp/scikit-survival: Survival analysis built on top of scikit-learn](https://github.com/sebp/scikit-survival)
+
+[havakv/pycox: Survival analysis with PyTorch](https://github.com/havakv/pycox)
+
 [CamDavidsonPilon/lifelines: Survival analysis in Python](https://github.com/camDavidsonPilon/lifelines)
 
+[chl8856/DeepHit: DeepHit: A Deep Learning Approach to Survival Analysis with Competing Risks](https://github.com/chl8856/DeepHit)
+
+
+[jaredleekatzman/DeepSurv: DeepSurv is a deep learning approach to survival analysis.](https://github.com/jaredleekatzman/DeepSurv)
+
+[square/pysurvival: Open source package for Survival Analysis modeling](https://github.com/square/pysurvival/)
 ## <span id="head9">2.4. Data Visulization</span>
 
 [Data Visualization Resources](/DataVisualization/dataviz/)
