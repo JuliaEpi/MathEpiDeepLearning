@@ -205,6 +205,7 @@ Best[配色案例,网页配色,设计配色,配色图表,配色卡,SDC优设网�
 
 [颜色系(color palette)是什么？一文带你掌握全部用法！](https://mp.weixin.qq.com/s/QtdxVR7Gpal8KjNXSgSu6g)
 
+[默认配色辣眼睛？！那是你没发现这些宝藏学术颜色包(Colormaps)~~](https://mp.weixin.qq.com/s/sWGlKscW__dOjugjHOtxAw)
 # 6.1. R
 paletteer
 

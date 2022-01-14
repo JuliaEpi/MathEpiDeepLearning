@@ -906,6 +906,10 @@ Julia:
 
 [mschauer/CausalInference.jl: Causal inference, graphical models and structure learning with the PC algorithm.](https://github.com/mschauer/CausalInference.jl)
 
+python
+
+Review: [rguo12/awesome-causality-algorithms: An index of algorithms for learning causality with data](https://github.com/rguo12/awesome-causality-algorithms)
+
 ### <span id="head40">3.4.10. Sampling</span>
 
 [MrUrq/LatinHypercubeSampling.jl: Julia package for the creation of optimised Latin Hypercube Sampling Plans](https://github.com/MrUrq/LatinHypercubeSampling.jl)
