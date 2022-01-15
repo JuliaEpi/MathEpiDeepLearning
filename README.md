@@ -1237,6 +1237,8 @@ Julia package including SINDy, Symbolic Regression, DMD
 
 ### <span id="head61">3.9.1. Symbolic Regression</span>
 
+[cavalab/srbench: A living benchmark framework for symbolic regression](https://github.com/cavalab/srbench)
+
 Python:
 
 [trevorstephens/gplearn: Genetic Programming in Python, with a scikit-learn inspired API](https://github.com/trevorstephens/gplearn)
