@@ -668,6 +668,8 @@ Julia:
 
 ## <span id="head29">3.3. Optimal Control</span>
 
+[eleurent/phd-bibliography: References on Optimal Control, Reinforcement Learning and Motion Planning](https://github.com/eleurent/phd-bibliography)
+
 Julia: Jump + InfiniteOpt
 
 Jump is powerfull!!!
@@ -691,6 +693,17 @@ Python:
 casadi is powerful!
 
 [python-control/python-control: The Python Control Systems Library is a Python module that implements basic operations for analysis and design of feedback control systems.](https://github.com/python-control/python-control)
+
+[Shunichi09/PythonLinearNonlinearControl: PythonLinearNonLinearControl is a library implementing the linear and nonlinear control theories in python.](https://github.com/Shunichi09/PythonLinearNonlinearControl)
+
+
+Matlab:
+
+[OpenOCL/OpenOCL: Open Optimal Control Library for Matlab. Trajectory Optimization and non-linear Model Predictive Control (MPC) toolbox.](https://github.com/OpenOCL/OpenOCL)
+
+[jkoendev/optimal-control-literature-software: List of literature and software for optimal control and numerical optimization.](https://github.com/jkoendev/optimal-control-literature-software)
+
+
 
 
 
@@ -1122,7 +1135,12 @@ Python:
 
 [Ritvik19/pyradox-generative at pythonrepo.com](https://github.com/Ritvik19/pyradox-generative?ref=pythonrepo.com)
 
+### 3.6.4 BNN
+[JavierAntoran/Bayesian-Neural-Networks: Pytorch implementations of Bayes By Backprop, MC Dropout, SGLD, the Local Reparametrization Trick, KF-Laplace, SG-HMC and more](https://github.com/JavierAntoran/Bayesian-Neural-Networks)
 
+[RajDandekar/MSML21_BayesianNODE](https://github.com/RajDandekar/MSML21_BayesianNODE)
+
+[bayesian-neural-networks · GitHub Topics](https://github.com/topics/bayesian-neural-networks)
 ## <span id="head54">3.7. Differential Equations and Scientific Computation</span>
 
 Julia:
