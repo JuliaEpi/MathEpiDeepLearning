@@ -1220,6 +1220,8 @@ Julia:
 
 [SciML/DiffEqFlux.jl: Universal neural differential equations with O(1) backprop, GPUs, and stiff+non-stiff DE solvers, demonstrating scientific machine learning (SciML) and physics-informed machine learning methods](https://github.com/SciML/DiffEqFlux.jl)
 
+[avik-pal/FastDEQ.jl: Deep Equilibrium Networks (but faster!!!)](https://github.com/avik-pal/FastDEQ.jl)
+
 Python:
 
 [DiffEqML/torchdyn: A PyTorch based library for all things neural differential equations and implicit neural models.](https://github.com/DiffEqML/torchdyn)

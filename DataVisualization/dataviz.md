@@ -101,6 +101,9 @@ Python: zepid
 scatterPlotMatrix
 
 [scatterPlotMatrix包：一行命令轻松搞定交互式散点图矩阵](https://mp.weixin.qq.com/s/sPq8n60WqynV-qrmbGVe7Q)
+
+### 竞赛图
+[JackMcKew/pandas_alive: Create stunning, animated visualisations with Pandas & Matplotlib as easy as calling `df.plot_animated()`](https://github.com/JackMcKew/pandas_alive)
 # 3. R
 [erikgahner/awesome-ggplot2: A curated list of awesome ggplot2 tutorials, packages etc.](https://github.com/erikgahner/awesome-ggplot2)
 
@@ -187,6 +190,13 @@ bqplot交互式图形
 
 # 5. Julia
 
+
+
+地图
+
+[JuliaEarth](https://github.com/JuliaEarth)
+
+[JuliaGeometry](https://github.com/JuliaGeometry)
 
 # 6. Handling Colors, Color palettes
 Best[配色案例,网页配色,设计配色,配色图表,配色卡,SDC优设网配色工具](https://color.uisdc.com/pick.html)

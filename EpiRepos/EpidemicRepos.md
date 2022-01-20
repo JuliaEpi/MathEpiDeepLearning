@@ -72,3 +72,15 @@ Python:
 Julia:
 
 [R-DjidjouDemasse/Age-structured-model-COVID19-Julia-code: Age-structured non-pharmaceutical interventions for optimal control of COVID-19 epidemic by Q. Richard, S. Alizon, M. Choisy, M.T. Sofonea, R. Djidjou-Demasse](https://github.com/R-DjidjouDemasse/Age-structured-model-COVID19-Julia-code)
+
+
+# Epiforecasting
+[The Reich Lab at UMass-Amherst](https://github.com/reichlab)
+
+[reichlab/covid19-forecast-hub: Projections of COVID-19, in standardized format](https://github.com/reichlab/covid19-forecast-hub)
+# Social Contact Matrix
+[sbfnk/epimixr: Epidemiological analysis using social mixing matrices](https://github.com/sbfnk/epimixr)
+
+# Rt
+
+[epiforecasts/covid-rt-estimates: National and subnational estimates of the time-varying reproduction number for Covid-19](https://github.com/epiforecasts/covid-rt-estimates)
