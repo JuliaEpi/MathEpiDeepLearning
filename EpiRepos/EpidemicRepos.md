@@ -1,3 +1,5 @@
+
+[midas-network/COVID-19: 2019 novel coronavirus repository](https://github.com/midas-network/COVID-19)
 # Compartment Models
 Python:
 
@@ -84,3 +86,9 @@ Julia:
 # Rt
 
 [epiforecasts/covid-rt-estimates: National and subnational estimates of the time-varying reproduction number for Covid-19](https://github.com/epiforecasts/covid-rt-estimates)
+
+[Estimate Real-Time Case Counts and Time-Varying Epidemiological Parameters • EpiNow2](https://epiforecasts.io/EpiNow2/)
+
+[mrc-ide/EpiEstim: A tool to estimate time varying instantaneous reproduction number during epidemics](https://github.com/mrc-ide/EpiEstim)
+
+[lo-hfk/epyestim: Python package to estimate the time-varying effective reproduction number of an epidemic from reported case numbers](https://github.com/lo-hfk/epyestim)

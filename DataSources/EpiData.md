@@ -8,6 +8,15 @@ ECDC[Homepage | European Centre for Disease Prevention and Control](https://www.
 
 [Coronavirus disease (COVID-19) outbreak updates, symptoms, prevention, travel, preparation - Canada.ca](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html)
 
+# Packages
+[covid19datahub/COVID19: A worldwide epidemiological database for COVID-19 at fine-grained spatial resolution](https://github.com/covid19datahub/COVID19)
+
+[Subnational Data for COVID-19 Epidemiology • covidregionaldata](https://epiforecasts.io/covidregionaldata/)
+
+[kjhealy/covdata: COVID-related data from a variety of sources, packaged for use in R](https://github.com/kjhealy/covdata)
+
+[mponce0/covid19.analytics: R package to obtain and analyze live data from the nCOVID19 coronavirus](https://github.com/mponce0/covid19.analytics)
+
 # Good Datasets
 
 
