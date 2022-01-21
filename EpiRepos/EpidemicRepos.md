@@ -1,5 +1,7 @@
 
 [midas-network/COVID-19: 2019 novel coronavirus repository](https://github.com/midas-network/COVID-19)
+
+[Priesemann-Group/covid19_inference_forecast](https://github.com/Priesemann-Group/covid19_inference_forecast)
 # Compartment Models
 Python:
 

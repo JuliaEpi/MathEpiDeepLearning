@@ -1230,6 +1230,8 @@ Python:
 
 ### <span id="head58">3.8.2. Physical Informed Neural Netwworks</span>
 
+[Predictive Intelligence Lab](https://github.com/PredictiveIntelligenceLab)
+
 Julia:
 
 [SciML/NeuralPDE.jl: Physics-Informed Neural Networks (PINN) and Deep BSDE Solvers of Differential Equations for Scientific Machine Learning (SciML) accelerated simulation](https://github.com/SciML/NeuralPDE.jl)
