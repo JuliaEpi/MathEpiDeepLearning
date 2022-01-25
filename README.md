@@ -1250,6 +1250,8 @@ Julia:
 
 [foldfelis/NeuralOperators.jl: learning the solution operator for partial differential equations in pure Julia.](https://github.com/foldfelis/NeuralOperators.jl)
 
+[CliMA/OperatorFlux.jl: Operator layers for Flux.jl](https://github.com/CliMA/OperatorFlux.jl)
+
 [brekmeuris/DrMZ.jl: Deep renormalized Mori-Zwanzig (DrMZ) Julia package.](https://github.com/brekmeuris/DrMZ.jl)
 ## <span id="head60">3.9. Data Driven Methods (Equation Searching Methods)</span>
 
