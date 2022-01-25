@@ -860,6 +860,8 @@ Julia:
 
 [JuliaGaussianProcesses/Stheno.jl: Probabilistic Programming with Gaussian processes in Julia](https://github.com/JuliaGaussianProcesses/Stheno.jl)
 
+[STOR-i/GaussianProcesses.jl: A Julia package for Gaussian Processes](https://github.com/STOR-i/GaussianProcesses.jl)
+
 Python:
 
 [cornellius-gp/gpytorch: A highly efficient and modular implementation of Gaussian Processes in PyTorch](https://github.com/cornellius-gp/gpytorch)
