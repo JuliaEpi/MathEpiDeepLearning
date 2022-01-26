@@ -2,6 +2,10 @@
 [midas-network/COVID-19: 2019 novel coronavirus repository](https://github.com/midas-network/COVID-19)
 
 [Priesemann-Group/covid19_inference_forecast](https://github.com/Priesemann-Group/covid19_inference_forecast)
+
+Julia: [epirecipes/sir-julia: Various implementations of the classical SIR model in Julia](https://github.com/epirecipes/sir-julia)
+
+R: [EpiModel/EpiModel: Mathematical Modeling of Infectious Disease Dynamics](https://github.com/EpiModel/EpiModel)
 # Compartment Models
 Python:
 
@@ -21,6 +25,8 @@ Include data cleaning[berndblasius/Covid19: Wang et al SEIR-like model for 2019/
 
 # Agent based modelling
 Julia:
+
+[jangevaare/Pathogen.jl: Simulation, visualization, and inference tools for modelling the spread of infectious diseases with Julia](https://github.com/jangevaare/Pathogen.jl)
 
 [affans/covid19abm.jl: Agent Based Model for COVID 19 transmission dynamics](https://github.com/affans/covid19abm.jl)
 
@@ -56,9 +62,15 @@ Matlab:
 # Network Model
 Julia:
 
+[csimal/NetworkEpidemics.jl: A Small package for simulating epidemic spreading on networks, including a generic Gillespie algorithm and Mean Field Approximations](https://github.com/csimal/NetworkEpidemics.jl)
+
 [EdMHill/covid19_uni_network_model](https://github.com/EdMHill/covid19_uni_network_model)
 
 [EdMHill/covid19_worker_network_model](https://github.com/EdMHill/covid19_worker_network_model)
+
+[social_agent_based_modelling/scripts at 606f5ec1ed51781926b7891f67f87ac4404c7d57 · lquante/social_agent_based_modelling](https://github.com/lquante/social_agent_based_modelling/tree/606f5ec1ed51781926b7891f67f87ac4404c7d57/scripts)
+
+[csimal/temporal-networks](https://github.com/csimal/temporal-networks)
 
 
 
@@ -70,6 +82,13 @@ Python:
 
 [COVID-IWG/epimargin: networked, stochastic SIRD epidemiological model with Bayesian parameter estimation and policy scenario comparison tools](https://github.com/COVID-IWG/epimargin)
 
+[springer-math/Mathematics-of-Epidemics-on-Networks: Source code accompanying 'Mathematics of Epidemics on Networks' by Kiss, Miller, and Simon http://www.springer.com/us/book/9783319508047 . Documentation for the software package is at https://epidemicsonnetworks.readthedocs.io/en/latest/](https://github.com/springer-math/Mathematics-of-Epidemics-on-Networks)
+
+[simoninireland/epydemic: Epidemic processes on networks in Python](https://github.com/simoninireland/epydemic)
+
+R:
+
+[EpiModel/EpiModel-Gallery: Gallery of Network-Based Epidemic Model Templates for EpiModel](https://github.com/EpiModel/EpiModel-Gallery)
 
 # Partial Differential Model
 

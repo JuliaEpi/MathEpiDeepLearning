@@ -1338,6 +1338,10 @@ Python:
 
 
 ## <span id="head81">3.12. Agents, Graph and Networks</span>
+[Computational Modeling Software Frameworks](https://www.comses.net/resources/modeling-frameworks/)
+
+
+
 Julia:
 
 [JuliaDynamics/Agents.jl: Agent-based modeling framework in Julia](https://github.com/JuliaDynamics/Agents.jl)
