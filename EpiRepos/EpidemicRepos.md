@@ -16,6 +16,8 @@ Julia
 
 Include data cleaning[berndblasius/Covid19: Wang et al SEIR-like model for 2019/20 Covid-19 outbreak](https://github.com/berndblasius/Covid19)
 
+[jtmatamalas/MMCAcovid19.jl: Microscopic Markov Chain Approach to model the spreading of COVID-19](https://github.com/jtmatamalas/MMCAcovid19.jl)
+
 
 [affans/covid-19-lancetid: A clone of Peter Jentsch's covid19 model](https://github.com/affans/covid-19-lancetid)
 
@@ -61,6 +63,8 @@ Matlab:
 
 # Network Model
 Julia:
+
+[bridgewalker/Fastnet.jl](https://github.com/bridgewalker/Fastnet.jl)
 
 [csimal/NetworkEpidemics.jl: A Small package for simulating epidemic spreading on networks, including a generic Gillespie algorithm and Mean Field Approximations](https://github.com/csimal/NetworkEpidemics.jl)
 
