@@ -75,6 +75,8 @@ Best[OxCGRT/covid-policy-tracker: Systematic dataset of Covid-19 policy, from Ox
 
 [CoronaNet Research Project](https://www.coronanet-project.org/)
 
+[lshtm-gis/WHO-PHSM: Repository for releases of the WHO PHSM dataset](https://github.com/lshtm-gis/WHO-PHSM)
+
 # Contact Matrix
 
 [mobs-lab/mixing-patterns: Inferring high-resolution human mixing patterns for disease modeling](https://github.com/mobs-lab/mixing-patterns)
