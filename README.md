@@ -921,6 +921,8 @@ Julia:
 
 [mschauer/CausalInference.jl: Causal inference, graphical models and structure learning with the PC algorithm.](https://github.com/mschauer/CausalInference.jl)
 
+[JuliaDynamics/CausalityTools.jl: Algorithms for causal inference and the detection of dynamical coupling from time series, and for approximation of the transfer operator and invariant measures.](https://github.com/JuliaDynamics/CausalityTools.jl)
+
 python
 
 Review: [rguo12/awesome-causality-algorithms: An index of algorithms for learning causality with data](https://github.com/rguo12/awesome-causality-algorithms)
