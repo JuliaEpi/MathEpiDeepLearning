@@ -58,6 +58,8 @@ Tool[ImageGP | 易汉博生物信息在线作图](http://www.ehbio.com/ImageGP/)
 [绘图技巧 | 第七次全国人口普查数据还能这么玩！？技巧都在这了](https://mp.weixin.qq.com/s/Fjs-sncZfX4JtcPwoZ6fhA)
 
 [Jupyter Notebook - kepler.gl](https://docs.kepler.gl/docs/keplergl-jupyter)
+
+[visgl/deck.gl: WebGL2 powered visualization framework](https://github.com/visgl/deck.gl)
 ### Chord Graph
 [绘图技巧 | 和弦图(Chord diagram)绘制方法汇总](https://mp.weixin.qq.com/s/-gVz8zuDWcLrZ5EqVlQp5w)
 ### Forest Plot

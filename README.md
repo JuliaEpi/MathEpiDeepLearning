@@ -1338,6 +1338,8 @@ Python:
 
 [PythonOT/POT: POT : Python Optimal Transport](https://github.com/PythonOT/POT)
 
+[ott-jax/ott](https://github.com/ott-jax/ott)
+
 
 ## <span id="head81">3.12. Agents, Graph and Networks</span>
 [Computational Modeling Software Frameworks](https://www.comses.net/resources/modeling-frameworks/)
