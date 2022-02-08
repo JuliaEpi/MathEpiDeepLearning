@@ -106,6 +106,10 @@ scatterPlotMatrix
 
 ### 竞赛图
 [JackMcKew/pandas_alive: Create stunning, animated visualisations with Pandas & Matplotlib as easy as calling `df.plot_animated()`](https://github.com/JackMcKew/pandas_alive)
+
+### Raincloud plots
+
+[这种显示多种统计结果的云雨图(Raincloud plots)怎么绘制？？](https://mp.weixin.qq.com/s/M0OuMC8MR_wkLiXS6RkzLw)
 # 3. R
 [erikgahner/awesome-ggplot2: A curated list of awesome ggplot2 tutorials, packages etc.](https://github.com/erikgahner/awesome-ggplot2)
 
