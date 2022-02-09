@@ -128,6 +128,10 @@ Study[R-Gallery-Book](https://www.kyle-w-brown.com/R-Gallery/)
 [R CHARTS | A collection of charts and graphs made with the R programming language](https://r-charts.com/)
 
 ## 3.2. Packages
+
+[erikgahner/awesome-ggplot2: A curated list of awesome ggplot2 tutorials, packages etc.](https://github.com/erikgahner/awesome-ggplot2)
+
+
 [50个ggplot2可视化案例](https://mp.weixin.qq.com/s/YMy04iB8ZySHQ3ptJCzyOA)
 
 [https://exts.ggplot2.tidyverse.org/gallery/](https://exts.ggplot2.tidyverse.org/gallery/)
