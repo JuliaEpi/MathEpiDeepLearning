@@ -61,6 +61,8 @@ Tool[ImageGP | 易汉博生物信息在线作图](http://www.ehbio.com/ImageGP/)
 [Jupyter Notebook - kepler.gl](https://docs.kepler.gl/docs/keplergl-jupyter)
 
 [visgl/deck.gl: WebGL2 powered visualization framework](https://github.com/visgl/deck.gl)
+
+[giswqs/leafmap: A Python package for interactive mapping and geospatial analysis with minimal coding in a Jupyter environment](https://github.com/giswqs/leafmap)
 ### Chord Graph
 [绘图技巧 | 和弦图(Chord diagram)绘制方法汇总](https://mp.weixin.qq.com/s/-gVz8zuDWcLrZ5EqVlQp5w)
 ### Forest Plot
@@ -172,6 +174,9 @@ plotnine: 类似ggplot2 [A Grammar of Graphics for Python — plotnine 0.8.0 doc
 pyecharts[简介 - pyecharts - A Python Echarts Plotting Library built with love.](https://pyecharts.org/#/zh-cn/intro)可画地图
 
 [Document](https://gallery.pyecharts.org/#/)
+
+==Vega==
+[altair-viz/altair: Declarative statistical visualization library for Python](https://github.com/altair-viz/altair)
 
  Missingno 显示缺失数据[ResidentMario/missingno: Missing data visualization module for Python.](https://github.com/ResidentMario/missingno)
  
