@@ -45,6 +45,7 @@ Tool[ImageGP | 易汉博生物信息在线作图](http://www.ehbio.com/ImageGP/)
 [holtzy (Holtz Yan)](https://github.com/holtzy)
 
 ## 2.4. Special type of graphs.
+[https://mp.weixin.qq.com/s/h5IcSW1a7P6H0iu2VFdlAA](https://mp.weixin.qq.com/s/h5IcSW1a7P6H0iu2VFdlAA)
 
 ### Map
 [11个S级工具，满足「地理空间数据可视化」的一切幻想](https://mp.weixin.qq.com/s/09yV8B3PvVUz-vBqTEswdg)
