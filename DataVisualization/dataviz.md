@@ -58,6 +58,12 @@ Tool[ImageGP | 易汉博生物信息在线作图](http://www.ehbio.com/ImageGP/)
 
 [绘图技巧 | 第七次全国人口普查数据还能这么玩！？技巧都在这了](https://mp.weixin.qq.com/s/Fjs-sncZfX4JtcPwoZ6fhA)
 
+[绘图技巧 | 双变量映射地图可视化绘制方法](https://mp.weixin.qq.com/s/E_cToXEc4b_UAjUWnYi4ZQ)
+
+R:
+cartography
+ggmap
+
 
 Python
 
