@@ -48,7 +48,7 @@ Tool[ImageGP | 易汉博生物信息在线作图](http://www.ehbio.com/ImageGP/)
 [https://mp.weixin.qq.com/s/h5IcSW1a7P6H0iu2VFdlAA](https://mp.weixin.qq.com/s/h5IcSW1a7P6H0iu2VFdlAA)
 
 ### Map
-[11个S级工具，满足「地理空间数据可视化」的一切幻想](https://mp.weixin.qq.com/s/09yV8B3PvVUz-vBqTEswdg)
+(done)[11个S级工具，满足「地理空间数据可视化」的一切幻想](https://mp.weixin.qq.com/s/09yV8B3PvVUz-vBqTEswdg)
 
 [爱了！！这种小清新地图一眼就上头，赶快学习一下吧~](https://mp.weixin.qq.com/s/EWqOsNJRONzx5bCButs6cw)
 
@@ -58,13 +58,26 @@ Tool[ImageGP | 易汉博生物信息在线作图](http://www.ehbio.com/ImageGP/)
 
 [绘图技巧 | 第七次全国人口普查数据还能这么玩！？技巧都在这了](https://mp.weixin.qq.com/s/Fjs-sncZfX4JtcPwoZ6fhA)
 
+
+Python
+
 [Jupyter Notebook - kepler.gl](https://docs.kepler.gl/docs/keplergl-jupyter)
 
-[visgl/deck.gl: WebGL2 powered visualization framework](https://github.com/visgl/deck.gl)
+(good)[visgl/deck.gl: WebGL2 powered visualization framework](https://github.com/visgl/deck.gl)
 
-[giswqs/leafmap: A Python package for interactive mapping and geospatial analysis with minimal coding in a Jupyter environment](https://github.com/giswqs/leafmap)
+(good)[giswqs/leafmap: A Python package for interactive mapping and geospatial analysis with minimal coding in a Jupyter environment](https://github.com/giswqs/leafmap)
+
+(pyecharts)
 ### Chord Graph
 [绘图技巧 | 和弦图(Chord diagram)绘制方法汇总](https://mp.weixin.qq.com/s/-gVz8zuDWcLrZ5EqVlQp5w)
+
+R:
+
+circlize
+
+Python:
+
+Chord
 ### Forest Plot
 [真的！森林图(Forest Plot)全部绘制技巧都在这了](https://mp.weixin.qq.com/s?__biz=Mzg3MDY4ODI3MQ==&mid=2247498141&idx=1&sn=168bbecb73b1fd2ab190569dc3523b0b&source=41#wechat_redirect)
 
@@ -73,12 +86,24 @@ R: forestplot,ggforestplot
 Python: zepid
 
 ### Venn
-[Evenn](http://www.ehbio.com/test/venn/#/)
 
-[绘图技巧 | 我总结了韦恩图(Venn Diagram)绘制方法(R+Python)](https://mp.weixin.qq.com/s/FHvFbrxmSkvdJmcaW3ov7g)
+[Venn Diagram cookbook in R](https://venn.bio-spring.top/)
+
+
+(done)[Evenn](http://www.ehbio.com/test/venn/#/)
+
+(done)[绘图技巧 | 我总结了韦恩图(Venn Diagram)绘制方法(R+Python)](https://mp.weixin.qq.com/s/FHvFbrxmSkvdJmcaW3ov7g)
+
+VennDiagram
+
+
+
+matplotlib-venn
 
 ### 甘特图
 [原来甘特图(Gantt Chart)还可以这么美！赶快掌握下绘制方法吧~~](https://mp.weixin.qq.com/s/FoTk0LlnaZHQx4LMIqloZw)
+
+ganttrify
 
 ### 漏斗图
 [漏斗图(Funnel Plots)这下介绍的够全面了吧~](https://mp.weixin.qq.com/s/er0J6adIsAo3808cdDb_kQ)
@@ -113,6 +138,16 @@ scatterPlotMatrix
 ### Raincloud plots
 
 [这种显示多种统计结果的云雨图(Raincloud plots)怎么绘制？？](https://mp.weixin.qq.com/s/M0OuMC8MR_wkLiXS6RkzLw)
+
+
+### 树图
+treemap
+
+### 树形图
+ggraph
+
+
+### Missing Values
 # 3. R
 [erikgahner/awesome-ggplot2: A curated list of awesome ggplot2 tutorials, packages etc.](https://github.com/erikgahner/awesome-ggplot2)
 
@@ -149,6 +184,15 @@ R-mapsf，R-cartography[爱了！！这种小清新地图一眼就上头，赶�
 scatterPlotMatrix
 
 # 4. Python
+重点学习
+
+matplotlib+seaborn+ProPlot
+
+Plotly+Plotly-express+Dash
+
+Pyecharts
+
+leafmap+deck.gl+kepler.gl
 ## 4.1. Books
 
 ## 4.2. Templates
@@ -157,13 +201,13 @@ scatterPlotMatrix
 ## 4.3. Packages
 ==matplotlib==基础图形
 
-[The basics — ProPlot documentation](https://proplot.readthedocs.io/en/stable/basics.html)
+(good)[The basics — ProPlot documentation](https://proplot.readthedocs.io/en/stable/basics.html)
 
-matplotlib+seaborn 
+(good)matplotlib+seaborn 
 
 Basemap+cartopy: [Introduction — cartopy 0.19.0rc2.dev8+gd251b2f documentation](https://scitools.org.uk/cartopy/docs/latest/)
 
-==plotly==交互性中高级图形
+==plotly==交互性中高级图形(good)
 
 plotly [Plotly Python Graphing Library | Python | Plotly](https://plotly.com/python/) 可画地图 类似D3.js
 
@@ -174,7 +218,7 @@ Dash: web 可视化[plotly/dash: Analytical Web Apps for Python, R, Julia, and J
 ==ggplot2==
 plotnine: 类似ggplot2 [A Grammar of Graphics for Python — plotnine 0.8.0 documentation](https://plotnine.readthedocs.io/en/stable/)
 
-==pyecharts==高级图形
+==pyecharts==高级图形(good)
 pyecharts[简介 - pyecharts - A Python Echarts Plotting Library built with love.](https://pyecharts.org/#/zh-cn/intro)可画地图
 
 [Document](https://gallery.pyecharts.org/#/)
@@ -182,9 +226,17 @@ pyecharts[简介 - pyecharts - A Python Echarts Plotting Library built with love
 ==Vega==
 [altair-viz/altair: Declarative statistical visualization library for Python](https://github.com/altair-viz/altair)
 
- Missingno 显示缺失数据[ResidentMario/missingno: Missing data visualization module for Python.](https://github.com/ResidentMario/missingno)
+
+
+[visgl/deck.gl: WebGL2 powered visualization framework](https://github.com/visgl/deck.gl)
+
+[giswqs/leafmap: A Python package for interactive mapping and geospatial analysis with minimal coding in a Jupyter environment](https://github.com/giswqs/leafmap)
+
+
+
+ (good)Missingno 显示缺失数据[ResidentMario/missingno: Missing data visualization module for Python.](https://github.com/ResidentMario/missingno)
  
- Gleam:  的灵感来自 R 的Shiny包。它允许你仅使用 Python 代码将图形转换为出色的 Web 应用程序。这对不了解 HTML 和 CSS 的人很有帮助。它不是真正的可视化库，而是与任何可视化库一起使用。
+ (done)Gleam:  的灵感来自 R 的Shiny包。它允许你仅使用 Python 代码将图形转换为出色的 Web 应用程序。这对不了解 HTML 和 CSS 的人很有帮助。它不是真正的可视化库，而是与任何可视化库一起使用。
  
  Bokeh: 交互数据库
  
