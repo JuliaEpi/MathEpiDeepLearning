@@ -287,7 +287,6 @@ Best[配色案例,网页配色,设计配色,配色图表,配色卡,SDC优设网�
 
 [艳红 - 中国色 - 中国传统颜色](http://zhongguose.com/#yanhong)
 
-[Palettes | Flat UI Colors 🎨 280 handpicked colors ready for COPY & PASTE](https://flatuicolors.com/)
 
 [R Color Palettes [497 continuous and discrete palettes] | R CHARTS](https://r-charts.com/color-palettes/)
 
