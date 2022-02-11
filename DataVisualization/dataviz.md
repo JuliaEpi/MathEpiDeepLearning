@@ -100,12 +100,18 @@ Python: zepid
 
 (done)[绘图技巧 | 我总结了韦恩图(Venn Diagram)绘制方法(R+Python)](https://mp.weixin.qq.com/s/FHvFbrxmSkvdJmcaW3ov7g)
 
+ggVennDiagram
+
 VennDiagram
 
 
 
 matplotlib-venn
 
+### 环形进化树
+ggtree
+
+ggtreeextra
 ### 甘特图
 [原来甘特图(Gantt Chart)还可以这么美！赶快掌握下绘制方法吧~~](https://mp.weixin.qq.com/s/FoTk0LlnaZHQx4LMIqloZw)
 

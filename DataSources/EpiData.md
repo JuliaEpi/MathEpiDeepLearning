@@ -126,3 +126,20 @@ Good[Search - Wastewater SPHERE](https://sphere.waterpathogens.org/search)
 [NORMAN Database System - SARS-CoV-2](https://www.norman-network.com/nds/sars_cov_2/)
 
 Canada[Big-Life-Lab/PHES-ODM: Metadata and code to support covid-19 wastewater surveillance and open science.](https://github.com/Big-Life-Lab/PHES-ODM)
+
+
+
+# Map File
+
+[GADM](https://gadm.org/index.html)
+
+[tmcw/awesome-geojson: GeoJSON utilities that will make your life easier.](https://github.com/tmcw/awesome-geojson)
+
+中国地图(配合echarts4r)
+
+[lyhmyd1211/GeoMapData_CN: China province/city/country geoJSON data](https://github.com/lyhmyd1211/GeoMapData_CN)
+
+[yezongyang/china-geojson: 最新中国地图json文件，可用d3开发中国地图](https://github.com/yezongyang/china-geojson)
+
+[阿里云 DataV - 数据可视化平台](http://datav.aliyun.com/portal/school/atlas/area_selector)
+
