@@ -1,5 +1,7 @@
 # 1. Basics of data visulization, Grammar of graph
 
+Book: The Grammar of Graphics
+
 Study[Welcome | ggplot2](https://ggplot2-book.org/)
 
 Study[数据可视化基本套路总结](https://mp.weixin.qq.com/s/LsYD6HpikatIkfjols1U5w)
