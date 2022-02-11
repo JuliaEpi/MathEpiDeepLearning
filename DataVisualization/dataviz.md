@@ -325,3 +325,10 @@ Python: SciencePlots
 Python: **Haishoku**从图片提取配色方案
 
 R: [zumbov2/colorfindr: Extracts colors from various image types, plots treemaps and 3D scatterplots of color compositions, create color palettes.](https://github.com/zumbov2/colorfindr)
+
+
+# 7. Web
+
+[streamlit/streamlit: Streamlit — The fastest way to build data apps in Python](https://github.com/streamlit/streamlit)
+
+[jrieke/best-of-streamlit: 🏆 A ranked gallery of awesome streamlit apps built by the community](https://github.com/jrieke/best-of-streamlit)
