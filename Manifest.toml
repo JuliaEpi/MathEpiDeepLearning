@@ -76,9 +76,9 @@ uuid = "b77e0a4c-d291-57a0-90e8-8db25a27a240"
 
 [[JSON]]
 deps = ["Dates", "Mmap", "Parsers", "Unicode"]
-git-tree-sha1 = "8076680b162ada2a031f707ac7b4953e30667a37"
+git-tree-sha1 = "3c837543ddb02250ef42f4738347454f95079d4e"
 uuid = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
-version = "0.21.2"
+version = "0.21.3"
 
 [[LibCURL]]
 deps = ["LibCURL_jll", "MozillaCACerts_jll"]
@@ -101,9 +101,9 @@ uuid = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 
 [[Literate]]
 deps = ["Base64", "IOCapture", "JSON", "REPL"]
-git-tree-sha1 = "c1cdf09322a70311cae84ae787a18140d12baeba"
+git-tree-sha1 = "32b914d8654e945e1076bab58b02dad479ceffcd"
 uuid = "98b081ad-f1c9-55d3-8b20-4c87d4299306"
-version = "2.12.0"
+version = "2.12.1"
 
 [[LiveServer]]
 deps = ["Crayons", "FileWatching", "HTTP", "Pkg", "Sockets", "Test"]
@@ -150,9 +150,9 @@ version = "1.4.1"
 
 [[Parsers]]
 deps = ["Dates"]
-git-tree-sha1 = "0b5cfbb704034b5b4c1869e36634438a047df065"
+git-tree-sha1 = "13468f237353112a01b2d6b32f3d0f80219944aa"
 uuid = "69de0a69-1ddd-5017-9359-2bf0b02dc9f0"
-version = "2.2.1"
+version = "2.2.2"
 
 [[Pkg]]
 deps = ["Artifacts", "Dates", "Downloads", "LibGit2", "Libdl", "Logging", "Markdown", "Printf", "REPL", "Random", "SHA", "Serialization", "TOML", "Tar", "UUIDs", "p7zip_jll"]
