@@ -125,6 +125,18 @@ ganttrify
 ### Table
 [全了！！表格可视化制作技巧大汇总~~](https://mp.weixin.qq.com/s/2mYkyyYEWljq7Vzp8aljAQ)
 
+
+R-DT
+R-gt
+R-sjPlot
+R-ggpubar
+R-ggpmisc
+
+R-gtsummary
+R-kableExtra
+R-formattable
+R-reactable
+R-flextable
 ### 泰勒图
 [超干货 | 泰勒图(Taylor diagram)绘制方法大汇总](https://mp.weixin.qq.com/s/DD0i2C1otfpo_NoJgsEAuw)
 
@@ -148,6 +160,8 @@ scatterPlotMatrix
 
 ### 竞赛图
 [JackMcKew/pandas_alive: Create stunning, animated visualisations with Pandas & Matplotlib as easy as calling `df.plot_animated()`](https://github.com/JackMcKew/pandas_alive)
+
+[ianhi/mpl-interactions: Sliders to control matplotlib and other interactive goodies. Works in any interactive backend and even uses ipywidgets when in a Jupyter notebook](https://github.com/ianhi/mpl-interactions)
 
 ### Raincloud plots
 
@@ -200,7 +214,7 @@ scatterPlotMatrix
 # 4. Python
 重点学习
 
-matplotlib+seaborn+ProPlot
+matplotlib+seaborn+ProPlot+mpl_interactions+pandas-alive
 
 Plotly+Plotly-express+Dash
 
