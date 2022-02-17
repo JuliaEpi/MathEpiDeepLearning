@@ -1,5 +1,3 @@
-
-
 # Software
 ## Julia System
 [JuliaHub](https://juliahub.com/ui/Home)
@@ -63,6 +61,7 @@ Lancet [COVID-19 Resource Centre](https://www.thelancet.com/coronavirus)
 [Nextstrain](https://nextstrain.org/)
 
 [Network Science Institute at Northeastern University](https://www.networkscienceinstitute.org/)
+[publications - MOBS Lab](https://www.mobs-lab.org/publications.html)
 
 [Imperial College London](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/covid-19-reports/)
 
