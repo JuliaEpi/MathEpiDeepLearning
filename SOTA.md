@@ -18,6 +18,7 @@
 [DiffEqML](https://github.com/DiffEqML)
 
 ## Epi
+[Epiforecasts](https://github.com/epiforecasts)
 
 [MRC Centre for Global Infectious Disease Analysis](https://github.com/mrc-ide)
 
