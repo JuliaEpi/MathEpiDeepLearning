@@ -11,7 +11,7 @@ Guides on contributions:
 
 Also see its twin repo [MathEpiDeepLearningTutorial: Tutorials on math epidemiology and epidemiology informed deep learning methods](https://github.com/Song921012/MathEpiDeepLearningTutorial).
 
-![DiffrentialPrograming](DifferentialPrograming1.png)
+![DiffrentialPrograming](https://github.com/Song921012/MathEpiDeepLearningTutorial/blob/main/Data/Pictures/DifferentialPrograming1.png?raw=ture)
 
 Contents:
 
@@ -1340,6 +1340,20 @@ Julia:
 Python:
 
 [projectmesa/mesa: Mesa is an agent-based modeling framework in Python](https://github.com/projectmesa/mesa)
+
+Network
+
+[briatte/awesome-network-analysis: A curated list of awesome network analysis resources.](https://github.com/briatte/awesome-network-analysis#julia)
+
+Python:
+
+[networkx/networkx: Network Analysis in Python](https://github.com/networkx/networkx)
+
+[GiulioRossetti/ndlib: Network Diffusion Library - (for NetworkX and iGraph)](https://github.com/GiulioRossetti/ndlib)
+
+[Welcome to Epidemics on Networks’s documentation! — Epidemics on Networks 1.2rc1 documentation](https://epidemicsonnetworks.readthedocs.io/en/latest/index.html)
+
+[寻找人类传播行为的基因 — 计算传播学](https://chengjun.github.io/mybook/)
 
 # <span id="head67">4. Theoretical Analysis</span>
 
