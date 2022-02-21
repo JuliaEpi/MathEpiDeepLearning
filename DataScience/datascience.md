@@ -6,12 +6,12 @@
 R_for_Data_Science-master2021605101531:数据科学中的 R 语言
 [数据科学中的 R 语言](https://bookdown.org/wangminjie/R4DS/)
 
-introR-master2021605100126 张敬信
-
 
 [李东风R语言教程](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html)
 
 R in Action by Robert I. Kabacoff 2021530132511.pdf
+## Rmarkdown and Bookdown
+[https://mp.weixin.qq.com/mp/homepage?__biz=MzI1NjUwMjQxMQ==&hid=9&sn=bd6a66baabf4a5de929d0934306e3f0e&scene=18#wechat_redirect](https://mp.weixin.qq.com/mp/homepage?__biz=MzI1NjUwMjQxMQ==&hid=9&sn=bd6a66baabf4a5de929d0934306e3f0e&scene=18#wechat_redirect)
 
 
 
