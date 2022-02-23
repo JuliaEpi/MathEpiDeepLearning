@@ -286,6 +286,8 @@ Survey[MaxBenChrist/awesome_time_series_in_python: This curated list contains py
 
 [TDAmeritrade/stumpy: STUMPY is a powerful and scalable Python library for modern time series analysis](https://github.com/TDAmeritrade/stumpy)
 
+[databrickslabs/tempo: API for manipulating time series on top of Apache Spark: lagged time values, rolling statistics (mean, avg, sum, count, etc), AS OF joins, downsampling, and interpolation](https://github.com/databrickslabs/tempo)
+
 ## <span id="head8">2.3. Survival Analysis</span>
 
 Julia:
