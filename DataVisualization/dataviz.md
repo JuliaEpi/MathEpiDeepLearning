@@ -236,6 +236,8 @@ leafmap+deck.gl+kepler.gl
 
 (good)matplotlib+seaborn 
 
+[nschloe/matplotx: More styles and useful extensions for Matplotlib](https://github.com/nschloe/matplotx)
+
 Basemap+cartopy: [Introduction — cartopy 0.19.0rc2.dev8+gd251b2f documentation](https://scitools.org.uk/cartopy/docs/latest/)
 
 ==plotly==交互性中高级图形(good)
@@ -300,6 +302,9 @@ bqplot交互式图形
 # 6. Handling Colors, Color palettes
 Best[配色案例,网页配色,设计配色,配色图表,配色卡,SDC优设网配色工具](https://color.uisdc.com/pick.html)
 
+
+[R语言ggplot2作图配色相关R包备选](https://mp.weixin.qq.com/s/nZ3z4aERLbNTGIno955VJw)
+
 [ColorDrop - New colors](https://colordrop.io/)
 
 [Palettes | Flat UI Colors 🎨 280 handpicked colors ready for COPY & PASTE](https://flatuicolors.com/)
@@ -326,6 +331,8 @@ viridis
 RColorBrewer
 
 [BlakeRMills/MetBrewer: Color palette package in R inspired by works at the Metropolitan Museum of Art in New York](https://github.com/BlakeRMills/MetBrewer/tree/main)
+
+[R语言ggplot2作图配色相关R包备选](https://mp.weixin.qq.com/s/nZ3z4aERLbNTGIno955VJw)
 
 # 6.2. Python
 
