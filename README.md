@@ -501,6 +501,10 @@ numba
 [SciML/LabelledArrays.jl: Arrays which also have a label for each element for easy scientific machine learning (SciML)](https://github.com/SciML/LabelledArrays.jl)
 
 #### <span id="head80"> Computation </span>
+
+BLAS and LAPACK[JuliaLinearAlgebra/MKL.jl: Intel MKL linear algebra backend for Julia](https://github.com/JuliaLinearAlgebra/MKL.jl)
+
+
 [mcabbott/Tullio.jl: ⅀](https://github.com/mcabbott/Tullio.jl)
 
 [JuliaLinearAlgebra/Octavian.jl: Multi-threaded BLAS-like library that provides pure Julia matrix multiplication](https://github.com/JuliaLinearAlgebra/Octavian.jl)
