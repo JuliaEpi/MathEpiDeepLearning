@@ -227,6 +227,8 @@ Plotly+Plotly-express+Dash
 Pyecharts
 
 leafmap+deck.gl+kepler.gl
+
+[All Tools — PyViz 0.0.1 documentation](https://pyviz.org/tools.html)
 ## 4.1. Books
 
 ## 4.2. Templates
