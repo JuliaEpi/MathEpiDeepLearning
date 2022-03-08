@@ -693,6 +693,21 @@ InfiniteOpt is powerfull!!!
 
 [pulsipher/InfiniteOpt.jl: An intuitive modeling interface for infinite-dimensional optimization problems.](https://github.com/pulsipher/InfiniteOpt.jl)
 
+
+GAMS unified software[GAMS Documentation Center](https://www.gams.com/latest/docs/index.html)
+
+Matlab: Yalmip unified[YALMIP](https://yalmip.github.io/)
+
+Python: unified[Pyomo/pyomo: An object-oriented algebraic modeling language in Python for structured optimization problems.](https://github.com/Pyomo/pyomo)
+
+[Solver Manuals](https://www.gams.com/latest/docs/S_MAIN.html)
+
+Julia:
+
+[martinbiel/StochasticPrograms.jl: Julia package for formulating and analyzing stochastic recourse models.](https://github.com/martinbiel/StochasticPrograms.jl)
+
+[odow/SDDP.jl: Stochastic Dual Dynamic Programming in Julia](https://github.com/odow/SDDP.jl)
+
 [PSORLab/EAGO.jl: A development environment for robust and global optimization](https://github.com/PSORLab/EAGO.jl)
 
 [JuliaSmoothOptimizers/PDENLPModels.jl: A NLPModel API for optimization problems with PDE-constraints](https://github.com/JuliaSmoothOptimizers/PDENLPModels.jl)
@@ -704,6 +719,9 @@ InfiniteOpt is powerfull!!!
 Python:
 
 casadi is powerful!
+
+
+
 
 [python-control/python-control: The Python Control Systems Library is a Python module that implements basic operations for analysis and design of feedback control systems.](https://github.com/python-control/python-control)
 
