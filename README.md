@@ -1268,6 +1268,7 @@ Python:
 
 [rtqichen/torchdiffeq: Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.](https://github.com/rtqichen/torchdiffeq)
 
+[patrick-kidger/diffrax at zzun.app](https://github.com/patrick-kidger/diffrax?ref=zzun.app)
 ### <span id="head58">3.8.2. Physical Informed Neural Netwworks</span>
 
 [Predictive Intelligence Lab](https://github.com/PredictiveIntelligenceLab)
