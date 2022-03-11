@@ -696,6 +696,8 @@ InfiniteOpt is powerfull!!!
 
 GAMS unified software[GAMS Documentation Center](https://www.gams.com/latest/docs/index.html)
 
+[GAMS-dev/gams.jl: A MathOptInterface Optimizer to solve JuMP models using GAMS](https://github.com/GAMS-dev/gams.jl)
+
 Matlab: Yalmip unified[YALMIP](https://yalmip.github.io/)
 
 Python: unified[Pyomo/pyomo: An object-oriented algebraic modeling language in Python for structured optimization problems.](https://github.com/Pyomo/pyomo)
