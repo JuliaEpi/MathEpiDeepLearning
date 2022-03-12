@@ -683,6 +683,8 @@ Julia:
 
 [eleurent/phd-bibliography: References on Optimal Control, Reinforcement Learning and Motion Planning](https://github.com/eleurent/phd-bibliography)
 
+[mintOC](https://mintoc.de/index.php/Main_Page)
+
 Julia: Jump + InfiniteOpt
 
 Jump is powerfull!!!
