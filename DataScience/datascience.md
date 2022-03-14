@@ -1,3 +1,5 @@
+[academic/awesome-datascience: An awesome Data Science repository to learn and apply for real world problems.](https://github.com/academic/awesome-datascience)
+
 # R
 [Home | Bookdown](https://bookdown.org/)
 
