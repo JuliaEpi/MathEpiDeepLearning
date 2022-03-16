@@ -1482,11 +1482,19 @@ Python:
 
 Julia:
 
+All[SciML/NonlinearSolve.jl: High-performance and differentiation-enabled nonlinear solvers](https://github.com/SciML/NonlinearSolve.jl)
+
+[SciML/SciMLNLSolve.jl: Nonlinear solver bindings for the SciML Interface](https://github.com/SciML/SciMLNLSolve.jl)
+
 [JuliaMath/Roots.jl: Root finding functions for Julia](https://github.com/JuliaMath/Roots.jl)
 
 [PolynomialRoots · Julia Packages](https://juliapackages.com/p/polynomialroots)
 
 [JuliaNLSolvers/NLsolve.jl: Julia solvers for systems of nonlinear equations and mixed complementarity problems](https://github.com/JuliaNLSolvers/NLsolve.jl)
+
+[sglyon/MINPACK.jl: Wrapper for cminpack multivariate root finding routines](https://github.com/sglyon/MINPACK.jl)
+
+
 
 ### <span id="head72">4.3.2. Intepolations</span>
 
