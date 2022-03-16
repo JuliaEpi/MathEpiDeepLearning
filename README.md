@@ -475,7 +475,23 @@ Matrix organization
 
 [JuliaArrays](https://github.com/JuliaArrays)
 
+* [JuliaArrays/StaticArrays.jl: Statically sized arrays for Julia](https://github.com/JuliaArrays/StaticArrays.jl)
+- [JuliaArrays/ArrayInterface.jl: Designs for new Base array interface primitives, used widely through scientific machine learning (SciML) and other organizations](https://github.com/JuliaArrays/ArrayInterface.jl)
+
+* [JuliaArrays/StructArrays.jl: Efficient implementation of struct arrays in Julia](https://github.com/JuliaArrays/StructArrays.jl)
+- [JuliaArrays/LazyArrays.jl: Lazy arrays and linear algebra in Julia](https://github.com/JuliaArrays/LazyArrays.jl)
+- [JuliaArrays/AxisArrays.jl: Performant arrays where each dimension can have a named axis with values](https://github.com/JuliaArrays/AxisArrays.jl)
+- [JuliaArrays/OffsetArrays.jl: Fortran-like arrays with arbitrary, zero or negative starting indices.](https://github.com/JuliaArrays/OffsetArrays.jl)
+- [JuliaArrays/BlockArrays.jl: BlockArrays for Julia](https://github.com/JuliaArrays/BlockArrays.jl)
+- [JuliaArrays/ArraysOfArrays.jl: Efficient storage and handling of nested arrays in Julia](https://github.com/JuliaArrays/ArraysOfArrays.jl)
+- [JuliaArrays/InfiniteArrays.jl: A Julia package for representing infinite-dimensional arrays](https://github.com/JuliaArrays/InfiniteArrays.jl)
+- [JuliaArrays/FillArrays.jl: Julia package for lazily representing matrices filled with a single entry](https://github.com/JuliaArrays/FillArrays.jl)
+
 [JuliaMatrices](https://github.com/JuliaMatrices)
+* [JuliaMatrices/BandedMatrices.jl: A Julia package for representing banded matrices](https://github.com/JuliaMatrices/BandedMatrices.jl)
+- [JuliaMatrices/BlockBandedMatrices.jl: A Julia package for representing block-banded matrices and banded-block-banded matrices](https://github.com/JuliaMatrices/BlockBandedMatrices.jl)
+- [JuliaMatrices/SpecialMatrices.jl: Julia package for working with special matrix types.](https://github.com/JuliaMatrices/SpecialMatrices.jl)
+- [JuliaMatrices/InfiniteLinearAlgebra.jl: A Julia repository for linear algebra with infinite matrices](https://github.com/JuliaMatrices/InfiniteLinearAlgebra.jl)
 
 [RalphAS](https://github.com/RalphAS)
 
@@ -485,6 +501,9 @@ Matrix organization
 
 [JuliaLang/SparseArrays.jl: SparseArrays.jl is a Julia stdlib](https://github.com/JuliaLang/SparseArrays.jl)
 
+[SciML/LabelledArrays.jl: Arrays which also have a label for each element for easy scientific machine learning (SciML)](https://github.com/SciML/LabelledArrays.jl)
+
+[SciML/RecursiveArrayTools.jl: Tools for easily handling objects like arrays of arrays and deeper nestings in scientific machine learning (SciML) and other applications](https://github.com/SciML/RecursiveArrayTools.jl)
 
 Python:
 
