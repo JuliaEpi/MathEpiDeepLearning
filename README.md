@@ -558,6 +558,9 @@ Solver:
 
 Eig Too[JuliaLinearAlgebra/IterativeSolvers.jl: Iterative algorithms for solving linear systems, eigensystems, and singular value problems](https://github.com/JuliaLinearAlgebra/IterativeSolvers.jl)
 
+[tjdiamandis/RandomizedPreconditioners.jl](https://github.com/tjdiamandis/RandomizedPreconditioners.jl)
+
+[JuliaLinearAlgebra/RecursiveFactorization.jl](https://github.com/JuliaLinearAlgebra/RecursiveFactorization.jl)
 
 Spectral methods
 
@@ -1282,6 +1285,8 @@ Julia:
 [SciML/DiffEqFlux.jl: Universal neural differential equations with O(1) backprop, GPUs, and stiff+non-stiff DE solvers, demonstrating scientific machine learning (SciML) and physics-informed machine learning methods](https://github.com/SciML/DiffEqFlux.jl)
 
 [avik-pal/FastDEQ.jl: Deep Equilibrium Networks (but faster!!!)](https://github.com/avik-pal/FastDEQ.jl)
+
+UDE with Gaussion Process[Crown421/GPDiffEq.jl](https://github.com/Crown421/GPDiffEq.jl)
 
 Python:
 
