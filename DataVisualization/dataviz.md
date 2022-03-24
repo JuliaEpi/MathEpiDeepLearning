@@ -177,7 +177,8 @@ treemap
 ### 树形图
 ggraph
 
-
+### 楔形图(Wedge Plots)
+[connectedblue/pdext_collection](https://github.com/connectedblue/pdext_collection)
 ### Missing Values
 # 3. R
 [erikgahner/awesome-ggplot2: A curated list of awesome ggplot2 tutorials, packages etc.](https://github.com/erikgahner/awesome-ggplot2)
