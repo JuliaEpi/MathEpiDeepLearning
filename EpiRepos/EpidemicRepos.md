@@ -1,4 +1,6 @@
 
+[reichlab/covid19-forecast-hub: Projections of COVID-19, in standardized format](https://github.com/reichlab/covid19-forecast-hub)
+
 [midas-network/COVID-19: 2019 novel coronavirus repository](https://github.com/midas-network/COVID-19)
 
 [Priesemann-Group/covid19_inference_forecast](https://github.com/Priesemann-Group/covid19_inference_forecast)
