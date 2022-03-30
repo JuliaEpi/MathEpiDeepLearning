@@ -1459,7 +1459,7 @@ InverseFunction
 
 [scheinerman/Permutations.jl: Permutations class for Julia.](https://github.com/scheinerman/Permutations.jl)
 
-[JuliaDocs/Documenter.jl: A documentation generator for Julia.](https://github.com/JuliaDocs/Documenter.jl)
+
 
 ## <span id="head69">4.1. Symbolic Computation</span>
 
@@ -1501,9 +1501,11 @@ All[SciML/NonlinearSolve.jl: High-performance and differentiation-enabled nonlin
 
 
 
-### <span id="head72">4.3.2. Intepolations</span>
+### <span id="head72">4.3.2. Interpolations and Approximations</span>
 
 Julia:
+
+ApproxFun.jl
 
 [PumasAI/DataInterpolations.jl: A library of data interpolation and smoothing functions](https://github.com/PumasAI/DataInterpolations.jl)
 
@@ -1517,6 +1519,11 @@ Julia:
 
 [sostock/BSplines.jl: A Julia package for working with B-splines](https://github.com/sostock/BSplines.jl)
 
+[stevengj/FastChebInterp.jl: fast multidimensional Chebyshev interpolation and regression in Julia](https://github.com/stevengj/FastChebInterp.jl)
+
+[jipolanco/BSplineKit.jl: A collection of B-spline tools in Julia](https://github.com/jipolanco/BSplineKit.jl)
+
+[NFFT/ANOVAapprox.jl: Approximation Package for High-Dimensional Functions in Julia](https://github.com/NFFT/ANOVAapprox.jl)
 ## <span id="head73">4.2. Bifurcation</span>
 
 [rveltz/BifurcationKit.jl: A Julia package to perform Bifurcation Analysis](https://github.com/rveltz/BifurcationKit.jl)
@@ -1525,6 +1532,7 @@ Julia:
 [JuliaMath/Polynomials.jl: Polynomial manipulations in Julia](https://github.com/JuliaMath/Polynomials.jl)
 
 # <span id="head74">5. Writings, Blog and Web</span>
+[JuliaDocs/Documenter.jl: A documentation generator for Julia.](https://github.com/JuliaDocs/Documenter.jl)
 
 [chriskiehl/Gooey: Turn (almost) any Python command line program into a full GUI application with one line](https://github.com/chriskiehl/Gooey)
 
@@ -1542,6 +1550,8 @@ Display Julia Unicode in Latex
 
 
 Web:
+
+[facebook/docusaurus: Easy to maintain open source documentation websites.](https://github.com/facebook/docusaurus)
 
 [tlienart/Franklin.jl: (yet another) static site generator. Simple, customisable, fast, maths with KaTeX, code evaluation, optional pre-rendering, in Julia.](https://github.com/tlienart/Franklin.jl)
 

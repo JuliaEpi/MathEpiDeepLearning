@@ -284,6 +284,8 @@ Survey[MaxBenChrist/awesome_time_series_in_python: This curated list contains py
 
 [TDAmeritrade/stumpy: STUMPY is a powerful and scalable Python library for modern time series analysis](https://github.com/TDAmeritrade/stumpy)
 
+[databrickslabs/tempo: API for manipulating time series on top of Apache Spark: lagged time values, rolling statistics (mean, avg, sum, count, etc), AS OF joins, downsampling, and interpolation](https://github.com/databrickslabs/tempo)
+
 ## <span id="head8">2.3. Survival Analysis</span>
 
 Julia:
@@ -468,7 +470,26 @@ Matrix organization
 
 [JuliaArrays](https://github.com/JuliaArrays)
 
+- [JuliaArrays/StaticArrays.jl: Statically sized arrays for Julia](https://github.com/JuliaArrays/StaticArrays.jl)
+
+- [JuliaArrays/ArrayInterface.jl: Designs for new Base array interface primitives, used widely through scientific machine learning (SciML) and other organizations](https://github.com/JuliaArrays/ArrayInterface.jl)
+
+- [JuliaArrays/StructArrays.jl: Efficient implementation of struct arrays in Julia](https://github.com/JuliaArrays/StructArrays.jl)
+
+- [JuliaArrays/LazyArrays.jl: Lazy arrays and linear algebra in Julia](https://github.com/JuliaArrays/LazyArrays.jl)
+- [JuliaArrays/AxisArrays.jl: Performant arrays where each dimension can have a named axis with values](https://github.com/JuliaArrays/AxisArrays.jl)
+- [JuliaArrays/OffsetArrays.jl: Fortran-like arrays with arbitrary, zero or negative starting indices.](https://github.com/JuliaArrays/OffsetArrays.jl)
+- [JuliaArrays/BlockArrays.jl: BlockArrays for Julia](https://github.com/JuliaArrays/BlockArrays.jl)
+- [JuliaArrays/ArraysOfArrays.jl: Efficient storage and handling of nested arrays in Julia](https://github.com/JuliaArrays/ArraysOfArrays.jl)
+- [JuliaArrays/InfiniteArrays.jl: A Julia package for representing infinite-dimensional arrays](https://github.com/JuliaArrays/InfiniteArrays.jl)
+- [JuliaArrays/FillArrays.jl: Julia package for lazily representing matrices filled with a single entry](https://github.com/JuliaArrays/FillArrays.jl)
+
 [JuliaMatrices](https://github.com/JuliaMatrices)
+- [JuliaMatrices/BandedMatrices.jl: A Julia package for representing banded matrices](https://github.com/JuliaMatrices/BandedMatrices.jl)
+
+- [JuliaMatrices/BlockBandedMatrices.jl: A Julia package for representing block-banded matrices and banded-block-banded matrices](https://github.com/JuliaMatrices/BlockBandedMatrices.jl)
+- [JuliaMatrices/SpecialMatrices.jl: Julia package for working with special matrix types.](https://github.com/JuliaMatrices/SpecialMatrices.jl)
+- [JuliaMatrices/InfiniteLinearAlgebra.jl: A Julia repository for linear algebra with infinite matrices](https://github.com/JuliaMatrices/InfiniteLinearAlgebra.jl)
 
 [RalphAS](https://github.com/RalphAS)
 
@@ -477,6 +498,10 @@ Matrix organization
 [JuliaSparse](https://github.com/JuliaSparse)
 
 [JuliaLang/SparseArrays.jl: SparseArrays.jl is a Julia stdlib](https://github.com/JuliaLang/SparseArrays.jl)
+
+[SciML/LabelledArrays.jl: Arrays which also have a label for each element for easy scientific machine learning (SciML)](https://github.com/SciML/LabelledArrays.jl)
+
+[SciML/RecursiveArrayTools.jl: Tools for easily handling objects like arrays of arrays and deeper nestings in scientific machine learning (SciML) and other applications](https://github.com/SciML/RecursiveArrayTools.jl)
 
 Python:
 
@@ -494,6 +519,8 @@ numba
 
 #### <span id="head80"> Computation </span>
 
+BLAS and LAPACK[JuliaLinearAlgebra/MKL.jl: Intel MKL linear algebra backend for Julia](https://github.com/JuliaLinearAlgebra/MKL.jl)
+
 [mcabbott/Tullio.jl: ⅀](https://github.com/mcabbott/Tullio.jl)
 
 [JuliaLinearAlgebra/Octavian.jl: Multi-threaded BLAS-like library that provides pure Julia matrix multiplication](https://github.com/JuliaLinearAlgebra/Octavian.jl)
@@ -504,24 +531,34 @@ numba
 
 #### <span id="head19"> Eigenvalues and Solvers </span>
 
-[nep-pack/NonlinearEigenproblems.jl: Nonlinear eigenvalue problems in Julia: Iterative methods and benchmarks](https://github.com/nep-pack/NonlinearEigenproblems.jl)
+Eig[nep-pack/NonlinearEigenproblems.jl: Nonlinear eigenvalue problems in Julia: Iterative methods and benchmarks](https://github.com/nep-pack/NonlinearEigenproblems.jl)
 
-[SciML/LinearSolve.jl: LinearSolve.jl: High-Performance Unified Linear Solvers](https://github.com/SciML/LinearSolve.jl)
+Solver[SciML/LinearSolve.jl: LinearSolve.jl: High-Performance Unified Linear Solvers](https://github.com/SciML/LinearSolve.jl)
 
 Julia:
+
+Eig:
 [JuliaLinearAlgebra/Arpack.jl: Julia Wrappers for the arpack-ng Fortran library](https://github.com/JuliaLinearAlgebra/Arpack.jl)
 
 [JuliaLinearAlgebra/ArnoldiMethod.jl: Implicitly Restarted Arnoldi Method, natively in Julia](https://github.com/JuliaLinearAlgebra/ArnoldiMethod.jl)
 
 [Jutho/KrylovKit.jl: Krylov methods for linear problems, eigenvalues, singular values and matrix functions](https://github.com/Jutho/KrylovKit.jl)
 
+[pablosanjose/QuadEig.jl: Julia implementation of the `quadeig` algorithm for the solution of quadratic matrix pencils](https://github.com/pablosanjose/QuadEig.jl)
+
+[JuliaApproximation/SpectralMeasures.jl: Julia package for finding the spectral measure of structured self adjoint operators](https://github.com/JuliaApproximation/SpectralMeasures.jl)
+
+Solver:
+
 [JuliaInv/KrylovMethods.jl: Simple and fast Julia implementation of Krylov subspace methods for linear systems.](https://github.com/JuliaInv/KrylovMethods.jl)
 
 [JuliaSmoothOptimizers/Krylov.jl: A Julia Basket of Hand-Picked Krylov Methods](https://github.com/JuliaSmoothOptimizers/Krylov.jl)
 
-[JuliaLinearAlgebra/IterativeSolvers.jl: Iterative algorithms for solving linear systems, eigensystems, and singular value problems](https://github.com/JuliaLinearAlgebra/IterativeSolvers.jl)
+Eig Too[JuliaLinearAlgebra/IterativeSolvers.jl: Iterative algorithms for solving linear systems, eigensystems, and singular value problems](https://github.com/JuliaLinearAlgebra/IterativeSolvers.jl)
 
-[pablosanjose/QuadEig.jl: Julia implementation of the `quadeig` algorithm for the solution of quadratic matrix pencils](https://github.com/pablosanjose/QuadEig.jl)
+[tjdiamandis/RandomizedPreconditioners.jl](https://github.com/tjdiamandis/RandomizedPreconditioners.jl)
+
+[JuliaLinearAlgebra/RecursiveFactorization.jl](https://github.com/JuliaLinearAlgebra/RecursiveFactorization.jl)
 
 Spectral methods
 
@@ -665,6 +702,8 @@ Julia:
 
 [eleurent/phd-bibliography: References on Optimal Control, Reinforcement Learning and Motion Planning](https://github.com/eleurent/phd-bibliography)
 
+[mintOC](https://mintoc.de/index.php/Main_Page)
+
 Julia: Jump + InfiniteOpt
 
 Jump is powerfull!!!
@@ -674,6 +713,22 @@ Jump is powerfull!!!
 InfiniteOpt is powerfull!!!
 
 [pulsipher/InfiniteOpt.jl: An intuitive modeling interface for infinite-dimensional optimization problems.](https://github.com/pulsipher/InfiniteOpt.jl)
+
+GAMS unified software[GAMS Documentation Center](https://www.gams.com/latest/docs/index.html)
+
+[GAMS-dev/gams.jl: A MathOptInterface Optimizer to solve JuMP models using GAMS](https://github.com/GAMS-dev/gams.jl)
+
+Matlab: Yalmip unified[YALMIP](https://yalmip.github.io/)
+
+Python: unified[Pyomo/pyomo: An object-oriented algebraic modeling language in Python for structured optimization problems.](https://github.com/Pyomo/pyomo)
+
+[Solver Manuals](https://www.gams.com/latest/docs/S_MAIN.html)
+
+Julia:
+
+[martinbiel/StochasticPrograms.jl: Julia package for formulating and analyzing stochastic recourse models.](https://github.com/martinbiel/StochasticPrograms.jl)
+
+[odow/SDDP.jl: Stochastic Dual Dynamic Programming in Julia](https://github.com/odow/SDDP.jl)
 
 [PSORLab/EAGO.jl: A development environment for robust and global optimization](https://github.com/PSORLab/EAGO.jl)
 
@@ -1207,6 +1262,8 @@ Julia
 
 [Zymrael/awesome-neural-ode: A collection of resources regarding the interplay between differential equations, deep learning, dynamical systems, control and numerical methods.](https://github.com/Zymrael/awesome-neural-ode)
 
+[massastrello/awesome-implicit-neural-models](https://github.com/massastrello/awesome-implicit-neural-models)
+
 ### <span id="head57">3.8.1. Universal Differential Equations. (Neural differential equations)</span>
 
 Julia:
@@ -1215,11 +1272,15 @@ Julia:
 
 [avik-pal/FastDEQ.jl: Deep Equilibrium Networks (but faster!!!)](https://github.com/avik-pal/FastDEQ.jl)
 
+UDE with Gaussion Process[Crown421/GPDiffEq.jl](https://github.com/Crown421/GPDiffEq.jl)
+
 Python:
 
 [DiffEqML/torchdyn: A PyTorch based library for all things neural differential equations and implicit neural models.](https://github.com/DiffEqML/torchdyn)
 
 [rtqichen/torchdiffeq: Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.](https://github.com/rtqichen/torchdiffeq)
+
+[patrick-kidger/diffrax at zzun.app](https://github.com/patrick-kidger/diffrax?ref=zzun.app)
 
 ### <span id="head58">3.8.2. Physical Informed Neural Netwworks</span>
 
@@ -1384,8 +1445,6 @@ InverseFunction
 
 [scheinerman/Permutations.jl: Permutations class for Julia.](https://github.com/scheinerman/Permutations.jl)
 
-[JuliaDocs/Documenter.jl: A documentation generator for Julia.](https://github.com/JuliaDocs/Documenter.jl)
-
 ## <span id="head69">4.1. Symbolic Computation</span>
 
 Julia:
@@ -1412,15 +1471,23 @@ Python:
 
 Julia:
 
+All[SciML/NonlinearSolve.jl: High-performance and differentiation-enabled nonlinear solvers](https://github.com/SciML/NonlinearSolve.jl)
+
+[SciML/SciMLNLSolve.jl: Nonlinear solver bindings for the SciML Interface](https://github.com/SciML/SciMLNLSolve.jl)
+
 [JuliaMath/Roots.jl: Root finding functions for Julia](https://github.com/JuliaMath/Roots.jl)
 
 [PolynomialRoots · Julia Packages](https://juliapackages.com/p/polynomialroots)
 
 [JuliaNLSolvers/NLsolve.jl: Julia solvers for systems of nonlinear equations and mixed complementarity problems](https://github.com/JuliaNLSolvers/NLsolve.jl)
 
-### <span id="head72">4.3.2. Intepolations</span>
+[sglyon/MINPACK.jl: Wrapper for cminpack multivariate root finding routines](https://github.com/sglyon/MINPACK.jl)
+
+### <span id="head72">4.3.2. Interpolations and Approximations</span>
 
 Julia:
+
+ApproxFun.jl
 
 [PumasAI/DataInterpolations.jl: A library of data interpolation and smoothing functions](https://github.com/PumasAI/DataInterpolations.jl)
 
@@ -1434,6 +1501,12 @@ Julia:
 
 [sostock/BSplines.jl: A Julia package for working with B-splines](https://github.com/sostock/BSplines.jl)
 
+[stevengj/FastChebInterp.jl: fast multidimensional Chebyshev interpolation and regression in Julia](https://github.com/stevengj/FastChebInterp.jl)
+
+[jipolanco/BSplineKit.jl: A collection of B-spline tools in Julia](https://github.com/jipolanco/BSplineKit.jl)
+
+[NFFT/ANOVAapprox.jl: Approximation Package for High-Dimensional Functions in Julia](https://github.com/NFFT/ANOVAapprox.jl)
+
 ## <span id="head73">4.2. Bifurcation</span>
 
 [rveltz/BifurcationKit.jl: A Julia package to perform Bifurcation Analysis](https://github.com/rveltz/BifurcationKit.jl)
@@ -1443,6 +1516,8 @@ Julia:
 [JuliaMath/Polynomials.jl: Polynomial manipulations in Julia](https://github.com/JuliaMath/Polynomials.jl)
 
 # <span id="head74">5. Writings, Blog and Web</span>
+
+[JuliaDocs/Documenter.jl: A documentation generator for Julia.](https://github.com/JuliaDocs/Documenter.jl)
 
 [chriskiehl/Gooey: Turn (almost) any Python command line program into a full GUI application with one line](https://github.com/chriskiehl/Gooey)
 
@@ -1459,6 +1534,8 @@ Display Julia Unicode in Latex
 [davibarreira/NotebookToLaTeX.jl: A Julia package for converting your Pluto and Jupyter Notebooks into beautiful Latex.](https://github.com/davibarreira/NotebookToLaTeX.jl)
 
 Web:
+
+[facebook/docusaurus: Easy to maintain open source documentation websites.](https://github.com/facebook/docusaurus)
 
 [tlienart/Franklin.jl: (yet another) static site generator. Simple, customisable, fast, maths with KaTeX, code evaluation, optional pre-rendering, in Julia.](https://github.com/tlienart/Franklin.jl)
 
