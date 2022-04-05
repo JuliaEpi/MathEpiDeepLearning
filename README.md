@@ -649,6 +649,9 @@ Opt Organization:
 
 [NicolasL-S/SpeedMapping.jl: General fixed point mapping acceleration and optimization in Julia](https://github.com/NicolasL-S/SpeedMapping.jl)
 
+
+[JuliaManifolds/Manopt.jl: Optimization on Manifolds in Julia](https://github.com/JuliaManifolds/Manopt.jl)
+
 ### <span id="head25">3.2.1. Metaheuristic</span>
 
 Julia:
@@ -700,6 +703,12 @@ Python:
 Julia:
 
 [JuliaNonconvex/Nonconvex.jl: Toolbox for non-convex constrained optimization.](https://github.com/JuliaNonconvex/Nonconvex.jl)
+
+### 3.2.5. First Order Methods
+Proximal 
+[OPTEC](https://github.com/kul-optec)
+
+[kul-optec/CIAOAlgorithms.jl: Coordinate and Incremental Aggregated Optimization Algorithms](https://github.com/kul-optec/CIAOAlgorithms.jl)
 
 ## <span id="head29">3.3. Optimal Control</span>
 
@@ -1006,6 +1015,11 @@ Julia: MLJ is enough
 [JuliaAI](https://github.com/JuliaAI)
 
 [Evovest/EvoTrees.jl: Boosted trees in Julia](https://github.com/Evovest/EvoTrees.jl)
+
+Dimention Reduction:[madeleineudell/LowRankModels.jl: LowRankModels.jl is a julia package for modeling and fitting generalized low rank models.](https://github.com/madeleineudell/LowRankModels.jl)
+
+Linear Regression[JuliaAI/MLJLinearModels.jl: Generalized Linear Regressions Models (penalized regressions, robust regressions, ...)](https://github.com/JuliaAI/MLJLinearModels.jl)
+
 
 [gerdm/pknn.jl: Probabilistic k-nearest neighbours](https://github.com/gerdm/pknn.jl)
 
