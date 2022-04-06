@@ -1567,6 +1567,10 @@ Web:
 
 [facebook/docusaurus: Easy to maintain open source documentation websites.](https://github.com/facebook/docusaurus)
 
+Hexo
+
+[Jekyll • Simple, blog-aware, static sites | Transform your plain text into static websites and blogs](https://jekyllrb.com/)
+
 [tlienart/Franklin.jl: (yet another) static site generator. Simple, customisable, fast, maths with KaTeX, code evaluation, optional pre-rendering, in Julia.](https://github.com/tlienart/Franklin.jl)
 
 [一个傻瓜式构建可视化 web的 Python 神器 -- streamlit](https://mp.weixin.qq.com/s/AxZPxQgLfJ6g8bhonTvKxA)
