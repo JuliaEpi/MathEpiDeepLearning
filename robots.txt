@@ -1,4 +1,0 @@
-Sitemap: https://Song921012.github.io/MathEpiDeepLearning/sitemap.xml
-
-User-agent: *
-Disallow:
