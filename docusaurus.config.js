@@ -42,6 +42,10 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      announcementBar: {
+        id: 'announcementBar-2', // Increment on change
+        content: `⭐️ If you like MathEpiDeepLearning, don't hesitate to <a target="_blank" rel="noopener noreferrer" href="https://github.com/Song921012/MathEpiDeepLearning">star us</a>`,
+      },
       navbar: {
         title: 'MathEpiDeepLearning',
         logo: {
