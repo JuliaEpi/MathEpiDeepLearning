@@ -1,45 +1,40 @@
-name: Build and Deploy
+name: Deploy to GitHub Pages
+
 on:
   push:
     branches:
-      - main
       - master
+    # Review gh actions docs if you want to further define triggers, paths, etc
+    # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
+
 jobs:
-  build-and-deploy:
+  deploy:
+    name: Deploy to GitHub Pages
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
-      uses: actions/checkout@v2
-      with:
-        persist-credentials: false
-    # NOTE: Python is necessary for the pre-rendering (minification) step
-    - name: Install python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.8'
-    # NOTE: Here you can install dependencies such as matplotlib if you use
-    # packages such as PyPlot.
-    # - run: pip install matplotlib
-    - name: Install Julia
-      uses: julia-actions/setup-julia@v1
-      with:
-        version: 1.6
-    # NOTE
-    #   The steps below ensure that NodeJS and Franklin are loaded then it
-    #   installs highlight.js which is needed for the prerendering step
-    #   (code highlighting + katex prerendering).
-    #   Then the environment is activated and instantiated to install all
-    #   Julia packages which may be required to successfully build your site.
-    #   The last line should be `optimize()` though you may want to give it
-    #   specific arguments, see the documentation or ?optimize in the REPL.
-    - run: julia -e '
-            using Pkg; Pkg.activate("."); Pkg.instantiate();
-            using NodeJS; run(`$(npm_cmd()) install highlight.js`);
-            using Franklin;
-            optimize()'
-    - name: Build and Deploy
-      uses: JamesIves/github-pages-deploy-action@releases/v3
-      with:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        BRANCH: gh-pages
-        FOLDER: __site
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16.x
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+      - name: Build website
+        run: npm run build
+
+      # Popular action to deploy to GitHub Pages:
+      # Docs: https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-docusaurus
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # Build output to publish to the `gh-pages` branch:
+          publish_dir: ./build
+          # The following lines assign commit authorship to the official
+          # GH-Actions bot for deploys to `gh-pages` branch:
+          # https://github.com/actions/checkout/issues/13#issuecomment-724415212
+          # The GH actions bot is used by default if you didn't specify the two fields.
+          # You can swap them out with your own user credentials.
+          user_name: Song921012
+          user_email: aidishage@gmail.com
