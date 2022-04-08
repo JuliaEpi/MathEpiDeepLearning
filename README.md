@@ -801,7 +801,7 @@ Julia:
 
 [tpapp/DynamicHMC.jl: Implementation of robust dynamic Hamiltonian Monte Carlo methods (NUTS) in Julia.](https://github.com/tpapp/DynamicHMC.jl)
 
-[madsjulia/AffineInvariantMCMC.jl: Affine Invariant Markov Chain Monte Carlo (MCMC) Ensemble sampler](https://github.com/madsjulia/AffineInvariantMCMC.jl)
+emcee[madsjulia/AffineInvariantMCMC.jl: Affine Invariant Markov Chain Monte Carlo (MCMC) Ensemble sampler](https://github.com/madsjulia/AffineInvariantMCMC.jl)
 
 [TuringLang/EllipticalSliceSampling.jl: Julia implementation of elliptical slice sampling.](https://github.com/TuringLang/EllipticalSliceSampling.jl)
 
@@ -819,6 +819,10 @@ Python:
 Nested Sampling[joshspeagle/dynesty: Dynamic Nested Sampling package for computing Bayesian posteriors and evidences](https://github.com/joshspeagle/dynesty)
 
 [JohannesBuchner/UltraNest: Fit and compare complex models reliably and rapidly. Advanced nested sampling.](https://github.com/JohannesBuchner/UltraNest)
+
+[dfm/emcee: The Python ensemble sampling toolkit for affine-invariant MCMC](https://github.com/dfm/emcee)
+
+[joshspeagle/dynesty: Dynamic Nested Sampling package for computing Bayesian posteriors and evidences](https://github.com/joshspeagle/dynesty)
 
 ### <span id="head32">3.4.2. Approximate Bayesian Computation (ABC)</span>
 
