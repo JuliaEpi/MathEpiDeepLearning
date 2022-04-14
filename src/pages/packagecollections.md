@@ -1066,6 +1066,8 @@ Python:
 [tensorlayer/tensorlayer: Deep Learning and Reinforcement Learning Library for Scientists and Engineers 🔥](https://github.com/tensorlayer/tensorlayer)
 
 [pfnet/pfrl: PFRL: a PyTorch-based deep reinforcement learning library](https://github.com/pfnet/pfrl)
+
+[thu-ml/tianshou: An elegant PyTorch deep reinforcement learning library.](https://github.com/thu-ml/tianshou)
 ### <span id="head45">3.5.4. GNN</span>
 
 Julia:
