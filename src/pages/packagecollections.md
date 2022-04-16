@@ -1200,6 +1200,10 @@ Python:
 [RajDandekar/MSML21_BayesianNODE](https://github.com/RajDandekar/MSML21_BayesianNODE)
 
 [bayesian-neural-networks · GitHub Topics](https://github.com/topics/bayesian-neural-networks)
+
+### 3.6.5 Diffusion-Models
+
+[heejkoo/Awesome-Diffusion-Models: A collection of resources and papers on Diffusion Models and Score-based Models, a darkhorse in the field of Generative Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
 ## <span id="head54">3.7. Differential Equations and Scientific Computation</span>
 
 Julia:
