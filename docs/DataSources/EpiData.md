@@ -147,3 +147,8 @@ Canada[Big-Life-Lab/PHES-ODM: Metadata and code to support covid-19 wastewater s
 
 [阿里云 DataV - 数据可视化平台](http://datav.aliyun.com/portal/school/atlas/area_selector)
 
+
+
+# CDCFluView
+
+[CRAN - Package cdcfluview](https://cran.r-project.org/web/packages/cdcfluview/index.html)
