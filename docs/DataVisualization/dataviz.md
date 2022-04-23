@@ -14,6 +14,8 @@ Study[Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
 
 Reviews[Visualization Universe - The Most Searched for Visualization Types, Tools, and Books](http://visualizationuniverse.com/)
 
+[20条超全建议！让你轻松搞定高质量数据可视化~~](https://mp.weixin.qq.com/s/3JZKmaJbKq-UzNtrnZlkQA)
+
 ## Layouts
 [(文末送书)绘图技巧 | 一行代码实现多图组合和风格主题设置](https://mp.weixin.qq.com/s/eaM_mXM8uJAMNNvyBAbIOg)
 
