@@ -214,6 +214,7 @@ Python:
 
 [DHI/tsod: Anomaly Detection for time series data](https://github.com/DHI/tsod)
 
+[pygod-team/pygod: A Python Library for Graph Outlier Detection (Anomaly Detection)](https://github.com/pygod-team/pygod)
 # <span id="head5">2. Basic Statistics and Data Visualization</span>
 
 ## <span id="head6">2.1. Statistics</span>
@@ -1010,6 +1011,8 @@ Linear Regression[JuliaAI/MLJLinearModels.jl: Generalized Linear Regressions Mod
 Python:
 
 [scikit-learn: machine learning in Python — scikit-learn 1.0.1 documentation](https://scikit-learn.org/stable/)
+
+[DistrictDataLabs/yellowbrick: Visual analysis and diagnostic tools to facilitate machine learning model selection.](https://github.com/DistrictDataLabs/yellowbrick)
 
 [automl/auto-sklearn: Automated Machine Learning with scikit-learn](https://github.com/automl/auto-sklearn)
 
