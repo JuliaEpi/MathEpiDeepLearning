@@ -798,6 +798,8 @@ Julia:
 
 [mauro3/KissMCMC.jl: Keep it simple, stupid, MCMC](https://github.com/mauro3/KissMCMC.jl)
 
+Nice[scheidan/BarkerMCMC.jl: gradient based MCMC sampler](https://github.com/scheidan/BarkerMCMC.jl)
+
 [BigBayes/SGMCMC.jl: Stochastic Gradient Markov Chain Monte Carlo and Optimisation](https://github.com/BigBayes/SGMCMC.jl)
 
 [tpapp/DynamicHMC.jl: Implementation of robust dynamic Hamiltonian Monte Carlo methods (NUTS) in Julia.](https://github.com/tpapp/DynamicHMC.jl)
@@ -1000,6 +1002,8 @@ Julia: MLJ is enough
 [Evovest/EvoTrees.jl: Boosted trees in Julia](https://github.com/Evovest/EvoTrees.jl)
 
 Dimention Reduction:[madeleineudell/LowRankModels.jl: LowRankModels.jl is a julia package for modeling and fitting generalized low rank models.](https://github.com/madeleineudell/LowRankModels.jl)
+
+[JuliaStats/MultivariateStats.jl: A Julia package for multivariate statistics and data analysis (e.g. dimension reduction)](https://github.com/JuliaStats/MultivariateStats.jl)
 
 Linear Regression[JuliaAI/MLJLinearModels.jl: Generalized Linear Regressions Models (penalized regressions, robust regressions, ...)](https://github.com/JuliaAI/MLJLinearModels.jl)
 
