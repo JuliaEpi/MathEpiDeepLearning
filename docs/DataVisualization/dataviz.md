@@ -308,6 +308,7 @@ bqplot交互式图形
 
 # 5. Julia
 
+[lazarusA/BeautifulMakie: https://lazarusa.github.io/BeautifulMakie/](https://github.com/lazarusA/BeautifulMakie)
 
 
 地图

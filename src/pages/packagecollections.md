@@ -1048,6 +1048,8 @@ Julia: Flux and Knet
 
 Python: Jax, Pytorch, Tensorflow
 
+Review[n2cholas/awesome-jax: JAX - A curated list of resources https://github.com/google/jax](https://github.com/n2cholas/awesome-jax)
+
 [google/jax: Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more](https://github.com/google/jax)
 
 [pytorch/pytorch: Tensors and Dynamic neural networks in Python with strong GPU acceleration](https://github.com/pytorch/pytorch)
