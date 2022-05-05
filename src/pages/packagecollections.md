@@ -1589,3 +1589,14 @@ GitHub Profile Settings:
 
 字体：
 [be5invis/Sarasa-Gothic: Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕](https://github.com/be5invis/Sarasa-Gothic)
+
+[Nerd Fonts - Iconic font aggregator, glyphs/icons collection, & fonts patcher](https://www.nerdfonts.com/font-downloads)
+
+
+## Terminal
+
+zsh
+
+ohmyzsh
+
+ohmyposh [Customize | Oh My Posh](https://ohmyposh.dev/docs/installation/customize)
