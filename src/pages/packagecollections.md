@@ -177,6 +177,10 @@ Pandas
 
 [viraltux/Smoothers.jl: Collection of basic smoothers and smoothing related applications](https://github.com/viraltux/Smoothers.jl)
 
+TimeSeries.moving
+
+[dysonance/Indicators.jl: Financial market technical analysis & indicators in Julia](https://github.com/dysonance/Indicators.jl)
+
 Expotential Smoothing:
 
 [LAMPSPUC/StateSpaceModels.jl: StateSpaceModels.jl is a Julia package for time-series analysis using state-space models.](https://github.com/LAMPSPUC/StateSpaceModels.jl)
