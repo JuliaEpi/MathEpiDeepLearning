@@ -788,7 +788,13 @@ Python:
 
 [pyro-ppl/pyro: Deep universal probabilistic programming with Python and PyTorch](https://github.com/pyro-ppl/pyro)
 
+[pyro-ppl/numpyro: Probabilistic programming with NumPy powered by JAX for autograd and JIT compilation to GPU/TPU/CPU.](https://github.com/pyro-ppl/numpyro)
+
+[blackjax-devs/blackjax: BlackJAX is a sampling library designed for ease of use, speed and modularity.](https://github.com/blackjax-devs/blackjax)
+
 [tensorflow/probability: Probabilistic reasoning and statistical analysis in TensorFlow](https://github.com/tensorflow/probability)
+
+[google/edward2: A simple probabilistic programming language.](https://github.com/google/edward2)
 
 [thu-ml/zhusuan: A probabilistic programming library for Bayesian deep learning, generative models, based on Tensorflow](https://github.com/thu-ml/zhusuan)
 
@@ -1274,6 +1280,8 @@ Survey[JuliaPDE/SurveyofPDEPackages: Survey of the packages of the Julia ecosyst
 Python：
 
 [DedalusProject/dedalus: A flexible framework for solving PDEs with modern spectral methods.](https://github.com/DedalusProject/dedalus)
+
+[FEniCS Project](https://github.com/FEniCS)
 
 ### 3.7.2 Fractional Differential and Calculus
 Julia
