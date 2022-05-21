@@ -837,6 +837,8 @@ Nested Sampling[joshspeagle/dynesty: Dynamic Nested Sampling package for computi
 
 Also called likelihood free or simulation based methods
 
+Review[sbi-benchmark/sbibm: Simulation-based inference benchmark](https://github.com/sbi-benchmark/sbibm)
+
 Julia: (few)
 
 [tanhevg/GpABC.jl](https://github.com/tanhevg/GpABC.jl)
@@ -847,8 +849,6 @@ Julia: (few)
 
 Python:
 
-[sbi-benchmark/sbibm: Simulation-based inference benchmark](https://github.com/sbi-benchmark/sbibm)
-
 [elfi-dev/elfi: ELFI - Engine for Likelihood-Free Inference](https://github.com/elfi-dev/elfi)
 
 [eth-cscs/abcpy: ABCpy package](https://github.com/eth-cscs/abcpy)
@@ -858,6 +858,8 @@ Python:
 [mackelab/sbi: Simulation-based inference in PyTorch](https://github.com/mackelab/sbi)
 
 [ICB-DCM/pyABC: distributed, likelihood-free inference](https://github.com/ICB-DCM/pyABC)
+
+[diyabc/abcranger: ABC random forests for model choice and parameter estimation, pure C++ implementation](https://github.com/diyabc/abcranger)
 
 ### <span id="head33">3.4.3. Data Assimilation (SMC, particles filter)</span>
 
