@@ -245,6 +245,8 @@ Survey[MaxBenChrist/awesome_time_series_in_python: This curated list contains py
 
 [unit8co/darts: A python library for easy manipulation and forecasting of time series.](https://github.com/unit8co/darts)
 
+[alan-turing-institute/sktime: A unified framework for machine learning with time series](https://github.com/alan-turing-institute/sktime)
+
 [jdb78/pytorch-forecasting: Time series forecasting with PyTorch](https://github.com/jdb78/pytorch-forecasting)
 
 [AIStream-Peelout/flow-forecast: Deep learning PyTorch library for time series forecasting, classification, and anomaly detection (originally for flood forecasting).](https://github.com/AIStream-Peelout/flow-forecast)
@@ -257,7 +259,6 @@ Survey[MaxBenChrist/awesome_time_series_in_python: This curated list contains py
 
 [ourownstory/neural_prophet: NeuralProphet: A simple forecasting package](https://github.com/ourownstory/neural_prophet)
 
-[alan-turing-institute/sktime: A unified framework for machine learning with time series](https://github.com/alan-turing-institute/sktime)
 
 [sktime/sktime-dl: sktime companion package for deep learning based on TensorFlow](https://github.com/sktime/sktime-dl)
 
