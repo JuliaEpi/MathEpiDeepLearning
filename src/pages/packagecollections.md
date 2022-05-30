@@ -997,6 +997,15 @@ Review: [rguo12/awesome-causality-algorithms: An index of algorithms for learnin
 
 [SciML/QuasiMonteCarlo.jl: Lightweight and easy generation of quasi-Monte Carlo sequences with a ton of different methods on one API for easy parameter exploration in scientific machine learning (SciML)](https://github.com/SciML/QuasiMonteCarlo.jl)
 
+
+### 3.4.11 Message Passing
+
+Julia:
+
+[biaslab/ReactiveMP.jl: Julia package for automatic Bayesian inference on a factor graph with reactive message passing](https://github.com/biaslab/ReactiveMP.jl)
+
+[biaslab/ForneyLab.jl: Julia package for automatically generating Bayesian inference algorithms through message passing on Forney-style factor graphs.](https://github.com/biaslab/ForneyLab.jl)
+
 ## <span id="head41">3.5. Machine Learning and Deep Learning</span>
 
 Python:
@@ -1072,6 +1081,8 @@ Review[n2cholas/awesome-jax: JAX - A curated list of resources https://github.co
 [catalyst-team/catalyst: Accelerated deep learning R&D](https://github.com/catalyst-team/catalyst)
 
 [murufeng/awesome_lightweight_networks: MobileNetV1-V2，MobileNeXt，GhostNet，AdderNet，ShuffleNetV1-V2，Mobile+ViT etc. ⭐⭐⭐⭐⭐](https://github.com/murufeng/awesome_lightweight_networks)
+
+Review: [Chen-Cai-OSU/awesome-equivariant-network: Paper list for equivariant neural network](https://github.com/Chen-Cai-OSU/awesome-equivariant-network)
 
 ### <span id="head44">3.5.3. Reinforce Learning</span>
 
@@ -1256,6 +1267,11 @@ Python:
 [ProbNum — probnum 0.1 documentation](http://www.probabilistic-numerics.org/en/latest/)
 
 
+C++:
+
+[odeint](http://headmyshoulder.github.io/odeint-v2/)
+
+[LLNL/sundials: Official development repository for SUNDIALS - a SUite of Nonlinear and DIfferential/ALgebraic equation Solvers. Pull requests are welcome for bug fixes and minor changes.](https://github.com/LLNL/sundials)
 ### <span id="head55">3.7.1. Partial differential equation</span>
 
 Survey[JuliaPDE/SurveyofPDEPackages: Survey of the packages of the Julia ecosystem for solving partial differential equations](https://github.com/JuliaPDE/SurveyofPDEPackages)
