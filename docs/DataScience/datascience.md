@@ -4,6 +4,8 @@ sidebar_position: 1
 
 [academic/awesome-datascience: An awesome Data Science repository to learn and apply for real world problems.](https://github.com/academic/awesome-datascience)
 
+[R分享｜100 个统计学和 R 语言学习资源网站](https://mp.weixin.qq.com/s/hLU-pFZ7xf0Fl0OrK-sYPw)
+
 # R
 [Home | Bookdown](https://bookdown.org/)
 
