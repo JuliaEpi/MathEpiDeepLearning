@@ -890,6 +890,11 @@ Python:
 
 ### <span id="head34">3.4.4. Variational Inference</span>
 
+SVGD[Search · Stein Variational Gradient Descent](https://github.com/search?q=Stein+Variational+Gradient+Descent)Also see pyro, Stein method part
+
+
+[Red-Portal/KLpqVI.jl](https://github.com/Red-Portal/KLpqVI.jl)
+
 Julia:
 
 [bat/MGVI.jl: Metric Gaussian Variational Inference](https://github.com/bat/MGVI.jl)
