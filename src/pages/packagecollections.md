@@ -426,6 +426,16 @@ Julia:
 python:
 
 [cvxgrp/cvxpylayers: Differentiable convex optimization layers](https://github.com/cvxgrp/cvxpylayers)
+
+#### Subgradient, Projected, Proximal gradients
+
+Julia:
+
+Proximal
+
+[JuliaFirstOrder/ProximalOperators.jl: Proximal operators for nonsmooth optimization in Julia](https://github.com/JuliaFirstOrder/ProximalOperators.jl)
+
+[JuliaFirstOrder/ProximalAlgorithms.jl: Proximal algorithms for nonsmooth optimization in Julia](https://github.com/JuliaFirstOrder/ProximalAlgorithms.jl)
 ### <span id="head14">3.1.2. Quadrature</span>
 
 Learn One equals learn many
