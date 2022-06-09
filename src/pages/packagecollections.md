@@ -411,6 +411,21 @@ Python:
 
 [maroba/findiff: Python package for numerical derivatives and partial differential equations in any number of dimensions.](https://github.com/maroba/findiff)
 
+#### Differential Optimization (Conditional gradients)
+
+Julia:
+
+[ZIB-IOL/FrankWolfe.jl: Julia implementation for various Frank-Wolfe and Conditional Gradient variants](https://github.com/ZIB-IOL/FrankWolfe.jl)
+
+[jump-dev/DiffOpt.jl: Differentiating convex optimization programs w.r.t. program parameters](https://github.com/jump-dev/DiffOpt.jl)
+
+[gdalle/ImplicitDifferentiation.jl: Automatic differentiation of implicit functions](https://github.com/gdalle/ImplicitDifferentiation.jl)
+
+[matbesancon/MathOptSetDistances.jl: Distances to sets for MathOptInterface](https://github.com/matbesancon/MathOptSetDistances.jl)
+
+python:
+
+[cvxgrp/cvxpylayers: Differentiable convex optimization layers](https://github.com/cvxgrp/cvxpylayers)
 ### <span id="head14">3.1.2. Quadrature</span>
 
 Learn One equals learn many
