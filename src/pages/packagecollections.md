@@ -1502,6 +1502,23 @@ Python:
 [Welcome to Epidemics on Networks’s documentation! — Epidemics on Networks 1.2rc1 documentation](https://epidemicsonnetworks.readthedocs.io/en/latest/index.html)
 
 [寻找人类传播行为的基因 — 计算传播学](https://chengjun.github.io/mybook/)
+
+
+## 3.12 Benchmarks
+
+[SciML/SciMLBenchmarks.jl: Benchmarks for scientific machine learning (SciML) software and differential equation solvers](https://github.com/SciML/SciMLBenchmarks.jl)
+
+[jump-dev/benchmarks: A repository for long-term benchmarking of JuMP performance](https://github.com/jump-dev/benchmarks)
+
+[PIK-ICoNe/NetworkDynamicsBenchmarks](https://github.com/PIK-ICoNe/NetworkDynamicsBenchmarks)
+
+[JuliaSmoothOptimizers/SolverBenchmark.jl: Benchmark tools for solvers](https://github.com/JuliaSmoothOptimizers/SolverBenchmark.jl)
+
+[StatisticalRethinkingJulia/MCMCBenchmarks.jl: Comparing performance and results of mcmc options using Julia](https://github.com/StatisticalRethinkingJulia/MCMCBenchmarks.jl)
+
+[cavalab/srbench: A living benchmark framework for symbolic regression](https://github.com/cavalab/srbench)
+
+[sbi-benchmark/sbibm: Simulation-based inference benchmark](https://github.com/sbi-benchmark/sbibm)
 # <span id="head67">4. Theoretical Analysis</span>
 
 Julia:
