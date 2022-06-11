@@ -1269,6 +1269,8 @@ Python:
 [heejkoo/Awesome-Diffusion-Models: A collection of resources and papers on Diffusion Models and Score-based Models, a darkhorse in the field of Generative Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
 ## <span id="head54">3.7. Differential Equations and Scientific Computation</span>
 
+[SciML/SciMLDocs](https://github.com/SciML/SciMLDocs)
+
 Julia:
 
 All you need is the following organization (My Idol Prof. Christopher Rackauckas):
@@ -1304,7 +1306,12 @@ C++:
 [LLNL/sundials: Official development repository for SUNDIALS - a SUite of Nonlinear and DIfferential/ALgebraic equation Solvers. Pull requests are welcome for bug fixes and minor changes.](https://github.com/LLNL/sundials)
 ### <span id="head55">3.7.1. Partial differential equation</span>
 
+[Partial Differential Equation (PDE) Solvers Overview · SciML](https://docs.sciml.ai/dev/highlevels/partial_differential_equation_solvers/)
+
+
 Survey[JuliaPDE/SurveyofPDEPackages: Survey of the packages of the Julia ecosystem for solving partial differential equations](https://github.com/JuliaPDE/SurveyofPDEPackages)
+
+
 
 [SciML/DiffEqOperators.jl: Linear operators for discretizations of differential equations and scientific machine learning (SciML)](https://github.com/SciML/DiffEqOperators.jl)
 
