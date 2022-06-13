@@ -16,6 +16,8 @@ Python:
 
 [uiuc-covid19-modeling/pydemic: a python driver for epidemic modeling and inference](https://github.com/uiuc-covid19-modeling/pydemic)
 
+[I-Bouros/multi-epi-model-cross-analysis: A collection of multiple epidemiological models used in the modelling of cases observed during the COVID-19 pandemic.](https://github.com/I-Bouros/multi-epi-model-cross-analysis)
+
 
 Julia
 
