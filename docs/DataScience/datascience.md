@@ -19,6 +19,13 @@ R_for_Data_Science-master2021605101531:数据科学中的 R 语言
 
 R in Action by Robert I. Kabacoff 2021530132511.pdf
 ## Rmarkdown and Bookdown
+
+[R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+
+[R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
+
+[bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
+
 [https://mp.weixin.qq.com/mp/homepage?__biz=MzI1NjUwMjQxMQ==&hid=9&sn=bd6a66baabf4a5de929d0934306e3f0e&scene=18#wechat_redirect](https://mp.weixin.qq.com/mp/homepage?__biz=MzI1NjUwMjQxMQ==&hid=9&sn=bd6a66baabf4a5de929d0934306e3f0e&scene=18#wechat_redirect)
 
 
