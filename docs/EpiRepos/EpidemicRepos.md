@@ -32,6 +32,11 @@ Include data cleaning[berndblasius/Covid19: Wang et al SEIR-like model for 2019/
 
 [schrimpf/CovidSEIR.jl: Bayesian estimation of a SEIR model or Corona Virus](https://github.com/schrimpf/CovidSEIR.jl)
 
+
+R:
+
+[ImperialCollegeLondon/epidemia: epidemia package](https://github.com/ImperialCollegeLondon/epidemia)
+
 # Agent based modelling
 Julia:
 
