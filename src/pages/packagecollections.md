@@ -1470,7 +1470,21 @@ Python:
 
 Julia:
 
+[JuliaGraphs](https://github.com/JuliaGraphs)
+
 [JuliaDynamics/Agents.jl: Agent-based modeling framework in Julia](https://github.com/JuliaDynamics/Agents.jl)
+
+[cormullion/Karnak.jl: drawing graphs and networks with Luxor](https://github.com/cormullion/Karnak.jl)
+
+[JuliaTeX/TikzGraphs.jl: This library generates graph layouts using the TikZ graph layout package.](https://github.com/JuliaTeX/TikzGraphs.jl)
+
+[https://juliagraphs.org/GraphPlot.jl/](https://juliagraphs.org/GraphPlot.jl/)
+
+SGtSNEpi.jl: backend: Makie.jl
+
+[JuliaPlots/GraphRecipes.jl: Graph-related recipes to be used with Plots.jl](https://github.com/JuliaPlots/GraphRecipes.jl)
+
+[JuliaPlots/GraphMakie.jl: Plotting graphs with Makie](https://github.com/JuliaPlots/GraphMakie.jl)
 
 Python:
 
