@@ -10,7 +10,14 @@ sidebar_position: 1
 
 Julia: [epirecipes/sir-julia: Various implementations of the classical SIR model in Julia](https://github.com/epirecipes/sir-julia)
 
-R: [EpiModel/EpiModel: Mathematical Modeling of Infectious Disease Dynamics](https://github.com/EpiModel/EpiModel)
+R: 
+
+Review [cran-task-views/Epidemiology: CRAN Task View: Epidemiology](https://github.com/cran-task-views/Epidemiology)
+
+
+[EpiModel/EpiModel: Mathematical Modeling of Infectious Disease Dynamics](https://github.com/EpiModel/EpiModel)
+
+
 # Compartment Models
 Python:
 

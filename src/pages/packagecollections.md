@@ -469,8 +469,11 @@ Julia:
 
 [s-baumann/BayesianIntegral.jl: Bayesian Integration of functions](https://github.com/s-baumann/BayesianIntegral.jl)
 
-[theogf/BayesianQuadrature.jl: Is there anything we can't make Bayesian?](https://github.com/theogf/BayesianQuadrature.jl)
+python：
 
+[Emukit | Emukit is a highly adaptable Python toolkit for enriching decision making under uncertainty.](https://emukit.github.io/)
+
+[ProbNum — probnum 0.1 documentation](https://probnum.readthedocs.io/en/latest/)
 #### <span id="head16">Expectations calculation</span>
 
 [QuantEcon/Expectations.jl: Expectation operators for Distributions.jl objects](https://github.com/QuantEcon/Expectations.jl)
