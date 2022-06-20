@@ -857,6 +857,8 @@ Review[sbi-benchmark/sbibm: Simulation-based inference benchmark](https://github
 
 Julia: (few)
 
+[JuliaApproxInference](https://github.com/JuliaApproxInference)
+
 [tanhevg/GpABC.jl](https://github.com/tanhevg/GpABC.jl)
 
 [marcjwilliams1/ApproxBayes.jl: Approximate Bayesian Computation (ABC) algorithms for likelihood free inference in julia](https://github.com/marcjwilliams1/ApproxBayes.jl)
