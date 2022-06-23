@@ -843,11 +843,15 @@ Python:
 
 [AdamCobb/hamiltorch: PyTorch-based library for Riemannian Manifold Hamiltonian Monte Carlo (RMHMC) and inference in Bayesian neural networks](https://github.com/AdamCobb/hamiltorch)
 
-[jeremiecoullon/SGMCMCJax: Lightweight library of stochastic gradient MCMC algorithms written in JAX.](https://github.com/jeremiecoullon/SGMCMCJax)
+Review[jeremiecoullon/SGMCMCJax: Lightweight library of stochastic gradient MCMC algorithms written in JAX.](https://github.com/jeremiecoullon/SGMCMCJax)
 
 Nested Sampling[joshspeagle/dynesty: Dynamic Nested Sampling package for computing Bayesian posteriors and evidences](https://github.com/joshspeagle/dynesty)
 
 [JohannesBuchner/UltraNest: Fit and compare complex models reliably and rapidly. Advanced nested sampling.](https://github.com/JohannesBuchner/UltraNest)
+
+[ruqizhang/csgmcmc: Cyclical Stochastic Gradient MCMC for Bayesian Deep Learning](https://github.com/ruqizhang/csgmcmc)
+
+[Custom Tensorflow optimizer cSGLD (Stochastic Langevin Dynamics) in TF2: correct update ops? · Issue #2469 · tensorflow/addons](https://github.com/tensorflow/addons/issues/2469)
 
 ### <span id="head32">3.4.2. Approximate Bayesian Computation (ABC)</span>
 
