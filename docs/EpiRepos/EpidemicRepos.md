@@ -17,6 +17,19 @@ Review [cran-task-views/Epidemiology: CRAN Task View: Epidemiology](https://gith
 
 [EpiModel/EpiModel: Mathematical Modeling of Infectious Disease Dynamics](https://github.com/EpiModel/EpiModel)
 
+# Epi Group
+[Epiforecasts](https://github.com/epiforecasts)
+
+[MRC Centre for Global Infectious Disease Analysis](https://github.com/mrc-ide)
+
+[COVID-19 Wastewater Epidemiology SARS-CoV-2 | Covid19wbec.org](https://www.covid19wbec.org/)
+
+[Institute for Disease Modeling](https://github.com/InstituteforDiseaseModeling)
+
+[publications - MOBS Lab](https://www.mobs-lab.org/publications.html)
+
+[R Epidemics Consortium](https://github.com/reconhub)
+
 
 # Compartment Models
 Python:
