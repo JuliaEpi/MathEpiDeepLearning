@@ -417,17 +417,21 @@ python:
 
 [cvxgrp/cvxpylayers: Differentiable convex optimization layers](https://github.com/cvxgrp/cvxpylayers)
 
-#### Subgradient, Projected, Proximal gradients
+#### Subgradient, Condition, Projected, Proximal gradients
 
 Julia:
 
-Proximal
+Proximal:
 
 [JuliaFirstOrder/ProximalOperators.jl: Proximal operators for nonsmooth optimization in Julia](https://github.com/JuliaFirstOrder/ProximalOperators.jl)
 
 [JuliaFirstOrder/ProximalAlgorithms.jl: Proximal algorithms for nonsmooth optimization in Julia](https://github.com/JuliaFirstOrder/ProximalAlgorithms.jl)
 
 [JuliaSmoothOptimizers/ShiftedProximalOperators.jl: Proximal operators for use with RegularizedOptimization](https://github.com/JuliaSmoothOptimizers/ShiftedProximalOperators.jl)
+
+Condition Gradient:
+
+[ZIB-IOL/FrankWolfe.jl: Julia implementation for various Frank-Wolfe and Conditional Gradient variants](https://github.com/ZIB-IOL/FrankWolfe.jl)
 
 ### <span id="head14">3.1.2. Quadrature</span>
 
@@ -661,6 +665,8 @@ Opt Organization:
 [NicolasL-S/SpeedMapping.jl: General fixed point mapping acceleration and optimization in Julia](https://github.com/NicolasL-S/SpeedMapping.jl)
 
 [JuliaManifolds/Manopt.jl: Optimization on Manifolds in Julia](https://github.com/JuliaManifolds/Manopt.jl)
+
+MPEC: [chkwon/Complementarity.jl: provides a modeling interface for mixed complementarity problems (MCP) and math programs with equilibrium problems (MPEC) via JuMP](https://github.com/chkwon/Complementarity.jl)
 
 ### <span id="head25">3.2.1. Metaheuristic</span>
 
