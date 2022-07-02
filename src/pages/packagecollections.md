@@ -225,6 +225,10 @@ Python:
 
 [cscherrer/MeasureTheory.jl: "Distributions" that might not add to one.](https://github.com/cscherrer/MeasureTheory.jl)
 
+python
+
+[erdogant/distfit: Python package for probability density function fitting of univariate distributions of non-censored data.](https://github.com/erdogant/distfit)
+
 ## <span id="head7">2.2. (Deep Learning based) Time Seris Analysis</span>
 
 Julia: (few)
