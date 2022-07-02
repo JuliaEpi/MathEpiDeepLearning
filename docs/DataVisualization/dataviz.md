@@ -25,6 +25,10 @@ Tool[有哪些值得推荐的数据可视化工具？ - 知乎](https://www.zhih
 
 Tool[ImageGP | 易汉博生物信息在线作图](http://www.ehbio.com/ImageGP/)
 # 2. How to choose charts types? (Tool)
+[From data to Viz | Find the graphic you need](https://www.data-to-viz.com/)
+
+[The Data Visualisation Catalogue](https://datavizcatalogue.com/)
+
 [Elegant scientific graphs: Learning from examples | rmf](https://www.royfrancis.com/elegant-scientific-graphs-learning-from-examples/)
 ## 2.1. Baiscs
 [The Data Visualisation Catalogue](https://datavizcatalogue.com/index.html)
