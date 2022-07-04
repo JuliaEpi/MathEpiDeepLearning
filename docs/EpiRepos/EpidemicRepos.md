@@ -10,14 +10,14 @@ sidebar_position: 1
 
 Julia: [epirecipes/sir-julia: Various implementations of the classical SIR model in Julia](https://github.com/epirecipes/sir-julia)
 
-R: 
+R:
 
 Review [cran-task-views/Epidemiology: CRAN Task View: Epidemiology](https://github.com/cran-task-views/Epidemiology)
-
 
 [EpiModel/EpiModel: Mathematical Modeling of Infectious Disease Dynamics](https://github.com/EpiModel/EpiModel)
 
 # Epi Group
+
 [Epiforecasts](https://github.com/epiforecasts)
 
 [MRC Centre for Global Infectious Disease Analysis](https://github.com/mrc-ide)
@@ -30,14 +30,14 @@ Review [cran-task-views/Epidemiology: CRAN Task View: Epidemiology](https://gith
 
 [R Epidemics Consortium](https://github.com/reconhub)
 
-
+[Oxford Big Data Institute: Pathogen Dynamics Group](https://github.com/BDI-pathogens)
 # Compartment Models
+
 Python:
 
 [uiuc-covid19-modeling/pydemic: a python driver for epidemic modeling and inference](https://github.com/uiuc-covid19-modeling/pydemic)
 
 [I-Bouros/multi-epi-model-cross-analysis: A collection of multiple epidemiological models used in the modelling of cases observed during the COVID-19 pandemic.](https://github.com/I-Bouros/multi-epi-model-cross-analysis)
-
 
 Julia
 
@@ -45,27 +45,28 @@ Include data cleaning[berndblasius/Covid19: Wang et al SEIR-like model for 2019/
 
 [jtmatamalas/MMCAcovid19.jl: Microscopic Markov Chain Approach to model the spreading of COVID-19](https://github.com/jtmatamalas/MMCAcovid19.jl)
 
-
 [affans/covid-19-lancetid: A clone of Peter Jentsch's covid19 model](https://github.com/affans/covid-19-lancetid)
 
 [uncomfyhalomacro/covid19_mindanao_seir_model: COVID19 SEIR model in Mindanao, Philippines using Julia](https://github.com/uncomfyhalomacro/covid19_mindanao_seir_model)
 
 [schrimpf/CovidSEIR.jl: Bayesian estimation of a SEIR model or Corona Virus](https://github.com/schrimpf/CovidSEIR.jl)
 
-
 R:
 
 [ImperialCollegeLondon/epidemia: epidemia package](https://github.com/ImperialCollegeLondon/epidemia)
 
 # Agent based modelling
+
 Julia:
+[RenuSolanki/EasyABM.jl: An easy to use and performant Julia framework for agent based modeling.](https://github.com/RenuSolanki/EasyABM.jl)
+
+[BDI-pathogens/OpenABM-Covid19: OpenABM-Covid19: an agent-based model for modelling the spread of SARS-CoV-2 (coronavirus) and control interventions for the Covid-19 epidemic](https://github.com/BDI-pathogens/OpenABM-Covid19)
 
 [jangevaare/Pathogen.jl: Simulation, visualization, and inference tools for modelling the spread of infectious diseases with Julia](https://github.com/jangevaare/Pathogen.jl)
 
 [affans/covid19abm.jl: Agent Based Model for COVID 19 transmission dynamics](https://github.com/affans/covid19abm.jl)
 
 [thomasvilches/vac_covid_ontario](https://github.com/thomasvilches/vac_covid_ontario)
-
 
 good[ETACE/ace_covid19: An integrated agent-based economic and epidemiological model of the COVID-19 pandemic.](https://github.com/ETACE/ace_covid19)
 
@@ -91,9 +92,8 @@ Good[InstituteforDiseaseModeling/covasim: COVID-19 Agent-based Simulator (Covasi
 
 Matlab:
 
-
-
 # Network Model
+
 Julia:
 
 [bridgewalker/Fastnet.jl](https://github.com/bridgewalker/Fastnet.jl)
@@ -107,8 +107,6 @@ Julia:
 [social_agent_based_modelling/scripts at 606f5ec1ed51781926b7891f67f87ac4404c7d57 · lquante/social_agent_based_modelling](https://github.com/lquante/social_agent_based_modelling/tree/606f5ec1ed51781926b7891f67f87ac4404c7d57/scripts)
 
 [csimal/temporal-networks](https://github.com/csimal/temporal-networks)
-
-
 
 Python:
 
@@ -132,12 +130,14 @@ Julia:
 
 [R-DjidjouDemasse/Age-structured-model-COVID19-Julia-code: Age-structured non-pharmaceutical interventions for optimal control of COVID-19 epidemic by Q. Richard, S. Alizon, M. Choisy, M.T. Sofonea, R. Djidjou-Demasse](https://github.com/R-DjidjouDemasse/Age-structured-model-COVID19-Julia-code)
 
-
 # Epiforecasting
+
 [The Reich Lab at UMass-Amherst](https://github.com/reichlab)
 
 [reichlab/covid19-forecast-hub: Projections of COVID-19, in standardized format](https://github.com/reichlab/covid19-forecast-hub)
+
 # Social Contact Matrix
+
 [sbfnk/epimixr: Epidemiological analysis using social mixing matrices](https://github.com/sbfnk/epimixr)
 
 # Rt
