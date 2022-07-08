@@ -632,6 +632,8 @@ Julia GPU organization
 
 [JuliaGPU](https://github.com/JuliaGPU)
 
+
+
 Python:
 
 [tonybaloney/Pyjion: Pyjion - A JIT for Python based upon CoreCLR](https://github.com/tonybaloney/Pyjion)
@@ -1006,14 +1008,31 @@ not maintained[kzahedi/Shannon.jl: Entropy, Mutual Information, KL-Divergence re
 
 [cynddl/Discreet.jl: A Julia package to estimate discrete entropy and mutual information](https://github.com/cynddl/Discreet.jl)
 
-### <span id="head38">3.4.8. Uncertanty</span>
+### <span id="head38">3.4.8. Uncertainty</span>
+
+Uncertainty propogation
 
 Julia:
 
-[uncertainty-toolbox/uncertainty-toolbox: A python toolbox for predictive uncertainty quantification, calibration, metrics, and visualization](https://github.com/uncertainty-toolbox/uncertainty-toolbox)
 
 [JuliaPhysics/Measurements.jl: Error propagation calculator and library for physical measurements. It supports real and complex numbers with uncertainty, arbitrary precision calculations, operations with arrays, and numerical integration.](https://github.com/JuliaPhysics/Measurements.jl)
 
+[baggepinnen/MonteCarloMeasurements.jl: Propagation of distributions by Monte-Carlo sampling: Real number types with uncertainty represented by samples.](https://github.com/baggepinnen/MonteCarloMeasurements.jl)
+
+
+Review[Uncertainty Programming, Generalized Uncertainty Quantification](https://book.sciml.ai/notes/19/)
+
+[AnderGray/MomentArithmetic.jl: Rigorous moment propagation with partial information about moments and dependencies in Julia](https://github.com/AnderGray/MomentArithmetic.jl)
+
+[mschauer/Mitosis.jl: Automatic probabilistic programming for scientific machine learning and dynamical models](https://github.com/mschauer/Mitosis.jl)
+
+Python
+
+[uncertainty-toolbox/uncertainty-toolbox: A python toolbox for predictive uncertainty quantification, calibration, metrics, and visualization](https://github.com/uncertainty-toolbox/uncertainty-toolbox)
+
+[pyro-ppl/funsor: Functional tensors for probabilistic programming](https://github.com/pyro-ppl/funsor)
+
+[lebigot/uncertainties: Transparent calculations with uncertainties on the quantities involved (aka "error propagation"); calculation of derivatives.](https://github.com/lebigot/uncertainties/)
 ### <span id="head39">3.4.9. Casual</span>
 
 [zenna/Omega.jl: Causal, Higher-Order, Probabilistic Programming](https://github.com/zenna/Omega.jl)
