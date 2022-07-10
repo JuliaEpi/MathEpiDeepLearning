@@ -433,6 +433,11 @@ Proximal:
 
 [JuliaSmoothOptimizers/ShiftedProximalOperators.jl: Proximal operators for use with RegularizedOptimization](https://github.com/JuliaSmoothOptimizers/ShiftedProximalOperators.jl)
 
+
+[Prox Repository](http://proximity-operator.net/scalarfunctions.html)
+
+Review[PyLops/pyproximal: PyProximal – Proximal Operators and Algorithms in Python](https://github.com/PyLops/pyproximal)
+
 Condition Gradient:
 
 [ZIB-IOL/FrankWolfe.jl: Julia implementation for various Frank-Wolfe and Conditional Gradient variants](https://github.com/ZIB-IOL/FrankWolfe.jl)
@@ -1625,6 +1630,9 @@ All[SciML/NonlinearSolve.jl: High-performance and differentiation-enabled nonlin
 [JuliaNLSolvers/NLsolve.jl: Julia solvers for systems of nonlinear equations and mixed complementarity problems](https://github.com/JuliaNLSolvers/NLsolve.jl)
 
 [sglyon/MINPACK.jl: Wrapper for cminpack multivariate root finding routines](https://github.com/sglyon/MINPACK.jl)
+
+
+[s-baumann/FixedPointAcceleration.jl: Fixed Point Acceleration for Julia](https://github.com/s-baumann/FixedPointAcceleration.jl)
 
 ### <span id="head72">4.3.2. Interpolations and Approximations</span>
 
