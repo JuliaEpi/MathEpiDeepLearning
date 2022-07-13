@@ -239,6 +239,8 @@ Julia: (few)
 
 Python:
 
+[lmmentel/awesome-time-series: Resources for working with time series and sequence data](https://github.com/lmmentel/awesome-time-series)
+
 Survey[MaxBenChrist/awesome_time_series_in_python: This curated list contains python packages for time series analysis](https://github.com/MaxBenChrist/awesome_time_series_in_python)
 
 [Introduction — statsmodels](file:///F:/Zotero/Zotero/storage/JRHBIF8V/index.html)
@@ -399,11 +401,14 @@ Julia:
 
 [SciML/DiffEqOperators.jl: Linear operators for discretizations of differential equations and scientific machine learning (SciML)](https://github.com/SciML/DiffEqOperators.jl)
 
+
 [QuantEcon/SimpleDifferentialOperators.jl: Library for simple upwind finite differences](https://github.com/QuantEcon/SimpleDifferentialOperators.jl)
 
 Python:
 
 [maroba/findiff: Python package for numerical derivatives and partial differential equations in any number of dimensions.](https://github.com/maroba/findiff)
+
+[PyLops/pylops: PyLops – A Linear-Operator Library for Python](https://github.com/PyLops/pylops)
 
 #### Differential Optimization (Conditional gradients)
 
