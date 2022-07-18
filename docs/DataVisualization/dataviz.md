@@ -16,6 +16,8 @@ Reviews[Visualization Universe - The Most Searched for Visualization Types, Tool
 
 [20条超全建议！让你轻松搞定高质量数据可视化~~](https://mp.weixin.qq.com/s/3JZKmaJbKq-UzNtrnZlkQA)
 
+[可视化图表使用避坑指南 (上篇)](https://mp.weixin.qq.com/s/rgeQpMsUlcMcoY2_C3eBQA)
+
 ## Layouts
 [(文末送书)绘图技巧 | 一行代码实现多图组合和风格主题设置](https://mp.weixin.qq.com/s/eaM_mXM8uJAMNNvyBAbIOg)
 

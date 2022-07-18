@@ -684,6 +684,9 @@ Opt Organization:
 
 MPEC: [chkwon/Complementarity.jl: provides a modeling interface for mixed complementarity problems (MCP) and math programs with equilibrium problems (MPEC) via JuMP](https://github.com/chkwon/Complementarity.jl)
 
+
+Open Optimizers[Download – COIN-OR: Computational Infrastructure for Operations Research](file:///F:/Zotero/Zotero/storage/RJ96NPGG/downloading.html)
+
 ### <span id="head25">3.2.1. Metaheuristic</span>
 
 Julia:
@@ -742,6 +745,17 @@ Proximal
 [OPTEC](https://github.com/kul-optec)
 
 [kul-optec/CIAOAlgorithms.jl: Coordinate and Incremental Aggregated Optimization Algorithms](https://github.com/kul-optec/CIAOAlgorithms.jl)
+
+
+### 3.2.6. Second Order Methods
+[Search · stochastic quasi-newton](https://github.com/search?o=desc&q=stochastic+quasi-newton&s=updated&type=Repositories)
+
+Good[hiroyuki-kasai/SGDLibrary: MATLAB/Octave library for stochastic optimization algorithms: Version 1.0.20](https://github.com/hiroyuki-kasai/SGDLibrary)
+
+
+[gowerrobert/StochOpt.jl: A suite of stochastic optimization methods for solving the empirical risk minimization problem.](https://github.com/gowerrobert/StochOpt.jl)
+
+[pcmoritz/slbfgs: Stochastic LBFGS](https://github.com/pcmoritz/slbfgs)
 
 ## <span id="head29">3.3. Optimal Control</span>
 
@@ -1385,6 +1399,8 @@ Julia
 [Zymrael/awesome-neural-ode: A collection of resources regarding the interplay between differential equations, deep learning, dynamical systems, control and numerical methods.](https://github.com/Zymrael/awesome-neural-ode)
 
 [massastrello/awesome-implicit-neural-models](https://github.com/massastrello/awesome-implicit-neural-models)
+
+[High-Dimensional Partial Differential Equations - Deep PDE](http://deeppde.org/intro/)
 
 ### <span id="head57">3.8.1. Universal Differential Equations. (Neural differential equations)</span>
 
