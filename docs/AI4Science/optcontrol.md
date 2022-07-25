@@ -30,7 +30,53 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
 * F. Topputo and C. Zhang, “Survey of Direct Transcription for Low-Thrust Space Trajectory Optimization with Applications,” Abstract and Applied Analysis, vol. 2014, Article ID 851720, 15 pages, 2014. [[edited](https://www.hindawi.com/journals/aaa/2014/851720/)
 
 ## Software
+[mintOC](https://mintoc.de/index.php/Main_Page)
+### Python
 
+[BYU-PRISM/GEKKO: GEKKO Python for Machine Learning and Dynamic Optimization](https://github.com/BYU-PRISM/GEKKO)
+
+
+[casadi/casadi: CasADi is a symbolic framework for numeric optimization implementing automatic differentiation in forward and reverse modes on sparse matrix-valued computational graphs. It supports self-contained C-code generation and interfaces state-of-the-art codes such as SUNDIALS, IPOPT etc. It can be used from C++, Python or Matlab/Octave.](https://github.com/casadi/casadi)
+
+[ethz-adrl/control-toolbox: The Control Toolbox - An Open-Source C++ Library for Robotics, Optimal and Model Predictive Control](https://github.com/ethz-adrl/control-toolbox)
+
+[Dynamic Optimization with pyomo.DAE — Pyomo 6.4.1 documentation](https://pyomo.readthedocs.io/en/stable/modeling_extensions/dae.html?highlight=optimal%20control)
+
+[OpenMDAO/dymos: Open Source Optimization of Dynamic Multidisciplinary Systems](https://github.com/OpenMDAO/dymos)
+
+[Shunichi09/PythonLinearNonlinearControl: PythonLinearNonLinearControl is a library implementing the linear and nonlinear control theories in python.](https://github.com/Shunichi09/PythonLinearNonlinearControl)
+
+[Examples — opty 1.2.0.dev0 documentation](https://opty.readthedocs.io/en/latest/examples.html)
+
+
+[wanxinjin/Pontryagin-Differentiable-Programming: A unified end-to-end learning and control framework that is able to learn a (neural) control objective function, dynamics equation, control policy, or/and optimal trajectory in a control system.](https://github.com/wanxinjin/Pontryagin-Differentiable-Programming)
+
+
+### C++
+[PSOPT/psopt: PSOPT Optimal Control Software](https://github.com/PSOPT/psopt)
+
+[loco-3d/crocoddyl: Crocoddyl is an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms](https://github.com/loco-3d/crocoddyl)
+### Julia
+[infiniteopt/InfiniteOpt.jl: An intuitive modeling interface for infinite-dimensional optimization problems.](https://github.com/infiniteopt/InfiniteOpt.jl)
+
+[odow/SDDP.jl: Stochastic Dual Dynamic Programming in Julia](https://github.com/odow/SDDP.jl)
+
+[ai4energy/OptControl.jl: A tool to solve optimal control problem](https://github.com/ai4energy/OptControl.jl)
+
+[thowell/DirectTrajectoryOptimization.jl: A Julia package for constrained trajectory optimization using direct methods.](https://github.com/thowell/DirectTrajectoryOptimization.jl)
+
+[baggepinnen/DifferentialDynamicProgramming.jl: A package for solving Differential Dynamic Programming and trajectory optimization problems.](https://github.com/baggepinnen/DifferentialDynamicProgramming.jl)
+
+### Matlab
+DIDO
+
+GPOCS2[Home | GPOPS-II - Next-Generation Optimal Control Software](https://www.gpops2.com/)
+
+[Everglow0214/The_Adaptive_Dynamic_Programming_Toolbox](https://github.com/Everglow0214/The_Adaptive_Dynamic_Programming_Toolbox)
+
+[nurkanovic/nosnoc: NOSNOC is an open source software package for NOnSmooth Numerical Optimal Control.](https://github.com/nurkanovic/nosnoc)
+
+[OpenOCL/OpenOCL: Open Optimal Control Library for Matlab. Trajectory Optimization and non-linear Model Predictive Control (MPC) toolbox.](https://github.com/OpenOCL/OpenOCL)
 ### High level optimal control modeling languages and optimal control software
 
 * Acado [[github](https://github.com/acado/acado)] [[web](http://acado.github.io/)]
