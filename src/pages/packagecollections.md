@@ -393,7 +393,7 @@ Python:
 
 [tensorflow/tensorflow: An Open Source Machine Learning Framework for Everyone](https://github.com/tensorflow/tensorflow)
 
-[AMICI-dev/AMICI: Advanced Multilanguage Interface to CVODES and IDAS](https://github.com/AMICI-dev/AMICI)
+Similar to SciMLSensitivity.jl[AMICI-dev/AMICI: Advanced Multilanguage Interface to CVODES and IDAS](https://github.com/AMICI-dev/AMICI)
 
 #### <span id="head13">Auto Difference</span>
 
@@ -451,7 +451,7 @@ Condition Gradient:
 
 Learn One equals learn many
 
-[SciML/Quadrature.jl: A common interface for quadrature and numerical integration for the SciML scientific machine learning organization](https://github.com/SciML/Quadrature.jl)
+Review[SciML/Quadrature.jl: A common interface for quadrature and numerical integration for the SciML scientific machine learning organization](https://github.com/SciML/Quadrature.jl)
 
 [SciML/QuasiMonteCarlo.jl: Lightweight and easy generation of quasi-Monte Carlo sequences with a ton of different methods on one API for easy parameter exploration in scientific machine learning (SciML)](https://github.com/SciML/QuasiMonteCarlo.jl)
 
@@ -476,6 +476,8 @@ Julia:
 [JuliaApproximation/SingularIntegralEquations.jl: Julia package for solving singular integral equations](https://github.com/JuliaApproximation/SingularIntegralEquations.jl)
 
 [JuliaGNI/GeometricIntegrators.jl: Geometric Numerical Integration in Julia](https://github.com/JuliaGNI/GeometricIntegrators.jl)
+
+[stochastics-uni-luebeck/LevyArea.jl: Iterated stochastic integrals in Julia.](https://github.com/stochastics-uni-luebeck/LevyArea.jl)
 
 #### <span id="head15">Bayesian Methods</span>
 
@@ -597,6 +599,9 @@ Spectral methods
 [JuliaApproximation/SpectralMeasures.jl: Julia package for finding the spectral measure of structured self adjoint operators](https://github.com/JuliaApproximation/SpectralMeasures.jl)
 
 [tpapp/SpectralKit.jl: Building blocks of spectral methods for Julia.](https://github.com/tpapp/SpectralKit.jl)
+
+
+[markmbaum/BasicInterpolators.jl: Basic (+chebyshev) interpolation recipes in Julia](https://github.com/markmbaum/BasicInterpolators.jl)
 
 Spasrse Slover
 
@@ -1366,7 +1371,7 @@ Survey[JuliaPDE/SurveyofPDEPackages: Survey of the packages of the Julia ecosyst
 
 [trixi-framework/Trixi.jl: Trixi.jl: Adaptive high-order numerical simulations of hyperbolic PDEs in Julia](https://github.com/trixi-framework/Trixi.jl)
 
-[JuliaIBPM](file:///F:/Zotero/Zotero/storage/FB6Y7GEQ/JuliaIBPM.html)
+[JuliaIBM](https://github.com/JuliaIBPM)
 
 [ranocha/SummationByPartsOperators.jl: A Julia library of summation-by-parts (SBP) operators used in finite difference, Fourier pseudospectral, continuous Galerkin, and discontinuous Galerkin methods to get provably stable semidiscretizations, paying special attention to boundary conditions.](https://github.com/ranocha/SummationByPartsOperators.jl)
 
@@ -1374,11 +1379,23 @@ Survey[JuliaPDE/SurveyofPDEPackages: Survey of the packages of the Julia ecosyst
 
 [JuliaFEM](https://github.com/JuliaFEM)
 
+
+pseudospectral[FourierFlows/FourierFlows.jl: Tools for building fast, hackable, pseudospectral partial differential equation solvers on periodic domains](https://github.com/FourierFlows/FourierFlows.jl)
+
 Python：
 
 [DedalusProject/dedalus: A flexible framework for solving PDEs with modern spectral methods.](https://github.com/DedalusProject/dedalus)
 
 [FEniCS Project](https://github.com/FEniCS)
+
+
+#### Integral Differential Equation
+[TSGut/SparseVolterraExamples.jl: A number of examples built on the method described in https://arxiv.org/abs/2005.06081 for solving nonlinear and integro-differential Volterra equations](https://github.com/TSGut/SparseVolterraExamples.jl)
+
+
+[JoshKarpel/idesolver: A general-purpose numerical integro-differential equation solver](https://github.com/JoshKarpel/idesolver)
+
+[vitesempl/RK-IDE-Julia: Julia package for solving Differential Equations with Discrete and Distributed delays](https://github.com/vitesempl/RK-IDE-Julia)
 
 ### 3.7.2 Fractional Differential and Calculus
 
@@ -1633,6 +1650,10 @@ Julia:
 Python:
 
 [sympy/sympy: A computer algebra system written in pure Python](https://github.com/sympy/sympy)
+
+
+## FFTW
+[JuliaMath/FFTW.jl: Julia bindings to the FFTW library for fast Fourier transforms](https://github.com/JuliaMath/FFTW.jl)
 
 ## <span id="head70">4.3. Roots, Intepolations</span>
 
