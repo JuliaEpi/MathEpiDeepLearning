@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[5530],{129:function(e){e.exports=JSON.parse('{"allTagsPath":"/MathEpiDeepLearning/blog/tags","name":"welcome","count":2,"permalink":"/MathEpiDeepLearning/blog/tags/welcome"}')}}]);
