@@ -52,6 +52,9 @@ Julia:
 
 [brekmeuris/DrMZ.jl: Deep renormalized Mori-Zwanzig (DrMZ) Julia package.](https://github.com/brekmeuris/DrMZ.jl)
 
+### Implicit Layers
+[facebookresearch/theseus: A library for differentiable nonlinear optimization](https://github.com/facebookresearch/theseus)
+
 ## <span id="head60">3.9. Data Driven Methods (Equation Searching Methods)</span>
 
 Julia package including SINDy, Symbolic Regression, DMD
@@ -65,6 +68,8 @@ Julia package including SINDy, Symbolic Regression, DMD
 [cavalab/srbench: A living benchmark framework for symbolic regression](https://github.com/cavalab/srbench)
 
 Python:
+
+[nasa/bingo](https://github.com/nasa/bingo)
 
 [trevorstephens/gplearn: Genetic Programming in Python, with a scikit-learn inspired API](https://github.com/trevorstephens/gplearn)
 
