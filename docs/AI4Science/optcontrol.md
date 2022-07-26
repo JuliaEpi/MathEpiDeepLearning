@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 7
 ---
 
 
@@ -146,3 +146,60 @@ GPOCS2[Home | GPOPS-II - Next-Generation Optimal Control Software](https://www.g
 
 * Summer School on Numerical Optimization Software (includes a long list of solvers in the slides, see repository), Hans D. Mittelmann, Moritz Diehl [[web](https://www.syscop.de/teaching/2016/summer-school-on-numerical-optimization-software)] [[repository](https://gitlab.syscop.de/teaching/NOS_public)]
 * Decision tree, benchmarks for optimization software, Hans D. Mittelmann [[web](http://plato.asu.edu/)]
+
+
+
+
+## <span id="head29">3.3. Optimal Control</span>
+
+[eleurent/phd-bibliography: References on Optimal Control, Reinforcement Learning and Motion Planning](https://github.com/eleurent/phd-bibliography)
+
+[mintOC](https://mintoc.de/index.php/Main_Page)
+
+Julia: Jump + InfiniteOpt
+
+Jump is powerfull!!!
+
+[jump-dev/JuMP.jl: Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)](https://github.com/jump-dev/JuMP.jl)
+
+InfiniteOpt is powerfull!!!
+
+[pulsipher/InfiniteOpt.jl: An intuitive modeling interface for infinite-dimensional optimization problems.](https://github.com/pulsipher/InfiniteOpt.jl)
+
+GAMS unified software[GAMS Documentation Center](https://www.gams.com/latest/docs/index.html)
+
+[GAMS-dev/gams.jl: A MathOptInterface Optimizer to solve JuMP models using GAMS](https://github.com/GAMS-dev/gams.jl)
+
+Matlab: Yalmip unified[YALMIP](https://yalmip.github.io/)
+
+Python: unified[Pyomo/pyomo: An object-oriented algebraic modeling language in Python for structured optimization problems.](https://github.com/Pyomo/pyomo)
+
+[Solver Manuals](https://www.gams.com/latest/docs/S_MAIN.html)
+
+Julia:
+
+[martinbiel/StochasticPrograms.jl: Julia package for formulating and analyzing stochastic recourse models.](https://github.com/martinbiel/StochasticPrograms.jl)
+
+[odow/SDDP.jl: Stochastic Dual Dynamic Programming in Julia](https://github.com/odow/SDDP.jl)
+
+[PSORLab/EAGO.jl: A development environment for robust and global optimization](https://github.com/PSORLab/EAGO.jl)
+
+[JuliaSmoothOptimizers/PDENLPModels.jl: A NLPModel API for optimization problems with PDE-constraints](https://github.com/JuliaSmoothOptimizers/PDENLPModels.jl)
+
+[JuliaControl](https://github.com/JuliaControl)
+
+[JuliaMPC/NLOptControl.jl: nonlinear control optimization tool](https://github.com/JuliaMPC/NLOptControl.jl)
+
+Python:
+
+casadi is powerful!
+
+[python-control/python-control: The Python Control Systems Library is a Python module that implements basic operations for analysis and design of feedback control systems.](https://github.com/python-control/python-control)
+
+[Shunichi09/PythonLinearNonlinearControl: PythonLinearNonLinearControl is a library implementing the linear and nonlinear control theories in python.](https://github.com/Shunichi09/PythonLinearNonlinearControl)
+
+Matlab:
+
+[OpenOCL/OpenOCL: Open Optimal Control Library for Matlab. Trajectory Optimization and non-linear Model Predictive Control (MPC) toolbox.](https://github.com/OpenOCL/OpenOCL)
+
+[jkoendev/optimal-control-literature-software: List of literature and software for optimal control and numerical optimization.](https://github.com/jkoendev/optimal-control-literature-software)
