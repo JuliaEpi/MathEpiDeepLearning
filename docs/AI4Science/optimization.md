@@ -24,6 +24,8 @@ Opt Organization:
 
 [jump-dev/MathOptInterface.jl: An abstraction layer for mathematical optimization solvers.](https://github.com/jump-dev/MathOptInterface.jl)
 
+[PSR](https://github.com/psrenergy)
+
 [tpapp/MultistartOptimization.jl: Multistart optimization methods in Julia.](https://github.com/tpapp/MultistartOptimization.jl)
 
 [bbopt/NOMAD.jl: Julia interface to the NOMAD blackbox optimization software](https://github.com/bbopt/NOMAD.jl)

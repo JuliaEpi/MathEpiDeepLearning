@@ -2,6 +2,11 @@
 sidebar_position: 7
 ---
 
+# Numerical Algebra
+
+[JuliaAlgebra](https://github.com/JuliaAlgebra)
+
+# SciML
 
 [SciML/SciMLDocs](https://github.com/SciML/SciMLDocs)
 
@@ -54,7 +59,7 @@ Survey[JuliaPDE/SurveyofPDEPackages: Survey of the packages of the Julia ecosyst
 
 [SciML/ExponentialUtilities.jl: Utility functions for exponential integrators for the SciML scientific machine learning ecosystem](https://github.com/SciML/ExponentialUtilities.jl)
 
-[trixi-framework/Trixi.jl: Trixi.jl: Adaptive high-order numerical simulations of hyperbolic PDEs in Julia](https://github.com/trixi-framework/Trixi.jl)
+good[trixi-framework/Trixi.jl: Trixi.jl: Adaptive high-order numerical simulations of hyperbolic PDEs in Julia](https://github.com/trixi-framework/Trixi.jl)
 
 [JuliaIBM](https://github.com/JuliaIBPM)
 
@@ -94,7 +99,7 @@ Julia
 
 [SciFracX/FractionalTransforms.jl: FractionalTransforms.jl: A Julia package aiming at providing fractional order transforms with high performance.](https://github.com/SciFracX/FractionalTransforms.jl)
 
-
+[JuliaTurkuDataScience/FdeSolver.jl: FdeSolver.jl: A Julia package for the numerical solution of fractional differential equations (FDEs) as well as systems of equations.](https://github.com/JuliaTurkuDataScience/FdeSolver.jl)
 
 ## <span id="head64">3.10. Model Evaluation</span>
 

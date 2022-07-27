@@ -14,6 +14,8 @@ Julia:
 
 [biaslab/ReactiveMP.jl: Julia package for automatic Bayesian inference on a factor graph with reactive message passing](https://github.com/biaslab/ReactiveMP.jl)
 
+[mroavi/JunctionTrees.jl: A metaprogramming-based implementation of the junction tree algorithm.](https://github.com/mroavi/JunctionTrees.jl)
+
 Python:
 
 [Probabilistic machine learning](https://github.com/probml)

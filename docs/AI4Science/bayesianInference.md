@@ -20,6 +20,8 @@ Julia:
 
 [BIASlab](https://github.com/biaslab)
 
+[FRBNY-DSGE/DSGE.jl: Solve and estimate Dynamic Stochastic General Equilibrium models (including the New York Fed DSGE)](https://github.com/FRBNY-DSGE/DSGE.jl)
+
 [StatisticalRethinkingJulia/StatisticalRethinking.jl: Julia package with selected functions in the R package `rethinking`. Used in the SR2... projects.](https://github.com/StatisticalRethinkingJulia/StatisticalRethinking.jl)
 
 Python:
