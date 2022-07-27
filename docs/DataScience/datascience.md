@@ -6,6 +6,7 @@ sidebar_position: 1
 
 [R分享｜100 个统计学和 R 语言学习资源网站](https://mp.weixin.qq.com/s/hLU-pFZ7xf0Fl0OrK-sYPw)
 
+[【精心整理】2022年各专业领域全网最新最顶级的R语言新书 - 知乎](https://zhuanlan.zhihu.com/p/530525295)
 # R
 [Home | Bookdown](https://bookdown.org/)
 

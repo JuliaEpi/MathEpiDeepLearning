@@ -65,7 +65,7 @@ Matrix organization
 
 [RalphAS](https://github.com/RalphAS)
 
-[JuliaLinearAlgebra](https://github.com/JuliaLinearAlgebra)
+Good[JuliaLinearAlgebra](https://github.com/JuliaLinearAlgebra)
 
 [JuliaSparse](https://github.com/JuliaSparse)
 

@@ -9,6 +9,8 @@ sidebar_position: 2
 
 [SciML/DiffEqSensitivity.jl: A component of the DiffEq ecosystem for enabling sensitivity analysis for scientific machine learning (SciML). Optimize-then-discretize, discretize-then-optimize, and more for ODEs, SDEs, DDEs, DAEs, etc.](https://github.com/SciML/DiffEqSensitivity.jl)
 
+[EnzymeAD/Enzyme.jl: Julia bindings for the Enzyme automatic differentiator](https://github.com/EnzymeAD/Enzyme.jl)
+
 Julia:
 
 [FluxML/Zygote.jl: Intimate Affection Auditor](https://github.com/FluxML/Zygote.jl)
