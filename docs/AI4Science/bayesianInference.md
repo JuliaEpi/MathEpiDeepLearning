@@ -241,6 +241,8 @@ Review[Uncertainty Programming, Generalized Uncertainty Quantification](https://
 
 [mschauer/Mitosis.jl: Automatic probabilistic programming for scientific machine learning and dynamical models](https://github.com/mschauer/Mitosis.jl)
 
+Good[JuliaReach/RangeEnclosures.jl: A Julia package to compute range enclosures of real-valued functions.](https://github.com/JuliaReach/RangeEnclosures.jl)
+
 Python
 
 [uncertainty-toolbox/uncertainty-toolbox: A python toolbox for predictive uncertainty quantification, calibration, metrics, and visualization](https://github.com/uncertainty-toolbox/uncertainty-toolbox)

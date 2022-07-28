@@ -69,6 +69,8 @@ Julia:
 
 [matbesancon/MathOptSetDistances.jl: Distances to sets for MathOptInterface](https://github.com/matbesancon/MathOptSetDistances.jl)
 
+[axelparmentier/InferOpt.jl: Combinatorial optimization layers for machine learning pipelines](https://github.com/axelparmentier/InferOpt.jl)
+
 python:
 
 [cvxgrp/cvxpylayers: Differentiable convex optimization layers](https://github.com/cvxgrp/cvxpylayers)

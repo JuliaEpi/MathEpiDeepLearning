@@ -24,6 +24,8 @@ Opt Organization:
 
 [jump-dev/MathOptInterface.jl: An abstraction layer for mathematical optimization solvers.](https://github.com/jump-dev/MathOptInterface.jl)
 
+[osqp/OSQP.jl: Julia interface for OSQP: The Operator Splitting QP Solver](https://github.com/osqp/OSQP.jl)
+
 [PSR](https://github.com/psrenergy)
 
 [tpapp/MultistartOptimization.jl: Multistart optimization methods in Julia.](https://github.com/tpapp/MultistartOptimization.jl)

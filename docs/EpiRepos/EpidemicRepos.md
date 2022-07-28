@@ -142,6 +142,8 @@ Julia:
 
 # Rt
 
+[ResearchLuxembourg/restimator: Real time estimation of epidemic Effective Reproduction Number for Luxembourg](https://github.com/ResearchLuxembourg/restimator)
+
 [epiforecasts/covid-rt-estimates: National and subnational estimates of the time-varying reproduction number for Covid-19](https://github.com/epiforecasts/covid-rt-estimates)
 
 [Estimate Real-Time Case Counts and Time-Varying Epidemiological Parameters • EpiNow2](https://epiforecasts.io/EpiNow2/)
