@@ -8,7 +8,7 @@ Guides on contributions:
 
 Also see its twin repo [MathEpiDeepLearningTutorial: Tutorials on math epidemiology and epidemiology informed deep learning methods](https://github.com/Song921012/MathEpiDeepLearningTutorial).
 
-![DiffrentialPrograming](https://github.com/Song921012/MathEpiDeepLearningTutorial/blob/main/Data/Pictures/DifferentialPrograming1.png?raw=ture)
+![DifferentialPrograming](https://github.com/Song921012/MathEpiDeepLearningTutorial/blob/main/Data/Pictures/DifferentialPrograming1.png?raw=ture)
 
 Contents:
 
@@ -22,13 +22,13 @@ Contents:
 - [2. Basic Statistics and Data Visualization](#head5)
   
   - [2.1. Statistics](#head6)
-  - [2.2. (Deep Learning based) Time Seris Analysis](#head7)
+  - [2.2. (Deep Learning based) Time Series Analysis](#head7)
   - [2.3. Survival Analysis](#head8)
-  - [2.4. Data Visulization](#head9)
+  - [2.4. Data Visualization](#head9)
   - [2.5. GLM](#head76)
 - [3. Differential Programing and Data Mining](#head10)
   
-  - [3.1. Differentialation, Quadrature and Tensor computation](#head11)
+  - [3.1. Differentiation, Quadrature and Tensor computation](#head11)
     - [3.1.1. Auto Differentiation](#head12)
       - [Auto Difference](#head13)
     - [3.1.2. Quadrature](#head14)
@@ -39,12 +39,12 @@ Contents:
       - [ Eigenvalues](#head19)
       - [Tensor computation](#head80)
       - [Maps and Operators](#head20)
-      - [Matrxi Equations](#head21)
+      - [Matrix Equations](#head21)
       - [Kronecker-based algebra](#head22)
     - [3.1.4. CPU, GPU and TPU](#head23)
   - [3.2. Optimization](#head24)
     - [3.2.1. Metaheuristic](#head25)
-    - [3.2.2. Evolution Stragegy](#head26)
+    - [3.2.2. Evolution Strategy](#head26)
     - [3.2.3. Genetic Algorithms](#head27)
     - [3.2.4. Nonconvex](#head28)
   - [3.3. Optimal Control](#head29)
@@ -53,10 +53,10 @@ Contents:
     - [3.4.2. Approximate Bayesian Computation (ABC)](#head32)
     - [3.4.3. Data Assimilation (SMC, particles filter)](#head33)
     - [3.4.4. Variational Inference](#head34)
-    - [3.4.5. Gaussion, non-Gaussion and Kernel](#head35)
+    - [3.4.5. Gaussian, non-Gaussian and Kernel](#head35)
     - [3.4.6. Bayesian Optimization](#head36)
     - [3.4.7. Information theory](#head37)
-    - [3.4.8. Uncertanty](#head38)
+    - [3.4.8. Uncertainty](#head38)
     - [3.4.9. Casual](#head39)
     - [3.4.10. Sampling](#head40)
   - [3.5. Machine Learning and Deep Learning](#head41)
@@ -67,33 +67,33 @@ Contents:
     - [3.5.5. Transformer](#head46)
     - [3.5.6. Transfer Learning](#head47)
     - [3.5.7. Neural Tangent](#head48)
-    - [3.5.8. Visulization](#head49)
-  - [3.6. Probablistic Machine Learning and Deep Learning](#head50)
+    - [3.5.8. Visualization](#head49)
+  - [3.6. Probabilistic Machine Learning and Deep Learning](#head50)
     - [3.6.1. GAN](#head51)
-    - [3.6.2. Normilization Flows](#head52)
+    - [3.6.2. Normalization Flows](#head52)
     - [3.6.3. VAE](#head53)
   - [3.7. Differential Equations and Scientific Computation](#head54)
     - [3.7.1. Partial differential equation](#head55)
   - [3.8. Scientific Machine Learning (Differential Equation and ML)](#head56)
     - [3.8.1. Universal Differential Equations. (Neural differential equations)](#head57)
-    - [3.8.2. Physical Informed Neural Netwworks](#head58)
+    - [3.8.2. Physical Informed Neural Networks](#head58)
     - [3.8.3. Neural Operator](#head59)
   - [3.9. Data Driven Methods (Equation Searching Methods)](#head60)
     - [3.9.1. Symbolic Regression](#head61)
     - [3.9.2. SINDy (Sparse Identification of Nonlinear Dynamics from Data)](#head62)
     - [3.9.3. DMD (Dynamic Mode Decomposition)](#head63)
   - [3.10. Model Evaluation](#head64)
-    - [3.10.1. Structure Idendification](#head65)
-    - [3.10.2. Global Sensitivity Anylysis](#head66)
+    - [3.10.1. Structure Identification](#head65)
+    - [3.10.2. Global Sensitivity Analysis](#head66)
   - [3.10. Optimal Transportation](#head77)
   - [3.11. Agents, Graph and Networks](#head81)
 - [4. Theoretical Analysis](#head67)
   
   - [4.0. Special Functions](#head68)
   - [4.1. Symbolic Computation](#head69)
-  - [4.3. Roots, Intepolations](#head70)
+  - [4.3. Roots, Interpolations](#head70)
     - [4.3.1. Roots](#head71)
-    - [4.3.2. Intepolations](#head72)
+    - [4.3.2. Interpolations](#head72)
   - [4.2. Bifurcation](#head73)
 - [5. Writings, Blog and Web](#head74)
   
@@ -224,7 +224,7 @@ Python:
 
 [cscherrer/MeasureTheory.jl: "Distributions" that might not add to one.](https://github.com/cscherrer/MeasureTheory.jl)
 
-## <span id="head7">2.2. (Deep Learning based) Time Seris Analysis</span>
+## <span id="head7">2.2. (Deep Learning based) Time Series Analysis</span>
 
 Julia: (few)
 
@@ -290,7 +290,7 @@ Python:
 [jaredleekatzman/DeepSurv: DeepSurv is a deep learning approach to survival analysis.](https://github.com/jaredleekatzman/DeepSurv)
 
 [square/pysurvival: Open source package for Survival Analysis modeling](https://github.com/square/pysurvival/)
-## <span id="head9">2.4. Data Visulization</span>
+## <span id="head9">2.4. Data Visualization</span>
 
 
 
@@ -355,7 +355,7 @@ Julia:
 
 # <span id="head10">3. Differential Programing and Data Mining</span>
 [The Algorithms](https://github.com/TheAlgorithms)
-## <span id="head11">3.1. Differentialation, Quadrature and Tensor computation</span>
+## <span id="head11">3.1. Differentiation, Quadrature and Tensor computation</span>
 
 ### <span id="head12">3.1.1. Auto Differentiation</span>
 

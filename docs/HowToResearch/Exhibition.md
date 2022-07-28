@@ -12,7 +12,7 @@ Hexo
 
 Docusaurus
 
-## Data Visulization Web
+## Data Visualization Web
 Streamlit
 
 Shinny App
