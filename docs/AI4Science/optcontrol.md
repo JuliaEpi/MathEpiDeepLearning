@@ -59,6 +59,10 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
 ### Julia
 [infiniteopt/InfiniteOpt.jl: An intuitive modeling interface for infinite-dimensional optimization problems.](https://github.com/infiniteopt/InfiniteOpt.jl)
 
+[RoboticExplorationLab/TrajectoryOptimization.jl: A fast trajectory optimization library written in Julia](https://github.com/RoboticExplorationLab/TrajectoryOptimization.jl)
+
+[FHoltorf/MarkovBounds.jl: A Julia package for the computation of hard, theoretically guaranteed bounds on the moments of jump-diffusion processes with polynomial data](https://github.com/FHoltorf/MarkovBounds.jl)
+
 [odow/SDDP.jl: Stochastic Dual Dynamic Programming in Julia](https://github.com/odow/SDDP.jl)
 
 [ai4energy/OptControl.jl: A tool to solve optimal control problem](https://github.com/ai4energy/OptControl.jl)

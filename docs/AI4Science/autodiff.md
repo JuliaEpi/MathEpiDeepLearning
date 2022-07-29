@@ -94,3 +94,6 @@ Review[PyLops/pyproximal: PyProximal – Proximal Operators and Algorithms in Py
 Condition Gradient:
 
 [ZIB-IOL/FrankWolfe.jl: Julia implementation for various Frank-Wolfe and Conditional Gradient variants](https://github.com/ZIB-IOL/FrankWolfe.jl)
+
+#### Derivatives of Special Functions
+[cgeoga/BesselK.jl: An AD-compatible modified second-kind Bessel function.](https://github.com/cgeoga/BesselK.jl)

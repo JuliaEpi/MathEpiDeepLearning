@@ -317,6 +317,9 @@ bqplot交互式图形
 [lazarusA/BeautifulMakie: https://lazarusa.github.io/BeautifulMakie/](https://github.com/lazarusA/BeautifulMakie)
 
 
+
+[eirikbrandsaas/DuBoisPlots.jl: A package that replicates some of the unique visualizations by W. E. B. DuBois](https://github.com/eirikbrandsaas/DuBoisPlots.jl)
+
 地图
 
 [JuliaEarth](https://github.com/JuliaEarth)

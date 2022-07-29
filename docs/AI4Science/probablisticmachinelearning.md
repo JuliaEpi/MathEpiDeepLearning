@@ -16,6 +16,8 @@ Julia:
 
 [mroavi/JunctionTrees.jl: A metaprogramming-based implementation of the junction tree algorithm.](https://github.com/mroavi/JunctionTrees.jl)
 
+[pat-alt/LaplaceRedux.jl: Small library for using Laplace Redux with Flux Neural Networks for effortless Bayesian Deep Learning.](https://github.com/pat-alt/LaplaceRedux.jl)
+
 Python:
 
 [Probabilistic machine learning](https://github.com/probml)

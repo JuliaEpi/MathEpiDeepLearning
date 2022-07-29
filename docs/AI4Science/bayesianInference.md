@@ -44,6 +44,8 @@ Python:
 
 [jmschrei/pomegranate: Fast, flexible and easy to use probabilistic modelling in Python.](https://github.com/jmschrei/pomegranate)
 
+[csynbiosysIBioEUoE/BOMBs.jl: Repository for the Julia BOMBS package](https://github.com/csynbiosysIBioEUoE/BOMBs.jl)
+
 ### <span id="head31">3.4.1. MCMC</span>
 
 Methods like HMC, SGLD are Covered by above-mentioned packages.

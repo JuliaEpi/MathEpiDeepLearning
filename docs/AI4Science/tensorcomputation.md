@@ -120,6 +120,8 @@ Eig:
 
 [JuliaApproximation/SpectralMeasures.jl: Julia package for finding the spectral measure of structured self adjoint operators](https://github.com/JuliaApproximation/SpectralMeasures.jl)
 
+[dgleich/GenericArpack.jl: A pure Julia translation of the Arpack library for eigenvalues and eigenvectors but for any numeric types. (Symmetric only right now)](https://github.com/dgleich/GenericArpack.jl)
+
 Solver:
 
 [JuliaInv/KrylovMethods.jl: Simple and fast Julia implementation of Krylov subspace methods for linear systems.](https://github.com/JuliaInv/KrylovMethods.jl)

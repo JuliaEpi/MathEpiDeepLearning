@@ -5,11 +5,11 @@ All solutions to Latex [LaTeX 工作室](https://www.latexstudio.net/)
 
 Online Latex: [Your Projects - Overleaf, Online LaTeX Editor](https://www.overleaf.com/project)
 
+Next generation tool[Quarto](https://quarto.org/)
+
 [csekri/tkzgeom: GUI tool for TikZ figure production](https://github.com/csekri/tkzgeom)
 
-
 R Bookdown and Markdown
-
 
 [Linggle - Language Reference Search Engines - NLPLab](https://linggle.com/)
 
