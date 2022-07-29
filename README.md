@@ -1,5 +1,8 @@
 # MathEpiDeepLearning
-See [Website of MathEpiDeepLearning](https://song921012.github.io/MathEpiDeepLearning/)
+
+See [Website of MathEpiDeepLearning](https://JuliaEpi.github.io/MathEpiDeepLearning/)
+
+Note that at this time packages are all listed in Readme. Now I am gradually classifying them and move them to docs (with the name Resources) in [Website of MathEpiDeepLearning](https://JuliaEpi.github.io/MathEpiDeepLearning/). See details in Resources/Tools for AI4Science. 
 
 Guides on contributions:
 
@@ -12,12 +15,12 @@ Also see its twin repo [MathEpiDeepLearningTutorial: Tutorials on math epidemiol
 
 Contents:
 
-- [ Introduction](#head1)
+- [Introduction](#head1)
 - [0. Epidemic Model](#head79)
 - [1. Data Preprocessing](#head2)
   
   - [1.1. Data Science](#head3)
-  - [ Smoothing](#head4)
+  - [Smoothing](#head4)
   - [Outlier Detection](#head75)
 - [2. Basic Statistics and Data Visualization](#head5)
   
@@ -36,7 +39,7 @@ Contents:
       - [Expectations calculation](#head16)
     - [3.1.3. Matrix and Tensor computation](#head17)
       - [Special Matrix](#head18)
-      - [ Eigenvalues](#head19)
+      - [Eigenvalues](#head19)
       - [Tensor computation](#head80)
       - [Maps and Operators](#head20)
       - [Matrix Equations](#head21)
@@ -97,7 +100,7 @@ Contents:
   - [4.2. Bifurcation](#head73)
 - [5. Writings, Blog and Web](#head74)
   
-  # <span id="head1"> Introduction</span>
+# <span id="head1"> Introduction</span>
   
   Julia and Python resources on mathematical epidemiology and epidemiology informed deep learning methods. Most about package information. Main Topics include
   
@@ -105,7 +108,7 @@ Contents:
   
 - Basic Statistics and Data Visualization
   
-- Differential Programing and Data Mining 
+- Differential Programing and Data Mining
   such as bayesian inference, deep learning, scientific machine learning computation
   
 - Theoretical Analysis
@@ -113,11 +116,9 @@ Contents:
   
 - Writings, Blog and Web
   
-
 [TOC]
 
-
-Julia: 
+Julia:
 
 [epirecipes/sir-julia: Various implementations of the classical SIR model in Julia](https://github.com/epirecipes/sir-julia)
 
@@ -137,7 +138,6 @@ Python:
 
 [pyro.contrib.epidemiology.models — Pyro documentation](https://docs.pyro.ai/en/stable/_modules/pyro/contrib/epidemiology/models.html#HeterogeneousSIRModel)
 
-
 Modelling Human Mobility
 [scikit-mobility/scikit-mobility: scikit-mobility: mobility analysis in Python](https://github.com/scikit-mobility/scikit-mobility)
 
@@ -146,8 +146,6 @@ Matlab:
 [JDureau/AllScripts](https://github.com/JDureau/AllScripts)
 
 # <span id="head2">1. Data Preprocessing</span>
-
-
 
 ## <span id="head3">1.1. Data Science</span>
 
@@ -187,15 +185,14 @@ Expotential Smoothing:
 
 [konkam/FeynmanKacParticleFilters.jl: Particle filtering using the Feynman-Kac formalism](https://github.com/konkam/FeynmanKacParticleFilters.jl)
 
-
 [mschauer/Kalman.jl: Flexible filtering and smoothing in Julia](https://github.com/mschauer/Kalman.jl)
 
 [JuliaStats/Loess.jl: Local regression, so smooooth!](https://github.com/JuliaStats/Loess.jl)
 
 [CliMA/EnsembleKalmanProcesses.jl: Implements Optimization and approximate uncertainty quantification algorithms, Ensemble Kalman Inversion, and Ensemble Kalman Processes.](https://github.com/CliMA/EnsembleKalmanProcesses.jl)
 
-
 ## <span id="head75"> Outlier Detection</span>
+
 Survey[rob-med/awesome-TS-anomaly-detection: List of tools & datasets for anomaly detection on time-series data.](https://github.com/rob-med/awesome-TS-anomaly-detection)
 
 Julia:
@@ -286,13 +283,11 @@ Python:
 
 [chl8856/DeepHit: DeepHit: A Deep Learning Approach to Survival Analysis with Competing Risks](https://github.com/chl8856/DeepHit)
 
-
 [jaredleekatzman/DeepSurv: DeepSurv is a deep learning approach to survival analysis.](https://github.com/jaredleekatzman/DeepSurv)
 
 [square/pysurvival: Open source package for Survival Analysis modeling](https://github.com/square/pysurvival/)
+
 ## <span id="head9">2.4. Data Visualization</span>
-
-
 
 Julia:
 
@@ -322,17 +317,13 @@ Matplotlib
 
 [rougier/scientific-visualization-book: An open access book on scientific visualization using python and matplotlib](https://github.com/rougier/scientific-visualization-book)
 
-
 R:
 
 Color themes:
 
 [discrete.knit](https://emilhvitfeldt.github.io/r-color-palettes/discrete.html)
 
-
-
-
-### Venn Diagrams:
+### Venn Diagrams
 
 R:
 
@@ -350,11 +341,12 @@ Julia:
 
 ## <span id="head76">2.5. GLM</span>
 
-
 [bambinos/bambi: BAyesian Model-Building Interface (Bambi) in Python.](https://github.com/bambinos/bambi)
 
 # <span id="head10">3. Differential Programing and Data Mining</span>
+
 [The Algorithms](https://github.com/TheAlgorithms)
+
 ## <span id="head11">3.1. Differentiation, Quadrature and Tensor computation</span>
 
 ### <span id="head12">3.1.1. Auto Differentiation</span>
@@ -457,10 +449,12 @@ Matrix organization
 
 [JuliaArrays](https://github.com/JuliaArrays)
 
-* [JuliaArrays/StaticArrays.jl: Statically sized arrays for Julia](https://github.com/JuliaArrays/StaticArrays.jl)
+- [JuliaArrays/StaticArrays.jl: Statically sized arrays for Julia](https://github.com/JuliaArrays/StaticArrays.jl)
+
 - [JuliaArrays/ArrayInterface.jl: Designs for new Base array interface primitives, used widely through scientific machine learning (SciML) and other organizations](https://github.com/JuliaArrays/ArrayInterface.jl)
 
-* [JuliaArrays/StructArrays.jl: Efficient implementation of struct arrays in Julia](https://github.com/JuliaArrays/StructArrays.jl)
+- [JuliaArrays/StructArrays.jl: Efficient implementation of struct arrays in Julia](https://github.com/JuliaArrays/StructArrays.jl)
+
 - [JuliaArrays/LazyArrays.jl: Lazy arrays and linear algebra in Julia](https://github.com/JuliaArrays/LazyArrays.jl)
 - [JuliaArrays/AxisArrays.jl: Performant arrays where each dimension can have a named axis with values](https://github.com/JuliaArrays/AxisArrays.jl)
 - [JuliaArrays/OffsetArrays.jl: Fortran-like arrays with arbitrary, zero or negative starting indices.](https://github.com/JuliaArrays/OffsetArrays.jl)
@@ -470,7 +464,9 @@ Matrix organization
 - [JuliaArrays/FillArrays.jl: Julia package for lazily representing matrices filled with a single entry](https://github.com/JuliaArrays/FillArrays.jl)
 
 [JuliaMatrices](https://github.com/JuliaMatrices)
-* [JuliaMatrices/BandedMatrices.jl: A Julia package for representing banded matrices](https://github.com/JuliaMatrices/BandedMatrices.jl)
+
+- [JuliaMatrices/BandedMatrices.jl: A Julia package for representing banded matrices](https://github.com/JuliaMatrices/BandedMatrices.jl)
+
 - [JuliaMatrices/BlockBandedMatrices.jl: A Julia package for representing block-banded matrices and banded-block-banded matrices](https://github.com/JuliaMatrices/BlockBandedMatrices.jl)
 - [JuliaMatrices/SpecialMatrices.jl: Julia package for working with special matrix types.](https://github.com/JuliaMatrices/SpecialMatrices.jl)
 - [JuliaMatrices/InfiniteLinearAlgebra.jl: A Julia repository for linear algebra with infinite matrices](https://github.com/JuliaMatrices/InfiniteLinearAlgebra.jl)
@@ -505,7 +501,6 @@ numba
 
 BLAS and LAPACK[JuliaLinearAlgebra/MKL.jl: Intel MKL linear algebra backend for Julia](https://github.com/JuliaLinearAlgebra/MKL.jl)
 
-
 [mcabbott/Tullio.jl: ⅀](https://github.com/mcabbott/Tullio.jl)
 
 [JuliaLinearAlgebra/Octavian.jl: Multi-threaded BLAS-like library that provides pure Julia matrix multiplication](https://github.com/JuliaLinearAlgebra/Octavian.jl)
@@ -513,6 +508,7 @@ BLAS and LAPACK[JuliaLinearAlgebra/MKL.jl: Intel MKL linear algebra backend for 
 [JuliaGPU/GemmKernels.jl: Flexible and performant GEMM kernels in Julia](https://github.com/JuliaGPU/GemmKernels.jl)
 
 [MasonProtter/Gaius.jl: Divide and Conquer Linear Algebra](https://github.com/MasonProtter/Gaius.jl)
+
 #### <span id="head19"> Eigenvalues and Solvers </span>
 
 Eig[nep-pack/NonlinearEigenproblems.jl: Nonlinear eigenvalue problems in Julia: Iterative methods and benchmarks](https://github.com/nep-pack/NonlinearEigenproblems.jl)
@@ -547,7 +543,6 @@ Eig Too[JuliaLinearAlgebra/IterativeSolvers.jl: Iterative algorithms for solving
 Spectral methods
 
 [JuliaApproximation/SpectralMeasures.jl: Julia package for finding the spectral measure of structured self adjoint operators](https://github.com/JuliaApproximation/SpectralMeasures.jl)
-
 
 [tpapp/SpectralKit.jl: Building blocks of spectral methods for Julia.](https://github.com/tpapp/SpectralKit.jl)
 
@@ -631,7 +626,6 @@ Opt Organization:
 
 [NicolasL-S/SpeedMapping.jl: General fixed point mapping acceleration and optimization in Julia](https://github.com/NicolasL-S/SpeedMapping.jl)
 
-
 [JuliaManifolds/Manopt.jl: Optimization on Manifolds in Julia](https://github.com/JuliaManifolds/Manopt.jl)
 
 ### <span id="head25">3.2.1. Metaheuristic</span>
@@ -687,7 +681,8 @@ Julia:
 [JuliaNonconvex/Nonconvex.jl: Toolbox for non-convex constrained optimization.](https://github.com/JuliaNonconvex/Nonconvex.jl)
 
 ### 3.2.5. First Order Methods
-Proximal 
+
+Proximal
 [OPTEC](https://github.com/kul-optec)
 
 [kul-optec/CIAOAlgorithms.jl: Coordinate and Incremental Aggregated Optimization Algorithms](https://github.com/kul-optec/CIAOAlgorithms.jl)
@@ -707,7 +702,6 @@ Jump is powerfull!!!
 InfiniteOpt is powerfull!!!
 
 [pulsipher/InfiniteOpt.jl: An intuitive modeling interface for infinite-dimensional optimization problems.](https://github.com/pulsipher/InfiniteOpt.jl)
-
 
 GAMS unified software[GAMS Documentation Center](https://www.gams.com/latest/docs/index.html)
 
@@ -737,23 +731,15 @@ Python:
 
 casadi is powerful!
 
-
-
-
 [python-control/python-control: The Python Control Systems Library is a Python module that implements basic operations for analysis and design of feedback control systems.](https://github.com/python-control/python-control)
 
 [Shunichi09/PythonLinearNonlinearControl: PythonLinearNonLinearControl is a library implementing the linear and nonlinear control theories in python.](https://github.com/Shunichi09/PythonLinearNonlinearControl)
-
 
 Matlab:
 
 [OpenOCL/OpenOCL: Open Optimal Control Library for Matlab. Trajectory Optimization and non-linear Model Predictive Control (MPC) toolbox.](https://github.com/OpenOCL/OpenOCL)
 
 [jkoendev/optimal-control-literature-software: List of literature and software for optimal control and numerical optimization.](https://github.com/jkoendev/optimal-control-literature-software)
-
-
-
-
 
 ## <span id="head30">3.4. Bayesian Inference</span>
 
@@ -808,7 +794,6 @@ emcee[madsjulia/AffineInvariantMCMC.jl: Affine Invariant Markov Chain Monte Carl
 Nested Sampling[TuringLang/NestedSamplers.jl: Implementations of single and multi-ellipsoid nested sampling](https://github.com/TuringLang/NestedSamplers.jl)
 
 [bat/UltraNest.jl: Julia wrapper for UltraNest: advanced nested sampling for model comparison and parameter estimation](https://github.com/bat/UltraNest.jl)
-
 
 Python:
 
@@ -990,6 +975,7 @@ Review: [rguo12/awesome-causality-algorithms: An index of algorithms for learnin
 Python:
 
 Survey [ritchieng/the-incredible-pytorch at pythonrepo.com](https://github.com/ritchieng/the-incredible-pytorch?ref=pythonrepo.com#GANsVAEsandAEs)
+
 ### <span id="head42">3.5.1. Machine Learning</span>
 
 Julia: MLJ is enough
@@ -1005,7 +991,6 @@ Julia: MLJ is enough
 Dimention Reduction:[madeleineudell/LowRankModels.jl: LowRankModels.jl is a julia package for modeling and fitting generalized low rank models.](https://github.com/madeleineudell/LowRankModels.jl)
 
 Linear Regression[JuliaAI/MLJLinearModels.jl: Generalized Linear Regressions Models (penalized regressions, robust regressions, ...)](https://github.com/JuliaAI/MLJLinearModels.jl)
-
 
 [gerdm/pknn.jl: Probabilistic k-nearest neighbours](https://github.com/gerdm/pknn.jl)
 
@@ -1030,8 +1015,6 @@ Data Generation
 [snorkel-team/snorkel: A system for quickly generating training data with weak supervision](https://github.com/snorkel-team/snorkel)
 
 [lk-geimfari/mimesis: Mimesis is a high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages.](https://github.com/lk-geimfari/mimesis)
-
-
 
 ### <span id="head43">3.5.2. Deep Learning</span>
 
@@ -1070,6 +1053,7 @@ Python:
 [tensorlayer/tensorlayer: Deep Learning and Reinforcement Learning Library for Scientists and Engineers 🔥](https://github.com/tensorlayer/tensorlayer)
 
 [pfnet/pfrl: PFRL: a PyTorch-based deep reinforcement learning library](https://github.com/pfnet/pfrl)
+
 ### <span id="head45">3.5.4. GNN</span>
 
 Julia:
@@ -1086,9 +1070,7 @@ Python:
 
 [dmlc/dgl: Python package built to ease deep learning on graph, on top of existing DL frameworks.](https://github.com/dmlc/dgl)
 
-
 [THUDM/cogdl: CogDL: An Extensive Toolkit for Deep Learning on Graphs](https://github.com/THUDM/cogdl)
-
 
 ### <span id="head46">3.5.5. Transformer</span>
 
@@ -1113,7 +1095,6 @@ Python:
 ### <span id="head49">3.5.8. Visulization</span>
 
 Python:
-
 
 [ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network: Tools to Design or Visualize Architecture of Neural Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
 
@@ -1181,7 +1162,6 @@ Survey[janosh/awesome-normalizing-flows: A list of awesome resources on normaliz
 
 Julia:
 
-
 Python:
 
 [Variational Autoencoders — Pyro Tutorials 1.7.0 documentation](https://pyro.ai/examples/vae.html)
@@ -1197,11 +1177,13 @@ Python:
 [Ritvik19/pyradox-generative at pythonrepo.com](https://github.com/Ritvik19/pyradox-generative?ref=pythonrepo.com)
 
 ### 3.6.4 BNN
+
 [JavierAntoran/Bayesian-Neural-Networks: Pytorch implementations of Bayes By Backprop, MC Dropout, SGLD, the Local Reparametrization Trick, KF-Laplace, SG-HMC and more](https://github.com/JavierAntoran/Bayesian-Neural-Networks)
 
 [RajDandekar/MSML21_BayesianNODE](https://github.com/RajDandekar/MSML21_BayesianNODE)
 
 [bayesian-neural-networks · GitHub Topics](https://github.com/topics/bayesian-neural-networks)
+
 ## <span id="head54">3.7. Differential Equations and Scientific Computation</span>
 
 Julia:
@@ -1230,7 +1212,6 @@ Julia:
 Python:
 
 [ProbNum — probnum 0.1 documentation](http://www.probabilistic-numerics.org/en/latest/)
-
 
 ### <span id="head55">3.7.1. Partial differential equation</span>
 
@@ -1261,6 +1242,7 @@ Python：
 [DedalusProject/dedalus: A flexible framework for solving PDEs with modern spectral methods.](https://github.com/DedalusProject/dedalus)
 
 ### 3.7.2 Fractional Differential and Calculus
+
 Julia
 
 [SciFracX](https://github.com/SciFracX)
@@ -1274,6 +1256,7 @@ Julia
 [SciFracX/FractionalTransforms.jl: FractionalTransforms.jl: A Julia package aiming at providing fractional order transforms with high performance.](https://github.com/SciFracX/FractionalTransforms.jl)
 
 ## <span id="head56">3.8. Scientific Machine Learning (Differential Equation and ML)</span>
+
 [Zymrael/awesome-neural-ode: A collection of resources regarding the interplay between differential equations, deep learning, dynamical systems, control and numerical methods.](https://github.com/Zymrael/awesome-neural-ode)
 
 [massastrello/awesome-implicit-neural-models](https://github.com/massastrello/awesome-implicit-neural-models)
@@ -1295,6 +1278,7 @@ Python:
 [rtqichen/torchdiffeq: Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.](https://github.com/rtqichen/torchdiffeq)
 
 [patrick-kidger/diffrax at zzun.app](https://github.com/patrick-kidger/diffrax?ref=zzun.app)
+
 ### <span id="head58">3.8.2. Physical Informed Neural Netwworks</span>
 
 [Predictive Intelligence Lab](https://github.com/PredictiveIntelligenceLab)
@@ -1318,6 +1302,7 @@ Julia:
 [CliMA/OperatorFlux.jl: Operator layers for Flux.jl](https://github.com/CliMA/OperatorFlux.jl)
 
 [brekmeuris/DrMZ.jl: Deep renormalized Mori-Zwanzig (DrMZ) Julia package.](https://github.com/brekmeuris/DrMZ.jl)
+
 ## <span id="head60">3.9. Data Driven Methods (Equation Searching Methods)</span>
 
 Julia package including SINDy, Symbolic Regression, DMD
@@ -1388,7 +1373,6 @@ sensobol
 
 ## <span id="head77">3.11. Optimal Transportation</span>
 
-
 Julia:
 
 [Optimal transport in Julia](https://github.com/JuliaOptimalTransport)
@@ -1403,11 +1387,9 @@ Python:
 
 [ott-jax/ott](https://github.com/ott-jax/ott)
 
-
 ## <span id="head81">3.12. Agents, Graph and Networks</span>
+
 [Computational Modeling Software Frameworks](https://www.comses.net/resources/modeling-frameworks/)
-
-
 
 Julia:
 
@@ -1430,6 +1412,7 @@ Python:
 [Welcome to Epidemics on Networks’s documentation! — Epidemics on Networks 1.2rc1 documentation](https://epidemicsonnetworks.readthedocs.io/en/latest/index.html)
 
 [寻找人类传播行为的基因 — 计算传播学](https://chengjun.github.io/mybook/)
+
 # <span id="head67">4. Theoretical Analysis</span>
 
 Julia:
@@ -1458,8 +1441,6 @@ InverseFunction
 [Readme · LambertW.jl](https://docs.juliahub.com/LambertW/7mpiq/0.4.5/)
 
 [scheinerman/Permutations.jl: Permutations class for Julia.](https://github.com/scheinerman/Permutations.jl)
-
-
 
 ## <span id="head69">4.1. Symbolic Computation</span>
 
@@ -1499,8 +1480,6 @@ All[SciML/NonlinearSolve.jl: High-performance and differentiation-enabled nonlin
 
 [sglyon/MINPACK.jl: Wrapper for cminpack multivariate root finding routines](https://github.com/sglyon/MINPACK.jl)
 
-
-
 ### <span id="head72">4.3.2. Interpolations and Approximations</span>
 
 Julia:
@@ -1524,14 +1503,17 @@ ApproxFun.jl
 [jipolanco/BSplineKit.jl: A collection of B-spline tools in Julia](https://github.com/jipolanco/BSplineKit.jl)
 
 [NFFT/ANOVAapprox.jl: Approximation Package for High-Dimensional Functions in Julia](https://github.com/NFFT/ANOVAapprox.jl)
+
 ## <span id="head73">4.2. Bifurcation</span>
 
 [rveltz/BifurcationKit.jl: A Julia package to perform Bifurcation Analysis](https://github.com/rveltz/BifurcationKit.jl)
 
 ## 4.4 Polynomials
+
 [JuliaMath/Polynomials.jl: Polynomial manipulations in Julia](https://github.com/JuliaMath/Polynomials.jl)
 
 # <span id="head74">5. Writings, Blog and Web</span>
+
 [JuliaDocs/Documenter.jl: A documentation generator for Julia.](https://github.com/JuliaDocs/Documenter.jl)
 
 [chriskiehl/Gooey: Turn (almost) any Python command line program into a full GUI application with one line](https://github.com/chriskiehl/Gooey)
@@ -1548,7 +1530,6 @@ Display Julia Unicode in Latex
 
 [davibarreira/NotebookToLaTeX.jl: A Julia package for converting your Pluto and Jupyter Notebooks into beautiful Latex.](https://github.com/davibarreira/NotebookToLaTeX.jl)
 
-
 Web:
 
 [facebook/docusaurus: Easy to maintain open source documentation websites.](https://github.com/facebook/docusaurus)
@@ -1564,7 +1545,6 @@ Hexo
 [streamlit/streamlit: Streamlit — The fastest way to build data apps in Python](https://github.com/streamlit/streamlit)
 
 [gradio-app/gradio: Create UIs for your machine learning model in Python in 3 minutes](https://github.com/gradio-app/gradio)
-
 
 GitHub Profile Settings:
 
