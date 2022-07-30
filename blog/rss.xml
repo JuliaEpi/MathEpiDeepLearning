@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>MathEpiDeepLearning Blog</title>
-        <link>https://song921012.github.io/MathEpiDeepLearning/blog</link>
+        <link>https://JuliaEpi.github.io/MathEpiDeepLearning/blog</link>
         <description>MathEpiDeepLearning Blog</description>
         <lastBuildDate>Tue, 05 Apr 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>en</language>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://song921012.github.io/MathEpiDeepLearning/blog/welcome</link>
+            <link>https://JuliaEpi.github.io/MathEpiDeepLearning/blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></description>
@@ -20,7 +20,7 @@
         </item>
         <item>
             <title><![CDATA[First Blog Post]]></title>
-            <link>https://song921012.github.io/MathEpiDeepLearning/blog/first-blog-post</link>
+            <link>https://JuliaEpi.github.io/MathEpiDeepLearning/blog/first-blog-post</link>
             <guid>first-blog-post</guid>
             <pubDate>Fri, 05 Apr 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Test]]></description>
