@@ -110,7 +110,7 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Mathepia Organizations',
+                label: 'JuliaEpi Organizations',
                 href: 'https://github.com/Mathepia',
               },
               {
@@ -127,8 +127,8 @@ const config = {
                 href: 'https://song921012.github.io/',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/JuliaEpi',
+                label: 'Mathepia Organization',
+                href: 'https://github.com/Mathepia',
               },
             ],
           },
