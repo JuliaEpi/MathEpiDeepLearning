@@ -8,12 +8,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'MathEpiDeepLearning', //网站名字
   tagline: 'Mathematical Epidemiology and Deep Learning',
-  url: 'https://song921012.github.io/', // 基准网站
+  url: 'https://JuliaEpi.github.io/', // 基准网站
   baseUrl: '/MathEpiDeepLearning/', //网站子名字
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/mathepia.ico', // 浏览器tab网站logo
-  organizationName: 'Song921012', // Usually your GitHub org/user name.
+  organizationName: 'JuliaEpi', // Usually your GitHub org/user name.
   projectName: 'MathEpiDeepLearning', // Usually your repo name.
 
   presets: [
@@ -24,13 +24,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/Song921012/MathEpiDeepLearning',
+          editUrl: 'https://github.com/JuliaEpi/MathEpiDeepLearning',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/Song921012/MathEpiDeepLearning',
+            'https://github.com/JuliaEpi/MathEpiDeepLearning',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -44,7 +44,7 @@ const config = {
     ({
       announcementBar: {
         id: 'announcementBar-2', // Increment on change
-        content: `⭐️ If you like MathEpiDeepLearning, don't hesitate to <a target="_blank" rel="noopener noreferrer" href="https://github.com/Song921012/MathEpiDeepLearning">star us</a>`,
+        content: `⭐️ If you like MathEpiDeepLearning, don't hesitate to <a target="_blank" rel="noopener noreferrer" href="https://github.com/JuliaEpi/MathEpiDeepLearning">star us</a>`,
       },
       navbar: {
         title: 'MathEpiDeepLearning',
@@ -65,7 +65,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/Song921012',
+            href: 'https://github.com/JuliaEpi',
             label: 'GitHub',
             position: 'right',
           },
@@ -79,7 +79,7 @@ const config = {
               },
               {
                 label: 'Mathepia.jl',
-                href: 'https://github.com/Song921012/Mathepia.jl',
+                href: 'https://github.com/JuliaEpi/Mathepia.jl',
               },
         ],
       },
@@ -115,7 +115,7 @@ const config = {
               },
               {
                 label: 'Mathepia Packages Systems',
-                href: 'https://github.com/Song921012/Mathepia.jl',
+                href: 'https://github.com/JuliaEpi/Mathepia.jl',
               },
             ],
           },
@@ -128,7 +128,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/Song921012',
+                href: 'https://github.com/JuliaEpi',
               },
             ],
           },

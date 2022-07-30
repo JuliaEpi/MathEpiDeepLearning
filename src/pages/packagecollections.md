@@ -1,6 +1,6 @@
 # MathEpiDeepLearning
 
-See [Website of MathEpiDeepLearning](https://song921012.github.io/MathEpiDeepLearning/)
+See [Website of MathEpiDeepLearning](https://JuliaEpi.github.io/MathEpiDeepLearning/)
 
 Guides on contributions:
 
@@ -401,7 +401,6 @@ Julia:
 
 [SciML/DiffEqOperators.jl: Linear operators for discretizations of differential equations and scientific machine learning (SciML)](https://github.com/SciML/DiffEqOperators.jl)
 
-
 [QuantEcon/SimpleDifferentialOperators.jl: Library for simple upwind finite differences](https://github.com/QuantEcon/SimpleDifferentialOperators.jl)
 
 Python:
@@ -437,7 +436,6 @@ Proximal:
 [JuliaFirstOrder/ProximalAlgorithms.jl: Proximal algorithms for nonsmooth optimization in Julia](https://github.com/JuliaFirstOrder/ProximalAlgorithms.jl)
 
 [JuliaSmoothOptimizers/ShiftedProximalOperators.jl: Proximal operators for use with RegularizedOptimization](https://github.com/JuliaSmoothOptimizers/ShiftedProximalOperators.jl)
-
 
 [Prox Repository](http://proximity-operator.net/scalarfunctions.html)
 
@@ -494,6 +492,7 @@ python：
 [Emukit | Emukit is a highly adaptable Python toolkit for enriching decision making under uncertainty.](https://emukit.github.io/)
 
 [ProbNum — probnum 0.1 documentation](https://probnum.readthedocs.io/en/latest/)
+
 #### <span id="head16">Expectations calculation</span>
 
 [QuantEcon/Expectations.jl: Expectation operators for Distributions.jl objects](https://github.com/QuantEcon/Expectations.jl)
@@ -519,6 +518,7 @@ Matrix organization
 - [JuliaArrays/FillArrays.jl: Julia package for lazily representing matrices filled with a single entry](https://github.com/JuliaArrays/FillArrays.jl)
 
 [JuliaMatrices](https://github.com/JuliaMatrices)
+
 - [JuliaMatrices/BandedMatrices.jl: A Julia package for representing banded matrices](https://github.com/JuliaMatrices/BandedMatrices.jl)
 
 - [JuliaMatrices/BlockBandedMatrices.jl: A Julia package for representing block-banded matrices and banded-block-banded matrices](https://github.com/JuliaMatrices/BlockBandedMatrices.jl)
@@ -600,7 +600,6 @@ Spectral methods
 
 [tpapp/SpectralKit.jl: Building blocks of spectral methods for Julia.](https://github.com/tpapp/SpectralKit.jl)
 
-
 [markmbaum/BasicInterpolators.jl: Basic (+chebyshev) interpolation recipes in Julia](https://github.com/markmbaum/BasicInterpolators.jl)
 
 Spasrse Slover
@@ -647,8 +646,6 @@ Julia GPU organization
 
 [JuliaGPU](https://github.com/JuliaGPU)
 
-
-
 Python:
 
 [tonybaloney/Pyjion: Pyjion - A JIT for Python based upon CoreCLR](https://github.com/tonybaloney/Pyjion)
@@ -688,7 +685,6 @@ Opt Organization:
 [JuliaManifolds/Manopt.jl: Optimization on Manifolds in Julia](https://github.com/JuliaManifolds/Manopt.jl)
 
 MPEC: [chkwon/Complementarity.jl: provides a modeling interface for mixed complementarity problems (MCP) and math programs with equilibrium problems (MPEC) via JuMP](https://github.com/chkwon/Complementarity.jl)
-
 
 Open Optimizers[Download – COIN-OR: Computational Infrastructure for Operations Research](file:///F:/Zotero/Zotero/storage/RJ96NPGG/downloading.html)
 
@@ -751,12 +747,11 @@ Proximal
 
 [kul-optec/CIAOAlgorithms.jl: Coordinate and Incremental Aggregated Optimization Algorithms](https://github.com/kul-optec/CIAOAlgorithms.jl)
 
-
 ### 3.2.6. Second Order Methods
+
 [Search · stochastic quasi-newton](https://github.com/search?o=desc&q=stochastic+quasi-newton&s=updated&type=Repositories)
 
 Good[hiroyuki-kasai/SGDLibrary: MATLAB/Octave library for stochastic optimization algorithms: Version 1.0.20](https://github.com/hiroyuki-kasai/SGDLibrary)
-
 
 [gowerrobert/StochOpt.jl: A suite of stochastic optimization methods for solving the empirical risk minimization problem.](https://github.com/gowerrobert/StochOpt.jl)
 
@@ -1043,11 +1038,9 @@ Uncertainty propogation
 
 Julia:
 
-
 [JuliaPhysics/Measurements.jl: Error propagation calculator and library for physical measurements. It supports real and complex numbers with uncertainty, arbitrary precision calculations, operations with arrays, and numerical integration.](https://github.com/JuliaPhysics/Measurements.jl)
 
 [baggepinnen/MonteCarloMeasurements.jl: Propagation of distributions by Monte-Carlo sampling: Real number types with uncertainty represented by samples.](https://github.com/baggepinnen/MonteCarloMeasurements.jl)
-
 
 Review[Uncertainty Programming, Generalized Uncertainty Quantification](https://book.sciml.ai/notes/19/)
 
@@ -1062,6 +1055,7 @@ Python
 [pyro-ppl/funsor: Functional tensors for probabilistic programming](https://github.com/pyro-ppl/funsor)
 
 [lebigot/uncertainties: Transparent calculations with uncertainties on the quantities involved (aka "error propagation"); calculation of derivatives.](https://github.com/lebigot/uncertainties/)
+
 ### <span id="head39">3.4.9. Casual</span>
 
 [zenna/Omega.jl: Causal, Higher-Order, Probabilistic Programming](https://github.com/zenna/Omega.jl)
@@ -1379,7 +1373,6 @@ Survey[JuliaPDE/SurveyofPDEPackages: Survey of the packages of the Julia ecosyst
 
 [JuliaFEM](https://github.com/JuliaFEM)
 
-
 pseudospectral[FourierFlows/FourierFlows.jl: Tools for building fast, hackable, pseudospectral partial differential equation solvers on periodic domains](https://github.com/FourierFlows/FourierFlows.jl)
 
 Python：
@@ -1388,10 +1381,9 @@ Python：
 
 [FEniCS Project](https://github.com/FEniCS)
 
-
 #### Integral Differential Equation
-[TSGut/SparseVolterraExamples.jl: A number of examples built on the method described in https://arxiv.org/abs/2005.06081 for solving nonlinear and integro-differential Volterra equations](https://github.com/TSGut/SparseVolterraExamples.jl)
 
+[TSGut/SparseVolterraExamples.jl: A number of examples built on the method described in https://arxiv.org/abs/2005.06081 for solving nonlinear and integro-differential Volterra equations](https://github.com/TSGut/SparseVolterraExamples.jl)
 
 [JoshKarpel/idesolver: A general-purpose numerical integro-differential equation solver](https://github.com/JoshKarpel/idesolver)
 
@@ -1569,7 +1561,6 @@ SGtSNEpi.jl: backend: Makie.jl
 
 Python:
 
-
 [projectmesa/mesa: Mesa is an agent-based modeling framework in Python](https://github.com/projectmesa/mesa)
 
 Network
@@ -1651,8 +1642,8 @@ Python:
 
 [sympy/sympy: A computer algebra system written in pure Python](https://github.com/sympy/sympy)
 
-
 ## FFTW
+
 [JuliaMath/FFTW.jl: Julia bindings to the FFTW library for fast Fourier transforms](https://github.com/JuliaMath/FFTW.jl)
 
 ## <span id="head70">4.3. Roots, Intepolations</span>
@@ -1672,7 +1663,6 @@ All[SciML/NonlinearSolve.jl: High-performance and differentiation-enabled nonlin
 [JuliaNLSolvers/NLsolve.jl: Julia solvers for systems of nonlinear equations and mixed complementarity problems](https://github.com/JuliaNLSolvers/NLsolve.jl)
 
 [sglyon/MINPACK.jl: Wrapper for cminpack multivariate root finding routines](https://github.com/sglyon/MINPACK.jl)
-
 
 [s-baumann/FixedPointAcceleration.jl: Fixed Point Acceleration for Julia](https://github.com/s-baumann/FixedPointAcceleration.jl)
 
