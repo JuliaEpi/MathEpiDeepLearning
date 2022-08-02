@@ -10,6 +10,11 @@ sidebar_position: 1
 
 Julia: [epirecipes/sir-julia: Various implementations of the classical SIR model in Julia](https://github.com/epirecipes/sir-julia)
 
+Nice[Tools](https://canmod.net/tools)
+
+[Epiforecasts](https://github.com/epiforecasts)
+
+
 R:
 
 Review [cran-task-views/Epidemiology: CRAN Task View: Epidemiology](https://github.com/cran-task-views/Epidemiology)
@@ -31,6 +36,9 @@ Review [cran-task-views/Epidemiology: CRAN Task View: Epidemiology](https://gith
 [R Epidemics Consortium](https://github.com/reconhub)
 
 [Oxford Big Data Institute: Pathogen Dynamics Group](https://github.com/BDI-pathogens)
+
+
+[Mac-Theobio](https://github.com/mac-theobio)
 # Compartment Models
 
 Python:
@@ -140,6 +148,8 @@ Julia:
 
 [sbfnk/epimixr: Epidemiological analysis using social mixing matrices](https://github.com/sbfnk/epimixr)
 
+[R Epidemics Consortium](https://github.com/reconhub)
+
 # Rt
 
 [ResearchLuxembourg/restimator: Real time estimation of epidemic Effective Reproduction Number for Luxembourg](https://github.com/ResearchLuxembourg/restimator)
@@ -151,3 +161,6 @@ Julia:
 [mrc-ide/EpiEstim: A tool to estimate time varying instantaneous reproduction number during epidemics](https://github.com/mrc-ide/EpiEstim)
 
 [lo-hfk/epyestim: Python package to estimate the time-varying effective reproduction number of an epidemic from reported case numbers](https://github.com/lo-hfk/epyestim)
+
+
+[davidearn/epigrowthfit: Estimating Epidemic Growth Rates](https://github.com/davidearn/epigrowthfit)

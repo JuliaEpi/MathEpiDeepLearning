@@ -112,6 +112,8 @@ Julia:
 Eig:
 [JuliaLinearAlgebra/Arpack.jl: Julia Wrappers for the arpack-ng Fortran library](https://github.com/JuliaLinearAlgebra/Arpack.jl)
 
+[dgleich/GenericArpack.jl: A pure Julia translation of the Arpack library for eigenvalues and eigenvectors but for any numeric types. (Symmetric only right now)](https://github.com/dgleich/GenericArpack.jl)
+
 [JuliaLinearAlgebra/ArnoldiMethod.jl: Implicitly Restarted Arnoldi Method, natively in Julia](https://github.com/JuliaLinearAlgebra/ArnoldiMethod.jl)
 
 [Jutho/KrylovKit.jl: Krylov methods for linear problems, eigenvalues, singular values and matrix functions](https://github.com/Jutho/KrylovKit.jl)
