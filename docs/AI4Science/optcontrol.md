@@ -5,38 +5,36 @@ sidebar_position: 7
 
 Some information are from [jkoendev/optimal-control-literature-software: List of literature and software for optimal control and numerical optimization.](https://github.com/jkoendev/optimal-control-literature-software)
 
-# Literature and list of software packages for optimal control
-
-The list includes resources to the following topics: Automatic/algorithmic differentiation, optimal control, model-predictive control (MPC), numerical optimization, modeling for control.  The list will be updated regularly, create a pull request if you'd like to contribute.
-
-## Literature
-
-### Lectures
-
-* Lecture notes: Numerical Optimal Control by Prof. Moritz Diehl [[course](https://www.syscop.de/teaching/ss2017/numerical-optimal-control)] [[pdf](https://www.syscop.de/files/2017ss/NOC/script/book-NOCSE.pdf)]
-* Tutorial series by Metthew Kelly, [[web](http://www.matthewpeterkelly.com/tutorials/index.html)]
-* Liberzon, Daniel. Calculus of variations and optimal control theory: a concise introduction. Princeton University Press, 2011. [[pre-print](http://liberzon.csl.illinois.edu/teaching/cvoc.pdf)]
-* Videos of lectures at the University of Florida from the Spring of 2012. Dr. Anil V. Rao. [[web](http://www.anilvrao.com/Optimal-Control-Videos.html)]
-
-### Books
-
-* Bertsekas, Dimitri P., et al. Dynamic programming and optimal control. Vol. 1. No. 2. Belmont, MA: Athena scientific, 1995.
-* Betts, J., Practical Methods for Optimal Control and Estimation Using Nonlinear Programming, SIAM, 2010
-* Biegler, L. T., Nonlinear Programming, SIAM, 2010
-* Model Predictive Control: Theory, Computation, and Design, 2nd Edition by Rawlings, Mayne, Diehl [[web](https://sites.engineering.ucsb.edu/~jbraw/mpc/)] [[pdf](https://sites.engineering.ucsb.edu/~jbraw/mpc/MPC-book-2nd-edition-2nd-printing.pdf)]
+# List of software packages for optimal control
 
 ### Survey papers
 
 * F. Topputo and C. Zhang, “Survey of Direct Transcription for Low-Thrust Space Trajectory Optimization with Applications,” Abstract and Applied Analysis, vol. 2014, Article ID 851720, 15 pages, 2014. [[edited](https://www.hindawi.com/journals/aaa/2014/851720/)
 
 ## Software
+Nice[Hans D. Mittelmann](http://plato.asu.edu/)
+
 [mintOC](https://mintoc.de/index.php/Main_Page)
+
+(good) Python, Matlab, C[acados/acados: Fast and embedded solvers for nonlinear optimal control](https://github.com/acados/acados)
+
+(pass) AMPL with TACO extension (commercial)
+
+(pass) Forces (commercial)
+
+(pass)  gPROMS (commercial)
+
+(pass)  Mujoco, domain specific for robotics/contact, simulator (commercial)
+
+(pass) Optimica, Dymola (commercial)
+  
+(pass) PROPT (commercial)
+
 ### Python
 
-[BYU-PRISM/GEKKO: GEKKO Python for Machine Learning and Dynamic Optimization](https://github.com/BYU-PRISM/GEKKO)
+(good)[BYU-PRISM/GEKKO: GEKKO Python for Machine Learning and Dynamic Optimization](https://github.com/BYU-PRISM/GEKKO)
 
-
-[casadi/casadi: CasADi is a symbolic framework for numeric optimization implementing automatic differentiation in forward and reverse modes on sparse matrix-valued computational graphs. It supports self-contained C-code generation and interfaces state-of-the-art codes such as SUNDIALS, IPOPT etc. It can be used from C++, Python or Matlab/Octave.](https://github.com/casadi/casadi)
+(good)[casadi/casadi: CasADi is a symbolic framework for numeric optimization implementing automatic differentiation in forward and reverse modes on sparse matrix-valued computational graphs. It supports self-contained C-code generation and interfaces state-of-the-art codes such as SUNDIALS, IPOPT etc. It can be used from C++, Python or Matlab/Octave.](https://github.com/casadi/casadi)
 
 [ethz-adrl/control-toolbox: The Control Toolbox - An Open-Source C++ Library for Robotics, Optimal and Model Predictive Control](https://github.com/ethz-adrl/control-toolbox)
 
@@ -53,9 +51,15 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
 
 
 ### C++
-[PSOPT/psopt: PSOPT Optimal Control Software](https://github.com/PSOPT/psopt)
+Good[PSOPT/psopt: PSOPT Optimal Control Software](https://github.com/PSOPT/psopt)
+
+
+Very Good[Download – Bocop – The optimal control solver](https://www.bocop.org/download/)
 
 [loco-3d/crocoddyl: Crocoddyl is an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms](https://github.com/loco-3d/crocoddyl)
+
+
+towr, domain specific for legged robots [[github](https://github.com/ethz-adrl/towr)]
 ### Julia
 [infiniteopt/InfiniteOpt.jl: An intuitive modeling interface for infinite-dimensional optimization problems.](https://github.com/infiniteopt/InfiniteOpt.jl)
 
@@ -72,6 +76,8 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
 [baggepinnen/DifferentialDynamicProgramming.jl: A package for solving Differential Dynamic Programming and trajectory optimization problems.](https://github.com/baggepinnen/DifferentialDynamicProgramming.jl)
 
 ### Matlab
+ICLOCS2 [[github](https://github.com/ImperialCollegeLondon/ICLOCS/)] [[web](http://www.ee.ic.ac.uk/ICLOCS/)]
+
 DIDO
 
 GPOCS2[Home | GPOPS-II - Next-Generation Optimal Control Software](https://www.gpops2.com/)
@@ -81,63 +87,10 @@ GPOCS2[Home | GPOPS-II - Next-Generation Optimal Control Software](https://www.g
 [nurkanovic/nosnoc: NOSNOC is an open source software package for NOnSmooth Numerical Optimal Control.](https://github.com/nurkanovic/nosnoc)
 
 [OpenOCL/OpenOCL: Open Optimal Control Library for Matlab. Trajectory Optimization and non-linear Model Predictive Control (MPC) toolbox.](https://github.com/OpenOCL/OpenOCL)
-### High level optimal control modeling languages and optimal control software
 
-* Acado [[github](https://github.com/acado/acado)] [[web](http://acado.github.io/)]
-* acados [[github](https://github.com/acados/acados)] [[web](http://acados.org/)]
-* BOCOP [[web](https://www.bocop.org/)]
-* Control toolbox, domain specific for robotics [[bitbucket](https://bitbucket.org/adrlab/ct/wiki/Home)]
-* Dymos: Open-source Optimal Control for Multidisciplinary Systems [[github](https://github.com/OpenMDAO/dymos)]
-* ICLOCS2 [[github](https://github.com/ImperialCollegeLondon/ICLOCS/)] [[web](http://www.ee.ic.ac.uk/ICLOCS/)]
-* Modelica with JModelica [[web](https://jmodelica.org/)]
-* OpenOCL [[github](https://github.com/OpenOCL/OpenOCL)] [[web](https://openocl.org/)]
-* PSOPT [[github](https://github.com/PSOPT/psopt)] [[web](http://www.psopt.org/)]
-* Pyomo with .DAE extension [[github](https://github.com/Pyomo/pyomo)] [[web](http://www.pyomo.org/)]
-* towr, domain specific for legged robots [[github](https://github.com/ethz-adrl/towr)]
-* AMPL with TACO extension (commercial)
-* DIDO (commercial)
-* Forces (commercial)
-* GPOPS2 (commercial)
-* gPROMS (commercial)
-* Mujoco, domain specific for robotics/contact, simulator (commercial)
-* Optimica, Dymola (commercial)
-* PROPT (commercial)
+[MatthewPeterKelly/OptimTraj: A trajectory optimization library for Matlab](https://github.com/MatthewPeterKelly/OptimTraj)
 
-### High level numerical optimization modeling languages
-
-* CasADi [[github](https://github.com/casadi/casadi)] [[web](https://web.casadi.org/)]
-* CVX, convex [[web](http://cvxr.com/cvx/)]
-* Pyomo [[github](https://github.com/Pyomo/pyomo)] [[web](http://www.pyomo.org/)]
-* Yalmip [[github](https://github.com/yalmip/YALMIP)] [[web](https://yalmip.github.io/)]
-
-### Numerical optimization solver
-
-#### Non-linear programming
-
-* Ipopt [[github](https://github.com/coin-or/Ipopt)]
-* CONOPT (commercial)
-* Forces (commercial)
-* KNITRO (commercial)
-* Matlab fmincon (commercial)
-* Snopt (commercial)
-* WORHP (commercial)
-
-#### Linear, quadratic, convex programming
-
-* ECOS [[github](https://github.com/embotech/ecos)]
-* hpipm [[github](https://github.com/giaf/hpipm)]
-* Sedumi [[github](https://github.com/sqlp/sedumi)]
-* qpDUNES [[github](https://github.com/jfrasch/qpDUNES)]
-* qpOASES [[coin-or](https://projects.coin-or.org/qpOASES)]
-* SDPT3 [[web](http://www.math.nus.edu.sg/~mattohkc/sdpt3.html)]
-* CPLEX (commercial)
-* Gruobi (commercial)
-* MINOS (commercial)
-* Mosek (commercial)
-
-#### Integer, mixed-integer programming
-
-* Bonmin
+[acado/acado: ACADO Toolkit is a software environment and algorithm collection for automatic control and dynamic optimization. It provides a general framework for using a great variety of algorithms for direct optimal control, including model predictive control, state and parameter estimation and robust optimization.](https://github.com/acado/acado)
 
 ## Automatic differentiation
 
@@ -146,10 +99,6 @@ GPOCS2[Home | GPOPS-II - Next-Generation Optimal Control Software](https://www.g
 * CppADCodeGen [[github](https://github.com/joaoleal/CppADCodeGen)]
 * JuliaDiff [[github](https://github.com/JuliaDiff/)] [[web](http://www.juliadiff.org/)]
 
-## Other material
-
-* Summer School on Numerical Optimization Software (includes a long list of solvers in the slides, see repository), Hans D. Mittelmann, Moritz Diehl [[web](https://www.syscop.de/teaching/2016/summer-school-on-numerical-optimization-software)] [[repository](https://gitlab.syscop.de/teaching/NOS_public)]
-* Decision tree, benchmarks for optimization software, Hans D. Mittelmann [[web](http://plato.asu.edu/)]
 
 
 
